@@ -1,0 +1,63 @@
+,resource_type,id,name,company,website,location,public_access,logo_url,description,text,attr:Ex_Num,attr:ex_name,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],parent_concept_urls[0],map_type[0],map_from_concept_id[0],map_to_concept_id[0],map_type,to_concept_url,from_concept_url,attr:extra_names,collection_type,immutable,jurisdiction[1],jurisdiction[2],collection_url,data:expressions,name_type,name_locale
+0,Concept,0,Sem registro no sistema de informação de origem,,,por,,, ,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao, ,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,1,Deltóide Direito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,2,Deltóide Esquerdo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,3,Vasto Lateral da Coxa Direita,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,4,Vasto Lateral da Coxa Esquerda,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,5,Ventroglúteo Direito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,6,Ventroglúteo Esquerdo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,7,Glúteo (descontinuado),,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,8,Ferimento Local,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,9,Boca,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10,Dorso Glúteo Direito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,11,Dorso Glúteo Esquerdo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,12,Face Externa Inferior do Braço Direito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,13,Face Externa Inferior do Braço Esquerdo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,14,Face Externa Superior do Braço Direito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,15,Face Externa Superior do Braço Esquerdo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,16,Rede Venosa,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,17,Face Anterolateral Externa da Coxa Direita,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,18,Face Anterolateral Externa da Coxa Esquerda,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,19,Face Anterolateral Externa do Braço Direito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,20,Face Anterolateral Externa do Braço Esquerdo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,21,Face Anterolateral Externa do Antebraço Direito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,22,Face Anterolateral Externa do Antebraço Esquerdo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,99,Outro,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text, Misc,BRLocalAplicacao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
