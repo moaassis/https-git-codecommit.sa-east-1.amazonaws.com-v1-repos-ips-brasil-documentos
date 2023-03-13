@@ -1,0 +1,153 @@
+{
+    "resourceType": "Bundle",
+    "meta": {
+        "lastUpdated": "2021-09-06T14:59:51.283-03:00"
+    },
+    "identifier": {
+        "system": "http://www.saude.gov.br/fhir/r4/NamingSystem/BRRNDS-10302910000182A",
+        "value": "8184d7a0-d6d3-4a80-9a41-cca3466f5453"
+    },
+    "type": "document",
+    "timestamp": "2022-05-23T01:58:10-03:00",
+    "entry": [
+        {
+            "fullUrl": "urn:uuid:transient-0",
+            "resource": {
+                "resourceType": "Composition",
+                "meta": {
+                    "profile": [
+                        "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRRegistroImunobiologicoAdministradoCarga-2.0"
+                    ]
+                },
+                "status": "final",
+                "type": {
+                    "coding": [
+                        {
+                            "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRTipoDocumento",
+                            "code": "RIA"
+                        }
+                    ]
+                },
+                "subject": {
+                    "identifier": {
+                        "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+                        "value": "712176901347489"
+                    }
+                },
+                "date": "2021-09-17T14:32:44-03:00",
+                "author": [
+                    {
+                        "identifier": {
+                            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstabelecimentoSaude-1.0",
+                            "value": "2005654"
+                        }
+                    }
+                ],
+                "title": "Registro de Imunobiologico Administrado Carga",
+                "section": [
+                    {
+                        "entry": [
+                            {
+                                "reference": "urn:uuid:transient-1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "fullUrl": "urn:uuid:transient-1",
+            "resource": {
+                "resourceType": "Immunization",
+                "meta": {
+                    "profile": [
+                        "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRImunobiologicoAdministradoCarga-2.0"
+                    ]
+                },
+                "status": "completed",
+                "vaccineCode": {
+                    "coding": [
+                        {
+                            "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRImunobiologico",
+                            "code": "9"
+                        }
+                    ]
+                },
+                "patient": {
+                    "identifier": {
+                        "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+                        "value": "712176901347489"
+                    }
+                },
+                "occurrenceDateTime": "2020-01-01",
+                "manufacturer": {
+                    "identifier": {
+                        "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRFabricantePNI",
+                        "value": "142"
+                    },
+                    "display": "Display of 8AHB1Z0ZDZ"
+                },
+                "lotNumber": "IBNWV431ET",
+                "expirationDate": "2020-09-01",
+                "site": {
+                    "coding": [
+                        {
+                            "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRLocalAplicacao",
+                            "code": "7"
+                        }
+                    ]
+                },
+                "route": {
+                    "coding": [
+                        {
+                            "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRViaAdministracao",
+                            "code": "10885"
+                        }
+                    ]
+                },
+                "performer": [
+                    {
+                        "actor": {
+                            "reference": "Practitioner/980016287706436"
+                        }
+                    }
+                ],
+                "protocolApplied": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstrategiaVacinacao-1.0",
+                                "valueCodeableConcept": {
+                                    "coding": [
+                                        {
+                                            "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BREstrategiaVacinacao",
+                                            "code": "10"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstrategiaVacinacaoPesquisa-1.0",
+                                "extension": [
+                                    {
+                                        "url": "numeroProtocoloEstudoANVISA",
+                                        "valueString": "GU1AMT9CYR"
+                                    },
+                                    {
+                                        "url": "numeroVersaoProtocoloEstudo",
+                                        "valueString": "F3D1U354V6"
+                                    },
+                                    {
+                                        "url": "numeroRegistroVacinaAnvisa",
+                                        "valueString": "WWZZJJWIBF"
+                                    }
+                                ]
+                            }
+                        ],
+                        "doseNumberString": "1"
+                    }
+                ]
+            }
+        }
+    ]
+}
