@@ -1,0 +1,53 @@
+,resource_type,id,name,company,website,location,public_access,logo_url,description,text,attr:Ex_Num,attr:ex_name,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],parent_concept_urls[0],map_type[0],map_from_concept_id[0],map_to_concept_id[0],map_type,to_concept_url,from_concept_url,attr:extra_names,collection_type,immutable,jurisdiction[1],jurisdiction[2],collection_url,data:expressions,name_type,name_locale
+0,Concept,10002198,Anafilaxia,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Anafilaxia é uma reação alérgica aguda e grave que começa subitamente, entre menos de um minuto e até algumas horas após a exposição a um alérgeno, ao qual a pessoa desenvolveu hipersensibilidade, e que pode ser fatal.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10002424,Angioedema,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Edema súbito da derme, tecido subcutâneo, mucosa e tecido submucoso.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10003246,Artrite,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Inflamação numa ou mais articulações.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10003553,Asma,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Asma é uma doença inflamatória das vias aéreas.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10006482,Broncoespasmo,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Estreitamento do lúmen brônquico, em consequência da contração da musculatura brônquica.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10010741,Conjuntivite,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Inflamação da conjuntiva.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10003639,Dermatite atópica,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Caracteriza-se pela presença de erupções pruriginosas e com crosta.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10012442,Dermatite de contato,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Reação inflamatória que ocorre devido ao contato da pele com um agente irritante.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10012735,Diarréia,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Evacuação de fezes líquidas de forma frequente e sem controle, podendo ser aguda ou crônica",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10013968,Dispnéia,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,É uma sensação de dificuldade em respirar.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10014184,Eczema,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Tipo de inflamação cutânea.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10023845,Edema de Glote,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Edema súbito da glote que impede a passagem de ar.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10015218,Eritema Multiforme,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Reação imunológica da pele e mucosas.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10012441,Exantema bolhoso,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Erupção cutânea constituída por bolhas.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10037868,Exantema maculopapular,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Erupção cutânea que se caracteriza pelo aparecimento de manchas e pápulas eritematosas.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10034972,Fotossensibilidade,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Queimaduras ou outras reações cutâneas desencadeadas pela exposição aos raios ultravioleta.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10028116,Mucosite,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,A mucosite é uma inflamação da mucosa do tubo digestivo.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10029117,Nefrite,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Processo inflamatório localizado ao rim.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10007617,Parada Cardiorespiratória,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Interrupção súbita da circulação sanguínea e dos movimentos respiratórios.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10037087,Prurido,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Sensação de irritação intensa da pele, que induz a coceira.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10039083,Rinite,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,Irritação e inflamação crônica ou aguda da mucosa nasal.,,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10073508,Síndrome de DRESS,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Reação adversa sistêmica a um fármaco, consistindo em erupções cutâneas graves, febre, adenopatias, hepatite e alterações hematológicas (hipereosinofilia e linfocitose atípica).",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10044223,Síndrome de Lyell,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Lesão dermatológica rara, de extrema gravidade, caracterizada pelo aparecimento súbito de febre elevada, sinais de toxicidade sistémica e exfoliação mucocutânea intensa.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10042033,Síndrome de Stevens-Johnson,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Erupções cutâneas generalizadas, febre, mucosite oral e conjuntivite purulenta graves.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10011224,Tosse,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Resposta reflexa ou voluntária do organismo, resultante de irritação das vias áreas e que funciona como uma contração espasmódica e normalmente repetitiva, do tórax.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10046735,Urticária,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Tipo de erupção cutânea, pruriginosa, caracterizada por placas salientes, que se assemelham às produzidas pela urtiga.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,10047115,Vasculite,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,"Inflamação vascular, que pode estender-se ao endotélio, causando estenose e/ou oclusão.",,,,,,,,,,,,,,,,,,Fully Specified,por
+0,Concept,47700,Vômito,,,por,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BRMedDRA,É a expulsão ativa do conteúdo gástrico pela boca.,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,,,,,,,,,,,,,,,,
