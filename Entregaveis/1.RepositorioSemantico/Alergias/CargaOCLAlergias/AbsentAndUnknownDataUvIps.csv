@@ -1,0 +1,40 @@
+resource_type,id,name,company,website,location,public_access,logo_url,description,text,attr:Lvl,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],name_type,name_locale
+Concept,no-allergy-info,No information about allergies,,,eng,,, ,,1,,HL7,Organization,,,,, ,,,,,,,,,,,,,,,,,, ,Text,Misc,AbsentAndUnknownDataUvIps,There is no information available regarding the subject's allergy conditions.,,,,Fully Specified,eng
+Concept,no-known-allergies,No known allergies,,,eng,,, ,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,, ,Text,Misc,AbsentAndUnknownDataUvIps,The subject has no known allergy conditions.,,,,Fully Specified,eng
+Concept,no-known-medication-allergies,No known medication allergies,,,eng,,,,,2,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,, ,Text,Misc,AbsentAndUnknownDataUvIps,The subject has no known medication allergy conditions.,,,,Fully Specified,eng
+Concept,no-known-environmental-allergies,No known environmental allergies,,,eng,,,,,2,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,The subject has no known environmental allergy conditions.,,,,Fully Specified,eng
+Concept,no-known-food-allergies,No known food allergies,,,eng,,,,,2,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,The subject has no known food allergy conditions.,,,,Fully Specified,eng
+Concept,no-device-info,No information about devices,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,There is no information available regarding implanted or external devices for the subject.,,,,Fully Specified,eng
+Concept,no-known-devices,No known devices in use,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,"There are no devices known to be implanted in or used by the subject that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,,,Fully Specified,eng
+Concept,no-immunization-info,No information about immunizations,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,The subject's history of previous immunizations is not known.,,,,Fully Specified,eng
+Concept,no-known-immunizations,No known immunizations,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,"There is no history of previous immunizations for the subject that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,,,Fully Specified,eng
+Concept,no-medication-info,No information about medications,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,There is no information available about the subject's medication use or administration.,,,,Fully Specified,eng
+Concept,no-known-medications,No known medications,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,"There are no medications for the subject that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,,,Fully Specified,eng
+Concept,no-problem-info,No information about problems,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,There is no information available about the subject's health problems or disabilities.,,,,Fully Specified,eng
+Concept,no-known-problems,No known problems,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,"The subject is not known to have any health problems or disabilities that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,,,Fully Specified,eng
+Concept,no-procedure-info,No information about past history of procedures,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,There is no information available about the subject's past history of procedures.,,,,Fully Specified,eng
+Concept,no-known-procedures,No known procedures,,,eng,,,,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,AbsentAndUnknownDataUvIps,"The subject has no history of procedures that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,,,Fully Specified,eng
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Misc,br-via-administracao,,,,,
