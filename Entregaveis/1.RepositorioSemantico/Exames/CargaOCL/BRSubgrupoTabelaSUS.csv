@@ -1,0 +1,181 @@
+resource_type,id,name,company,attr:group,website,location,public_access,logo_url,description,text,attr:ingredientes_codigoObm,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],parent_concept_urls[0],map_type[0],map_from_concept_id[0],map_to_concept_id[0],map_type,to_concept_url,from_concept_url,attr:extra_names,collection_type,immutable,jurisdiction[1],jurisdiction[2],collection_url,data:expressions,name_type,name_locale
+Concept,0101,Ações coletivas/individuais em saúde,,01,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS, ,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0102,Vigilância em saúde,,01,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0201,Coleta de material,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0202,Diagnóstico em laboratório clínico,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0203,Diagnóstico por anatomia patológica e citopatologia,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0204,Diagnóstico por radiologia,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0205,Diagnóstico por ultrasonografia,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0206,Diagnóstico por tomografia,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0207,Diagnóstico por ressonância magnética,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0208,Diagnóstico por medicina nuclear in vivo,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0209,Diagnóstico por endoscopia,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0210,Diagnóstico por radiologia intervencionista,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0211,Métodos diagnósticos em especialidades,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0212,Diagnóstico e procedimentos especiais em hemoterapia,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0213,Diagnóstico em vigilância epidemiológica e ambiental,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0214,Diagnóstico por teste rápido,,02,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0301,Consultas / Atendimentos / Acompanhamentos,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0302,Fisioterapia,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0303,Tratamentos clínicos (outras especialidades),,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0304,Tratamento em oncologia,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0305,Tratamento em nefrologia,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0306,Hemoterapia,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0307,Tratamentos odontológicos,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0308,"Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas",,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0309,Terapias especializadas,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0310,Parto e nascimento,,03,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0401,"Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa",,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0402,Cirurgia de glândulas endócrinas,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0403,Cirurgia do sistema nervoso central e periférico,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0404,"Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço",,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0405,Cirurgia do aparelho da visão,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0406,Cirurgia do aparelho circulatório,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0407,"Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal",,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0408,Cirurgia do sistema osteomuscular,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0409,Cirurgia do aparelho geniturinário,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0410,Cirurgia de mama,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0411,Cirurgia obstétrica,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0412,Cirurgia torácica,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0413,Cirurgia reparadora,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0414,Bucomaxilofacial,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0415,Outras cirurgias,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0416,Cirurgia em oncologia,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0417,Anestesiologia,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0418,Cirurgia em nefrologia,,04,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0501,"Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante",,05,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0502,Avaliação de morte encefálica,,05,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0503,Ações relacionadas à doação de orgãos e tecidos para transplante,,05,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0504,Processamento de tecidos para transplante,,05,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0505,"Transplante de orgãos, tecidos e células",,05,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0506,Acompanhamento e intercorrências no pré e pós-transplante,,05,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0601,Medicamentos de dispensação excepcional,,06,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0602,Medicamentos estratégicos,,06,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0603,Medicamentos de âmbito hospitalar e urgência,,06,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0604,Componente Especializado da Assitencia Farmaceutica,,06,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0701,"Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico",,07,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0702,"Órteses, próteses e materiais especiais relacionados ao ato cirúrgico",,07,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0801,Ações relacionadas ao estabelecimento,,08,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0802,Ações relacionadas ao atendimento,,08,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,0803,Autorização / Regulação,,08,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,,BRSubgrupoTabelaSUS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,
+ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,6895 - ·lcool etÌlico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Alfavestronidase,,506485 - alfavestronidase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"7021 - amoxicilina,7653 - clavulanato de pot·ssio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
