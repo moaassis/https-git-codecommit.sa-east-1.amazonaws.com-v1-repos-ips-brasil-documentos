@@ -1,0 +1,56 @@
+https://build.fhir.org/ig/HL7/fhir-ips/ValueSet-healthcare-professional-roles-uv-ips.html
+
+
+HealthcareProfessionalRolesUvIps
+
+coleção - http://hl7.org/fhir/uv/ips/ValueSet/healthcare-professional-roles-uv-ips
+
+CodeSystem - urn:oid:2.16.840.1.113883.2.9.6.2.7 version ISCO-08
+
+ode	System	Display - English (English, en)
+  2	urn:oid:2.16.840.1.113883.2.9.6.2.7	Professionals
+  22	urn:oid:2.16.840.1.113883.2.9.6.2.7	Health Professionals
+  221	urn:oid:2.16.840.1.113883.2.9.6.2.7	Medical Doctors
+  2211	urn:oid:2.16.840.1.113883.2.9.6.2.7	Generalist Medical Practitioners
+  2212	urn:oid:2.16.840.1.113883.2.9.6.2.7	Specialist Medical Practitioners
+  222	urn:oid:2.16.840.1.113883.2.9.6.2.7	Nursing and Midwifery Professionals
+  2221	urn:oid:2.16.840.1.113883.2.9.6.2.7	Nursing Professionals
+  2222	urn:oid:2.16.840.1.113883.2.9.6.2.7	Midwifery Professionals
+  223	urn:oid:2.16.840.1.113883.2.9.6.2.7	Traditional and Complementary Medicine Professionals
+  2230	urn:oid:2.16.840.1.113883.2.9.6.2.7	Traditional and Complementary Medicine Professionals
+  224	urn:oid:2.16.840.1.113883.2.9.6.2.7	Paramedical Practitioners
+  2240	urn:oid:2.16.840.1.113883.2.9.6.2.7	Paramedical Practitioners
+  225	urn:oid:2.16.840.1.113883.2.9.6.2.7	Veterinarians
+  2250	urn:oid:2.16.840.1.113883.2.9.6.2.7	Veterinarians
+  226	urn:oid:2.16.840.1.113883.2.9.6.2.7	Other Health Professionals
+  2261	urn:oid:2.16.840.1.113883.2.9.6.2.7	Dentists
+  2262	urn:oid:2.16.840.1.113883.2.9.6.2.7	Pharmacists
+  2263	urn:oid:2.16.840.1.113883.2.9.6.2.7	Environmental and Occupational Health and Hygiene Professionals
+  2264	urn:oid:2.16.840.1.113883.2.9.6.2.7	Physiotherapists
+  2265	urn:oid:2.16.840.1.113883.2.9.6.2.7	Dieticians and Nutritionists
+  2266	urn:oid:2.16.840.1.113883.2.9.6.2.7	Audiologists and Speech Therapists
+  2267	urn:oid:2.16.840.1.113883.2.9.6.2.7	Optometrists and Ophthalmic Opticians
+  2269	urn:oid:2.16.840.1.113883.2.9.6.2.7	Health Professionals Not Elsewhere Classified
+  32	urn:oid:2.16.840.1.113883.2.9.6.2.7	Health Associate Professionals
+  321	urn:oid:2.16.840.1.113883.2.9.6.2.7	Medical and Pharmaceutical Technicians
+  3211	urn:oid:2.16.840.1.113883.2.9.6.2.7	Medical Imaging and Therapeutic Equipment Technicians
+  3212	urn:oid:2.16.840.1.113883.2.9.6.2.7	Medical and Pathology Laboratory Technicians
+  3213	urn:oid:2.16.840.1.113883.2.9.6.2.7	Pharmaceutical Technicians and Assistants
+  3214	urn:oid:2.16.840.1.113883.2.9.6.2.7	Medical and Dental Prosthetic Technicians
+  322	urn:oid:2.16.840.1.113883.2.9.6.2.7	Nursing and Midwifery Associate Professionals
+  3221	urn:oid:2.16.840.1.113883.2.9.6.2.7	Nursing Associate Professionals
+  3222	urn:oid:2.16.840.1.113883.2.9.6.2.7	Midwifery Associate Professionals
+  323	urn:oid:2.16.840.1.113883.2.9.6.2.7	Traditional and Complementary Medicine Associate Professionals
+  3230	urn:oid:2.16.840.1.113883.2.9.6.2.7	Traditional and Complementary Medicine Associate Professionals
+  324	urn:oid:2.16.840.1.113883.2.9.6.2.7	Veterinary Technicians and Assistants
+  3240	urn:oid:2.16.840.1.113883.2.9.6.2.7	Veterinary Technicians and Assistants
+  325	urn:oid:2.16.840.1.113883.2.9.6.2.7	Other Health Associate Professionals
+  3251	urn:oid:2.16.840.1.113883.2.9.6.2.7	Dental Assistants and Therapists
+  3252	urn:oid:2.16.840.1.113883.2.9.6.2.7	Medical Records and Health Information Technicians
+  3253	urn:oid:2.16.840.1.113883.2.9.6.2.7	Community Health Workers
+  3254	urn:oid:2.16.840.1.113883.2.9.6.2.7	Dispensing Opticians
+  3255	urn:oid:2.16.840.1.113883.2.9.6.2.7	Physiotherapy Technicians and Assistants
+  3256	urn:oid:2.16.840.1.113883.2.9.6.2.7	Medical Assistants
+  3257	urn:oid:2.16.840.1.113883.2.9.6.2.7	Environmental and Occupational Health Inspectors and Associates
+  3258	urn:oid:2.16.840.1.113883.2.9.6.2.7	Ambulance Workers
+  3259	urn:oid:2.16.840.1.113883.2.9.6.2.7	Health Associate Professionals Not Elsewhere Classified
