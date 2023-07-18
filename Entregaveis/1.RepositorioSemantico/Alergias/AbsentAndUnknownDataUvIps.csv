@@ -1,0 +1,40 @@
+resource_type,id,name,company,website,location,public_access,logo_url,description,text,attr:Lvl,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],name_type,name_locale
+Concept,no-allergy-info,No information about allergies,,,eng,,,There is no information available regarding the subject's allergy conditions.,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhuma informação sobre alergias,,Fully Specified,eng
+Concept,no-known-allergies,No known allergies,,,eng,,,The subject has no known allergy conditions.,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhuma alergia conhecida,,Fully Specified,eng
+Concept,no-known-medication-allergies,No known medication allergies,,,eng,,,The subject has no known medication allergy conditions.,,2,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhuma alergia medicamentosa conhecida,,Fully Specified,eng
+Concept,no-known-environmental-allergies,No known environmental allergies,,,eng,,,The subject has no known environmental allergy conditions.,,2,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhuma alergia ambiental conhecida,,Fully Specified,eng
+Concept,no-known-food-allergies,No known food allergies,,,eng,,,The subject has no known food allergy conditions.,,2,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Sem alergias alimentares conhecidas,,Fully Specified,eng
+Concept,no-device-info,No information about devices,,,eng,,,There is no information available regarding implanted or external devices for the subject.,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhuma informação sobre os dispositivos,,Fully Specified,eng
+Concept,no-known-devices,No known devices in use,,,eng,,,"There are no devices known to be implanted in or used by the subject that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhum dispositivo conhecido em uso,,Fully Specified,eng
+Concept,no-immunization-info,No information about immunizations,,,eng,,,The subject's history of previous immunizations is not known.,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhuma informação sobre imunizações,,Fully Specified,eng
+Concept,no-known-immunizations,No known immunizations,,,eng,,,"There is no history of previous immunizations for the subject that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhuma imunização conhecida,,Fully Specified,eng
+Concept,no-medication-info,No information about medications,,,eng,,,There is no information available about the subject's medication use or administration.,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Sem informações sobre medicamentos,,Fully Specified,eng
+Concept,no-known-medications,No known medications,,,eng,,,"There are no medications for the subject that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhum medicamento conhecido,,Fully Specified,eng
+Concept,no-problem-info,No information about problems,,,eng,,,There is no information available about the subject's health problems or disabilities.,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Sem informações sobre problemas,,Fully Specified,eng
+Concept,no-known-problems,No known problems,,,eng,,,"The subject is not known to have any health problems or disabilities that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhum problema conhecido,,Fully Specified,eng
+Concept,no-procedure-info,No information about past history of procedures,,,eng,,,There is no information available about the subject's past history of procedures.,,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Sem informações sobre histórico de procedimentos anteriores,,Fully Specified,eng
+Concept,no-known-procedures,No known procedures,,,eng,,,"The subject has no history of procedures that have to be reported in this record. This can mean either that there are none known, or that those known are not relevant for the purpose of this record.",,1,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,absent-unknown-uv-ips,,,Nenhum procedimento conhecido,,Fully Specified,eng
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,absent-unknown-uv-ips,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
