@@ -1,0 +1,7 @@
+Bom dia Elivan.
+
+Conforme informado anteriormente, o GAL não vincula como obrigatório os dados dos exames aos Kits, os quais permitem identificar qual a região algo da detecção do vírus e a qualificação mais adequada do código Loinc.
+
+O nome Novo Coronavírus (2019-nCov) foi a nomenclatura utilizada no início da Pandemia, até a classificação oficial pela OMS. Assim, utilize o código 94500-6, por ser o código mais genérico possível.
+
+Por fim, os tipos de resultados de biologia molecular armazenados no GAL são padronizados como Detectável, Não detectável e etc. Quando o exame é realizado em painéis, além do detectável, são especificados os nomes do vírus.
