@@ -1,0 +1,181 @@
+resource_type,id,name,company,attr:URL,attr:NamingSystem,website,location,public_access,logo_url,description,text,attr:ingredientes_codigoObm,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],parent_concept_urls[0],map_type[0],map_from_concept_id[0],map_to_concept_id[0],map_type,to_concept_url,from_concept_url,attr:extra_names,collection_type,immutable,jurisdiction[1],jurisdiction[2],collection_url,data:expressions,name_type,name_locale
+Concept,CRF-AC,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-ac,https://ips.saude.gov.br/NamingSystem/crf-ac,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS, ,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-AL,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-al,https://ips.saude.gov.br/NamingSystem/crf-al,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-AM,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-am,https://ips.saude.gov.br/NamingSystem/crf-am,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-AP,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-ap,https://ips.saude.gov.br/NamingSystem/crf-ap,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-BA,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-ba,https://ips.saude.gov.br/NamingSystem/crf-ba,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-CE,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-ce,https://ips.saude.gov.br/NamingSystem/crf-ce,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-DF,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-df,https://ips.saude.gov.br/NamingSystem/crf-df,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-ES,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-es,https://ips.saude.gov.br/NamingSystem/crf-es,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-GO,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-go,https://ips.saude.gov.br/NamingSystem/crf-go,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-MA,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-ma,https://ips.saude.gov.br/NamingSystem/crf-ma,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-MG,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-mg,https://ips.saude.gov.br/NamingSystem/crf-mg,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-MS,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-ms,https://ips.saude.gov.br/NamingSystem/crf-ms,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-MT,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-mt,https://ips.saude.gov.br/NamingSystem/crf-mt,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-PA,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-pa,https://ips.saude.gov.br/NamingSystem/crf-pa,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-PB,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-pb,https://ips.saude.gov.br/NamingSystem/crf-pb,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-PE,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-pe,https://ips.saude.gov.br/NamingSystem/crf-pe,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-PI,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-pi,https://ips.saude.gov.br/NamingSystem/crf-pi,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-PR,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-pr,https://ips.saude.gov.br/NamingSystem/crf-pr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-RJ,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-rj,https://ips.saude.gov.br/NamingSystem/crf-rj,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-RN,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-rn,https://ips.saude.gov.br/NamingSystem/crf-rn,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-RO,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-ro,https://ips.saude.gov.br/NamingSystem/crf-ro,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-RR,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-rr,https://ips.saude.gov.br/NamingSystem/crf-rr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-RS,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-rs,https://ips.saude.gov.br/NamingSystem/crf-rs,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-SC,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-sc,https://ips.saude.gov.br/NamingSystem/crf-sc,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-SE,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-se,https://ips.saude.gov.br/NamingSystem/crf-se,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-SP,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-sp,https://ips.saude.gov.br/NamingSystem/crf-sp,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRF-TO,CONSELHO REGIONAL DE FARMÁCIA,,https://ips.saude.gov.br/sid/crf-to,https://ips.saude.gov.br/NamingSystem/crf-to,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-AC,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-ac,https://ips.saude.gov.br/NamingSystem/cro-ac,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-AL,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-al,https://ips.saude.gov.br/NamingSystem/cro-al,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-AM,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-am,https://ips.saude.gov.br/NamingSystem/cro-am,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-AP,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-ap,https://ips.saude.gov.br/NamingSystem/cro-ap,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-BA,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-ba,https://ips.saude.gov.br/NamingSystem/cro-ba,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-CE,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-ce,https://ips.saude.gov.br/NamingSystem/cro-ce,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-DF,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-df,https://ips.saude.gov.br/NamingSystem/cro-df,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-ES,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-es,https://ips.saude.gov.br/NamingSystem/cro-es,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-GO,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-go,https://ips.saude.gov.br/NamingSystem/cro-go,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-MA,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-ma,https://ips.saude.gov.br/NamingSystem/cro-ma,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-MG,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-mg,https://ips.saude.gov.br/NamingSystem/cro-mg,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-MS,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-ms,https://ips.saude.gov.br/NamingSystem/cro-ms,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-MT,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-mt,https://ips.saude.gov.br/NamingSystem/cro-mt,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-PA,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-pa,https://ips.saude.gov.br/NamingSystem/cro-pa,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-PB,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-pb,https://ips.saude.gov.br/NamingSystem/cro-pb,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-PE,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-pe,https://ips.saude.gov.br/NamingSystem/cro-pe,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-PI,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-pi,https://ips.saude.gov.br/NamingSystem/cro-pi,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-PR,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-pr,https://ips.saude.gov.br/NamingSystem/cro-pr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-RJ,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-rj,https://ips.saude.gov.br/NamingSystem/cro-rj,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-RN,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-rn,https://ips.saude.gov.br/NamingSystem/cro-rn,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-RO,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-ro,https://ips.saude.gov.br/NamingSystem/cro-ro,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-RR,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-rr,https://ips.saude.gov.br/NamingSystem/cro-rr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-RS,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-rs,https://ips.saude.gov.br/NamingSystem/cro-rs,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-SC,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-sc,https://ips.saude.gov.br/NamingSystem/cro-sc,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-SE,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-se,https://ips.saude.gov.br/NamingSystem/cro-se,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-SP,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-sp,https://ips.saude.gov.br/NamingSystem/cro-sp,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRO-TO,CONSELHO REGIONAL DE ODONTOLOGIA,,https://ips.saude.gov.br/sid/cro-to,https://ips.saude.gov.br/NamingSystem/cro-to,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-AC,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-ac,https://ips.saude.gov.br/NamingSystem/coren-ac,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-AL,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-al,https://ips.saude.gov.br/NamingSystem/coren-al,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-AM,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-am,https://ips.saude.gov.br/NamingSystem/coren-am,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-AP,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-ap,https://ips.saude.gov.br/NamingSystem/coren-ap,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-BA,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-ba,https://ips.saude.gov.br/NamingSystem/coren-ba,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-CE,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-ce,https://ips.saude.gov.br/NamingSystem/coren-ce,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-DF,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-df,https://ips.saude.gov.br/NamingSystem/coren-df,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-ES,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-es,https://ips.saude.gov.br/NamingSystem/coren-es,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-GO,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-go,https://ips.saude.gov.br/NamingSystem/coren-go,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-MA,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-ma,https://ips.saude.gov.br/NamingSystem/coren-ma,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-MG,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-mg,https://ips.saude.gov.br/NamingSystem/coren-mg,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-MS,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-ms,https://ips.saude.gov.br/NamingSystem/coren-ms,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-MT,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-mt,https://ips.saude.gov.br/NamingSystem/coren-mt,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-PA,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-pa,https://ips.saude.gov.br/NamingSystem/coren-pa,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-PB,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-pb,https://ips.saude.gov.br/NamingSystem/coren-pb,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-PE,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-pe,https://ips.saude.gov.br/NamingSystem/coren-pe,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-PI,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-pi,https://ips.saude.gov.br/NamingSystem/coren-pi,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-PR,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-pr,https://ips.saude.gov.br/NamingSystem/coren-pr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-RJ,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-rj,https://ips.saude.gov.br/NamingSystem/coren-rj,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-RN,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-rn,https://ips.saude.gov.br/NamingSystem/coren-rn,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-RO,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-ro,https://ips.saude.gov.br/NamingSystem/coren-ro,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-RR,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-rr,https://ips.saude.gov.br/NamingSystem/coren-rr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-RS,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-rs,https://ips.saude.gov.br/NamingSystem/coren-rs,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-SC,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-sc,https://ips.saude.gov.br/NamingSystem/coren-sc,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-SE,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-se,https://ips.saude.gov.br/NamingSystem/coren-se,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-SP,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-sp,https://ips.saude.gov.br/NamingSystem/coren-sp,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,COREN-TO,CONSELHO REGIONAL DE ENFERMAGEM,,https://ips.saude.gov.br/sid/coren-to,https://ips.saude.gov.br/NamingSystem/coren-to,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-AC,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-ac,https://ips.saude.gov.br/NamingSystem/crm-ac,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-AL,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-al,https://ips.saude.gov.br/NamingSystem/crm-al,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-AM,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-am,https://ips.saude.gov.br/NamingSystem/crm-am,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-AP,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-ap,https://ips.saude.gov.br/NamingSystem/crm-ap,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-BA,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-ba,https://ips.saude.gov.br/NamingSystem/crm-ba,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-CE,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-ce,https://ips.saude.gov.br/NamingSystem/crm-ce,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-DF,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-df,https://ips.saude.gov.br/NamingSystem/crm-df,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-ES,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-es,https://ips.saude.gov.br/NamingSystem/crm-es,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-GO,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-go,https://ips.saude.gov.br/NamingSystem/crm-go,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-MA,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-ma,https://ips.saude.gov.br/NamingSystem/crm-ma,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-MG,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-mg,https://ips.saude.gov.br/NamingSystem/crm-mg,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-MS,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-ms,https://ips.saude.gov.br/NamingSystem/crm-ms,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-MT,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-mt,https://ips.saude.gov.br/NamingSystem/crm-mt,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-PA,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-pa,https://ips.saude.gov.br/NamingSystem/crm-pa,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-PB,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-pb,https://ips.saude.gov.br/NamingSystem/crm-pb,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-PE,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-pe,https://ips.saude.gov.br/NamingSystem/crm-pe,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-PI,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-pi,https://ips.saude.gov.br/NamingSystem/crm-pi,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-PR,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-pr,https://ips.saude.gov.br/NamingSystem/crm-pr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-RJ,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-rj,https://ips.saude.gov.br/NamingSystem/crm-rj,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-RN,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-rn,https://ips.saude.gov.br/NamingSystem/crm-rn,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-RO,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-ro,https://ips.saude.gov.br/NamingSystem/crm-ro,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-RR,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-rr,https://ips.saude.gov.br/NamingSystem/crm-rr,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-RS,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-rs,https://ips.saude.gov.br/NamingSystem/crm-rs,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-SC,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-sc,https://ips.saude.gov.br/NamingSystem/crm-sc,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-SE,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-se,https://ips.saude.gov.br/NamingSystem/crm-se,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-SP,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-sp,https://ips.saude.gov.br/NamingSystem/crm-sp,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,CRM-TO,CONSELHO REGIONAL DE MEDICINA,,https://ips.saude.gov.br/sid/crm-to,https://ips.saude.gov.br/NamingSystem/crm-to,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,ConselhoProfissionaSaudeBRIPS,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Alfavestronidase,,,506485 - alfavestronidase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"7021 - amoxicilina,7653 - clavulanato de pot·ssio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
