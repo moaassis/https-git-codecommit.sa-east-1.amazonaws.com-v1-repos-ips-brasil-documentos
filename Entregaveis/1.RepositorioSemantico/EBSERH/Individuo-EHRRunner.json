@@ -1,0 +1,258 @@
+{
+    "resourceType": "Patient",
+    "extension": [
+        {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRParentesIndividuo-1.0",
+            "extension": [
+                {
+                    "url": "relationship",
+                    "valueCode": "MTH"
+                },
+                {
+                    "url": "parent",
+                    "valueHumanName": {
+                        "use": "official",
+                        "text": "MARCIA PEREIRA SANTOS"
+                    }
+                }
+            ]
+        },
+        {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRParentesIndividuo-1.0",
+            "extension": [
+                {
+                    "url": "relationship",
+                    "valueCode": "FTH"
+                },
+                {
+                    "url": "parent",
+                    "valueHumanName": {
+                        "use": "official",
+                        "text": "AUGUSTO SANTOS"
+                    }
+                }
+            ]
+        },
+        {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRRacaCorEtnia-1.0",
+            "extension": [
+                {
+                    "url": "race",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRRacaCor",
+                                "code": "01"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "url": "http://ehrrunner.com/fhir/StructureDefinition/BirthCity-1.0",
+            "valueCodeableConcept": {
+                "coding": [
+                    {
+                        "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRDivisaoGeograficaBrasil",
+                        "code": "530010"
+                    }
+                ]
+            }
+        },
+        {
+            "url": "http://ehrrunner.com/fhir/StructureDefinition/BirthCountry-1.0",
+            "valueCodeableConcept": {
+                "coding": [
+                    {
+                        "system": "urn:iso:std:iso:3166",
+                        "code": "BR"
+                    }
+                ]
+            }
+        },
+        {
+            "url": "http://ehrrunner.com/fhir/StructureDefinition/Nationality-1.0",
+            "valueCodeableConcept": {
+                "coding": [
+                    {
+                        "system": "urn:iso:std:iso:3166",
+                        "code": "BR"
+                    }
+                ]
+            }
+        },
+        {
+            "url": "http://hl7.org/fhir/StructureDefinition/patient-importance",
+            "valueBoolean": false
+        }
+
+    ],
+    "identifier": [
+        {
+            "type": {
+                "coding": [
+                    {
+                        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+                        "code": "TAX"
+                    }
+                ]
+            },
+            "system": "urn:oid:2.16.840.1.113883.13.237",
+            "value": "12345678900"
+        },
+        {
+            "use": "official",
+            "type": {
+                "coding": [
+                    {
+                        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+                        "code": "HC"
+                    }
+                ]
+            },
+            "system": "urn:oid:2.16.840.1.113883.13.236",
+            "value": "704207225999999"
+        },
+        {
+            "use": "secondary",
+            "type": {
+                "coding": [
+                    {
+                        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+                        "code": "HC"
+                    }
+                ]
+            },
+            "system": "urn:oid:2.16.840.1.113883.13.236",
+            "value": "898003917999999"
+        },
+        {
+            "extension": [
+                {
+                    "url": "http://ehrrunner.com/fhir/StructureDefinition/BRJurisdicaoOrgaoEmissor-1.0",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://ehrrunner.com/fhir/CodeSystem/BRUnidadeFederacao-1.0",
+                                "code": "DF"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "type": {
+                "coding": [
+                    {
+                        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+                        "code": "RRI"
+                    }
+                ]
+            },
+            "value": "14123456",
+            "assigner": {
+                "display": "SSP"
+            }
+        },
+        {
+            "extension": [
+                {
+                    "url": "http://ehrrunner.com/fhir/StructureDefinition/BRJurisdicaoOrgaoEmissor-1.0",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://ehrrunner.com/fhir/CodeSystem/BRUnidadeFederacao-1.0",
+                                "code": "DF"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "type": {
+                "coding": [
+                    {
+                        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+                        "code": "MD"
+                    }
+                ]
+            },
+            "value": "323232",
+            "assigner": {
+                "display": "CONSELHO REGIONAL DE MEDICINA (CRM)"
+            }
+        },
+        {
+            "extension": [
+                {
+                    "url": "http://ehrrunner.com/fhir/StructureDefinition/Nationality-1.0",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "urn:iso:std:iso:3166",
+                                "code": "BR"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "type": {
+                "coding": [
+                    {
+                        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+                        "code": "PPN"
+                    }
+                ]
+            },
+            "value": "GW123456",
+            "period": {
+                "start": "2020-01-01",
+                "end": "2029-12-31"
+            }
+        }
+    ],
+    "active": true,
+    "name": [
+        {
+            "use": "official",
+            "text": "AUGUSTO DOS SANTOS JUNIOR"
+        },
+        {
+            "use": "usual",
+            "text": "AUGUSTINHO"
+        }
+    ],
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "556132579999"
+        },
+        {
+            "system": "email",
+            "value": "augusto.santos@example.com"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1974-04-05",
+    "deceasedBoolean": false,
+    "address": [
+        {
+            "line": [
+                "SQN 416 BLOCO A",
+                "604",
+                "",
+                "ASA NORTE"
+            ],
+            "city": "530010",
+            "state": "DF",
+            "postalCode": "70140120",
+            "country": "BR"
+        }
+    ],
+    "multipleBirthBoolean": false,
+    "managingOrganization": {
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.13.36",
+            "value": "2076950"
+        }
+    }
+}

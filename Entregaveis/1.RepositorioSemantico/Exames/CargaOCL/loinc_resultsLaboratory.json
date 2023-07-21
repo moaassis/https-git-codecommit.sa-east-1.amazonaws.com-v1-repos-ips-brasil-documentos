@@ -1,0 +1,44 @@
+{"type": "Reference", "collection_url": "/orgs/HL7/collections/results-laboratory-observations-uv-ips/", "data": {"expressions": ["/orgs/LOINC/sources/loinc/concepts/59149-5/", "/orgs/LOINC/sources/loinc/concepts/59148-7/", "/orgs/LOINC/sources/loinc/concepts/59147-9/", "/orgs/LOINC/sources/loinc/concepts/59146-1/", "/orgs/LOINC/sources/loinc/concepts/59145-3/", "/orgs/LOINC/sources/loinc/concepts/59144-6/", "/orgs/LOINC/sources/loinc/concepts/59143-8/", "/orgs/LOINC/sources/loinc/concepts/59142-0/", "/orgs/LOINC/sources/loinc/concepts/59141-2/", "/orgs/LOINC/sources/loinc/concepts/59140-4/", "/orgs/LOINC/sources/loinc/concepts/5914-7/", "/orgs/LOINC/sources/loinc/concepts/59139-6/", "/orgs/LOINC/sources/loinc/concepts/59138-8/", "/orgs/LOINC/sources/loinc/concepts/59137-0/", "/orgs/LOINC/sources/loinc/concepts/5913-9/", "/orgs/LOINC/sources/loinc/concepts/59122-2/", "/orgs/LOINC/sources/loinc/concepts/59121-4/", "/orgs/LOINC/sources/loinc/concepts/59120-6/", "/orgs/LOINC/sources/loinc/concepts/5912-1/", "/orgs/LOINC/sources/loinc/concepts/59119-8/", "/orgs/LOINC/sources/loinc/concepts/59118-0/", "/orgs/LOINC/sources/loinc/concepts/59117-2/", "/orgs/LOINC/sources/loinc/concepts/59116-4/", "/orgs/LOINC/sources/loinc/concepts/59115-6/", "/orgs/LOINC/sources/loinc/concepts/59114-9/"]}
+
+
+
+produto combinado 570108
+542688
+569344
+
+descriptive study
+
+
+educação / saude populacional / investimento no mercado... saúde primária utilizando tecnologia 
+Cardio Onco e ortopedia
+
+neurologia e geriatria 
+orientação por dados....
+
+https://bitly/3u7G7du
+
+
+
+
+
+WHO smart Guidelines
+
+
+MzdE6uGh  
+
+The Standard - The Official Blog of Health Level Seven® International
+
+G7 Health Ministers’ Declaration, Oxford, 4 June 2021
+
+
+
+https://build.fhir.org/ig/HL7/fhir-ips/StructureDefinition-Condition-uv-ips.html
+
+
+
+Atualizar a Base de Dados da Ontologia Brasileira de Medicamentos, com a inclusão de todos os produtos medicinais disponíveis na base da Câmara de Regulação do Mercado de Medicamentos (CMED) de maio de 2023 referentes ao elenco Hórus de maio de 2023 (componentes VTM, VMP, AMP e AMPPs);
+Definir os perfis IPS HL7/FHIR para os componentes de Imunização, Exames, Alergias/Reações Adversas e Medicamentos para a composição do Guia de Implementação (GI) IPS Brasil. Na falta de modelo lógico na RNDS para o componente, este será proposto pelo projeto;
+Realizar provas de conceito (POC): Realização de testes de conformidade para os casos de teste especificados – Exames COVID-19 e Monkeypox e Registro de Imunização;
+Publicação do guia de implementação como draft em domínio do Ministério da Saúde. Internalização em repositório FHIR em conformidade com modelos do IPS Brasil.  Testes dos modelos propostos em “conectathon” interna no Ministério da Saúde como prova de conceito desses modelos;
+
+MzD?yYFWEYAS39     MzdE6uGh

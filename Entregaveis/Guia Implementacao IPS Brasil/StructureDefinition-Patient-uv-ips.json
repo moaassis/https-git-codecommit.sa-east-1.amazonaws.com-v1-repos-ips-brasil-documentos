@@ -1,0 +1,596 @@
+{
+  "resourceType": "StructureDefinition",
+  "id": "Patient-uv-ips",
+  "url": "http://hl7.org/fhir/uv/ips/StructureDefinition/Patient-uv-ips",
+  "version": "1.0.0",
+  "name": "PatientUvIps",
+  "status": "active",
+  "description": "Um perfil do paciente do International Patient Summary",
+  "fhirVersion": "4.0.1",
+  "mapping": [
+    {
+      "identity": "rim",
+      "uri": "http://hl7.org/v3",
+      "name": "RIM Mapping"
+    },
+    {
+      "identity": "cda",
+      "uri": "http://hl7.org/v3/cda",
+      "name": "CDA (R2)"
+    },
+    {
+      "identity": "w5",
+      "uri": "http://hl7.org/fhir/fivews",
+      "name": "FiveWs Pattern Mapping"
+    },
+    {
+      "identity": "v2",
+      "uri": "http://hl7.org/v2",
+      "name": "HL7 v2 Mapping"
+    },
+    {
+      "identity": "loinc",
+      "uri": "http://loinc.org",
+      "name": "LOINC code for the element"
+    }
+  ],
+  "kind": "resource",
+  "abstract": false,
+  "type": "Patient",
+  "baseDefinition": "http://hl7.org/fhir/StructureDefinition/Patient",
+  "derivation": "constraint",
+  "differential": {
+    "element": [
+      {
+        "id": "Patient.id",
+        "path": "Patient.id",
+        "short": "Identificador primário deste recurso",
+        "definition": "Identificação unívoca para o recurso em um sistema"
+      },
+      {
+        "id": "Patient.meta",
+        "path": "Patient.meta",
+        "short": "Metadados sobre o recurso",
+        "definition": "Metadados adicionais sobre o recurso"
+      },
+      {
+        "id": "Patient.implicitRules",
+        "path": "Patient.implicitRules",
+        "short": "URI(s) sob as quais este recurso é conhecido",
+        "definition": "Um ou mais códigos que servem para identificar o tipo de recurso"
+      },
+      {
+        "id": "Patient.language",
+        "path": "Patient.language",
+        "short": "Linguagem do recurso",
+        "definition": "A linguagem humana natural do recurso"
+      },
+      {
+        "id": "Patient.text",
+        "path": "Patient.text",
+        "short": "Texto narrativo, 72 caracteres para resumo",
+        "definition": "Um texto narrativo resumindo as informações do recurso"
+      },
+      {
+        "id": "Patient.contained",
+        "path": "Patient.contained",
+        "short": "Recursos contidos",
+        "definition": "Recursos contidos no recurso"
+      },
+      {
+        "id": "Patient.extension",
+        "path": "Patient.extension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.modifierExtension",
+        "path": "Patient.modifierExtension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.identifier",
+        "path": "Patient.identifier",
+        "slicing": {
+          "discriminator": [
+            {
+              "type": "value",
+              "path": "system"
+            }
+          ],
+          "rules": "open",
+          "description": "Identificadores nacionais do paciente"
+        },
+        "short": "Identificadores nacionais do paciente",
+        "definition": "Identificadores nacionais do paciente",
+        "min": 1
+      },
+      {
+        "id": "Patient.identifier:cns",
+        "path": "Patient.identifier",
+        "sliceName": "cns",
+        "short": "CNS do paciente",
+        "definition": "Cadastro Nacional de Saúde (CNS) do paciente",
+        "min": 0,
+        "max": "1"
+      },
+      {
+        "id": "Patient.identifier:cns.system",
+        "path": "Patient.identifier.system",
+        "min": 1,
+        "fixedUri": "https://rnds-fhir.saude.gov.br/NamingSystem/cns"
+      },
+      {
+        "id": "Patient.identifier:cns.value",
+        "path": "Patient.identifier.value",
+        "min": 1
+      },
+      {
+        "id": "Patient.identifier:cpf",
+        "path": "Patient.identifier",
+        "sliceName": "cpf",
+        "short": "CPF do paciente",
+        "definition": "Cadastro de Pessoa Física (CPF) do paciente",
+        "min": 1,
+        "max": "1"
+      },
+      {
+        "id": "Patient.identifier:cpf.system",
+        "path": "Patient.identifier.system",
+        "min": 1,
+        "fixedUri": "https://rnds-fhir.saude.gov.br/NamingSystem/cns"
+      },
+      {
+        "id": "Patient.identifier:cpf.value",
+        "path": "Patient.identifier.value",
+        "min": 1
+      },
+      {
+        "id": "Patient.active",
+        "path": "Patient.active",
+        "short": "Indica se o paciente está ativo",
+        "definition": "Indica se o paciente está ativo"
+      },
+      {
+        "id": "Patient.name",
+        "path": "Patient.name",
+        "short": "Nome do paciente",
+        "definition": "Nome do paciente"
+      },
+      {
+        "id": "Patient.name.id",
+        "path": "Patient.name.id",
+        "short": "Identificador primário deste recurso",
+        "definition": "Identificação unívoca para o recurso em um sistema"
+      },
+      {
+        "id": "Patient.name.extension",
+        "path": "Patient.name.extension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.name.use",
+        "path": "Patient.name.use",
+        "short": "Uso do nome",
+        "definition": "O uso do nome"
+      },
+      {
+        "id": "Patient.name.text",
+        "path": "Patient.name.text",
+        "short": "Representação textual do nome completo do paciente",
+        "definition": "Representação textual do nome completo do paciente"
+      },
+      {
+        "id": "Patient.name.family",
+        "path": "Patient.name.family",
+        "short": "Sobrenome",
+        "definition": "Sobrenome do paciente"
+      },
+      {
+        "id": "Patient.name.given",
+        "path": "Patient.name.given",
+        "short": "Nome completo do paciente",
+        "definition": "Nome completo do paciente"
+      },
+      {
+        "id": "Patient.name.prefix",
+        "path": "Patient.name.prefix",
+        "short": "Prefixo do nome",
+        "definition": "Prefixo do nome do paciente"
+      },
+      {
+        "id": "Patient.name.suffix",
+        "path": "Patient.name.suffix",
+        "short": "Sufixo do nome",
+        "definition": "Sufixo do nome do paciente"
+      },
+      {
+        "id": "Patient.name.period",
+        "path": "Patient.name.period",
+        "short": "Período de tempo em que o nome foi usado",
+        "definition": "Período de tempo em que o nome foi usado"
+      },
+      {
+        "id": "Patient.telecom",
+        "path": "Patient.telecom",
+        "short": "Contatos de telecomunicação do paciente",
+        "definition": "Contatos de telecomunicação do paciente"
+      },
+      {
+        "id": "Patient.telecom.id",
+        "path": "Patient.telecom.id",
+        "short": "Identificador primário deste recurso",
+        "definition": "Identificação unívoca para o recurso em um sistema"
+      },
+      {
+        "id": "Patient.telecom.extension",
+        "path": "Patient.telecom.extension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.telecom.system",
+        "path": "Patient.telecom.system",
+        "short": "Sistema de telecomunicação usado para o contato",
+        "definition": "O sistema de telecomunicação usado para o contato"
+      },
+      {
+        "id": "Patient.telecom.value",
+        "path": "Patient.telecom.value",
+        "short": "Número ou  do contato",
+        "definition": "O número de telefone ou fax usado para o contato"
+      },
+      {
+        "id": "Patient.telecom.use",
+        "path": "Patient.telecom.use",
+        "short": "Uso do contato",
+        "definition": "home | work | temp | old | mobile - propósito do contato"
+      },
+      {
+        "id": "Patient.telecom.rank",
+        "path": "Patient.telecom.rank",
+        "short": "Indica a ordem de preferência do contato",
+        "definition": "Indica a ordem de preferência do contato"
+      },
+      {
+        "id": "Patient.telecom.period",
+        "path": "Patient.telecom.period",
+        "short": "Período de tempo em que o contato foi usado",
+        "definition": "Período em que o meio de contato foi utilizado pelo paciente"
+      },
+      {
+        "id": "Patient.gender",
+        "path": "Patient.gender",
+        "short": "Sexo",
+        "definition": "male | female | other | unknown"
+      },
+      {
+        "id": "Patient.birthDate",
+        "path": "Patient.birthDate",
+        "short": "Data de nascimento do paciente",
+        "definition": "Data de nascimento do paciente"
+      },
+      {
+        "id": "Patient.deceased[x]",
+        "path": "Patient.deceased[x]",
+        "slicing": {
+          "discriminator": [
+            {
+              "type": "type",
+              "path": "$this"
+            }
+          ],
+          "ordered": false,
+          "rules": "open"
+        },
+        "short": "Indica se o paciente é falecido",
+        "definition": "Indica se o paciente é falecido"
+      },
+      {
+        "id": "Patient.deceasedBoolean",
+        "path": "Patient.deceasedBoolean",
+        "min": 0,
+        "max": "1",
+        "type": [
+          {
+            "code": "boolean"
+          }
+        ]
+      },
+      {
+        "id": "Patient.deceasedDateTime",
+        "path": "Patient.deceasedDateTime",
+        "short": "Data e hora do falecimento do paciente",
+        "definition": "Data e hora do falecimento do paciente",
+        "min": 0,
+        "max": "1",
+        "type": [
+          {
+            "code": "dateTime"
+          }
+        ]
+      },
+      {
+        "id": "Patient.address",
+        "path": "Patient.address",
+        "short": "Endereço do paciente",
+        "definition": "Endereço do paciente"
+      },
+      {
+        "id": "Patient.address.id",
+        "path": "Patient.address.id",
+        "short": "Identificador primário deste recurso",
+        "definition": "Identificação unívoca para o recurso em um sistema"
+      },
+      {
+        "id": "Patient.address.extension",
+        "path": "Patient.address.extension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.address.use",
+        "path": "Patient.address.use",
+        "short": "Uso do endereço",
+        "definition": "home | work | temp | old - propósito do endereço"
+      },
+      {
+        "id": "Patient.address.type",
+        "path": "Patient.address.type",
+        "short": "Tipo de endereço",
+        "definition": "postal | physical | both"
+      },
+      {
+        "id": "Patient.address.text",
+        "path": "Patient.address.text",
+        "short": "Representação textual do endereço",
+        "definition": "Representação textual do endereço"
+      },
+      {
+        "id": "Patient.address.line",
+        "path": "Patient.address.line",
+        "short": "Endereço do paciente",
+        "definition": "Endereço do paciente"
+      },
+      {
+        "id": "Patient.address.city",
+        "path": "Patient.address.city",
+        "short": "Cidade do endereço",
+        "definition": "Cidade do endereço"
+      },
+      {
+        "id": "Patient.address.district",
+        "path": "Patient.address.district",
+        "short": "Distrito do endereço",
+        "definition": "Distrito do endereço"
+      },
+      {
+        "id": "Patient.address.state",
+        "path": "Patient.address.state",
+        "short": "Unidade Federativa",
+        "definition": "Unidade Federativa"
+      },
+      {
+        "id": "Patient.address.postalCode",
+        "path": "Patient.address.postalCode",
+        "short": "CEP do endereço",
+        "definition": "CEP do endereço"
+      },
+      {
+        "id": "Patient.address.country",
+        "path": "Patient.address.country",
+        "short": "País do endereço",
+        "definition": "País do endereço"
+      },
+      {
+        "id": "Patient.address.period",
+        "path": "Patient.address.period",
+        "short": "Período de tempo em que o endereço foi usado",
+        "definition": "Período de tempo em que o endereço foi usado"
+      },
+      {
+        "id": "Patient.maritalStatus",
+        "path": "Patient.maritalStatus",
+        "short": "Estado civil do paciente",
+        "definition": "Estado civil do paciente"
+      },
+      {
+        "id": "Patient.multipleBirth[x]",
+        "path": "Patient.multipleBirth[x]",
+        "slicing": {
+          "discriminator": [
+            {
+              "type": "type",
+              "path": "$this"
+            }
+          ],
+          "ordered": false,
+          "rules": "open"
+        },
+        "short": "Indica se o paciente é de parto gemelar",
+        "definition": "Indica se o paciente é de parto gemelar"
+      },
+      {
+        "id": "Patient.multipleBirthBoolean",
+        "path": "Patient.multipleBirthBoolean",
+        "min": 0,
+        "max": "1",
+        "type": [
+          {
+            "code": "boolean"
+          }
+        ]
+      },
+      {
+        "id": "Patient.multipleBirthInteger",
+        "path": "Patient.multipleBirthInteger",
+        "short": "Gemelaridade do paciente",
+        "definition": "Gemelaridade do paciente",
+        "min": 0,
+        "max": "1",
+        "type": [
+          {
+            "code": "integer"
+          }
+        ]
+      },
+      {
+        "id": "Patient.photo",
+        "path": "Patient.photo",
+        "short": "Fotografia do paciente",
+        "definition": "Fotografia do paciente"
+      },
+      {
+        "id": "Patient.contact",
+        "path": "Patient.contact",
+        "short": "Uma pessoa para contato (guardião, companheiro, amigo) em caso de emergência",
+        "definition": "Uma pessoa para contato (guardião, companheiro, amigo) em caso de emergência"
+      },
+      {
+        "id": "Patient.contact.id",
+        "path": "Patient.contact.id",
+        "short": "Identificação unívoca da pessoa de contato",
+        "definition": "Identificação unívoca da pessoa de contato"
+      },
+      {
+        "id": "Patient.contact.extension",
+        "path": "Patient.contact.extension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.contact.modifierExtension",
+        "path": "Patient.contact.modifierExtension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.contact.relationship",
+        "path": "Patient.contact.relationship",
+        "short": "Relação com o paciente",
+        "definition": "Relação com o paciente"
+      },
+      {
+        "id": "Patient.contact.name",
+        "path": "Patient.contact.name",
+        "short": "Nome da pessoa de contato",
+        "definition": "Nome da pessoa de contato"
+      },
+      {
+        "id": "Patient.contact.telecom",
+        "path": "Patient.contact.telecom",
+        "short": "Contatos de telecomunicação da pessoa de contato",
+        "definition": "Contatos de telecomunicação da pessoa de contato"
+      },
+      {
+        "id": "Patient.contact.address",
+        "path": "Patient.contact.address",
+        "short": "Endereço da pessoa de contato",
+        "definition": "Endereço da pessoa de contato"
+      },
+      {
+        "id": "Patient.contact.gender",
+        "path": "Patient.contact.gender",
+        "short": "Sexo do contato do paciente",
+        "definition": "Sexo do contato do paciente"
+      },
+      {
+        "id": "Patient.contact.organization",
+        "path": "Patient.contact.organization",
+        "short": "Organização do contato do paciente",
+        "definition": "Organização do contato do paciente"
+      },
+      {
+        "id": "Patient.contact.period",
+        "path": "Patient.contact.period",
+        "short": "Período de tempo em que o contato foi usado",
+        "definition": "Período de tempo em que o contato foi usado"
+      },
+      {
+        "id": "Patient.communication",
+        "path": "Patient.communication",
+        "short": "Idiomas falados pelo paciente"
+      },
+      {
+        "id": "Patient.communication.id",
+        "path": "Patient.communication.id",
+        "short": "Identificador primário deste recurso",
+        "definition": "Identificação unívoca para o recurso em um sistema"
+      },
+      {
+        "id": "Patient.communication.extension",
+        "path": "Patient.communication.extension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.communication.modifierExtension",
+        "path": "Patient.communication.modifierExtension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.communication.language",
+        "path": "Patient.communication.language",
+        "short": "Idioma falado pelo paciente",
+        "definition": "Idioma falado pelo paciente"
+      },
+      {
+        "id": "Patient.communication.preferred",
+        "path": "Patient.communication.preferred",
+        "short": "Indica se o idioma é preferido",
+        "definition": "Indica se o idioma é preferido"
+      },
+      {
+        "id": "Patient.generalPractitioner",
+        "path": "Patient.generalPractitioner",
+        "short": "Médico de atenção primária do paciente",
+        "definition": "Médico de atenção primária do paciente"
+      },
+      {
+        "id": "Patient.managingOrganization",
+        "path": "Patient.managingOrganization",
+        "short": "Organização responsável pelo paciente",
+        "definition": "Organização responsável pelo paciente"
+      },
+      {
+        "id": "Patient.link",
+        "path": "Patient.link",
+        "short": "Links para outros recursos que se relacionam com este recurso",
+        "definition": "Links para outros recursos que se relacionam com este recurso"
+      },
+      {
+        "id": "Patient.link.id",
+        "path": "Patient.link.id",
+        "short": "Identificador primário deste recurso",
+        "definition": "Identificação unívoca para o recurso em um sistema"
+      },
+      {
+        "id": "Patient.link.extension",
+        "path": "Patient.link.extension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.link.modifierExtension",
+        "path": "Patient.link.modifierExtension",
+        "short": "Extensões adicionais",
+        "definition": "Extensões adicionais que não fazem parte do modelo base"
+      },
+      {
+        "id": "Patient.link.other",
+        "path": "Patient.link.other",
+        "short": "Outro recurso que se relaciona com este recurso",
+        "definition": "Outro recurso que se relaciona com este recurso"
+      },
+      {
+        "id": "Patient.link.type",
+        "path": "Patient.link.type",
+        "short": "Tipo de relação entre os recursos",
+        "definition": "Tipo de relação entre os recursos"
+      }
+    ]
+  }
+}
