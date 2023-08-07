@@ -1,0 +1,2 @@
+id	effectiveTime	active	moduleId	refsetId	referencedComponentId	definition
+f09cbdb2-0092-423c-b3cc-91600c78eb92		1	827022005	TMP-qpi9lt	TMP-qpi9lt	((< 373873005 |Pharmaceutical / biologic product (product)| OR < 105590001 |Substance (substance)| OR < 418038007 |Propensity to adverse reactions to substance (finding)|) AND ^ 816080008 |International Patient Summary (foundation metadata concept)|)

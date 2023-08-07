@@ -1,0 +1,293 @@
+id	effectiveTime	active	moduleId	refsetId	referencedComponentId	name	
+c862d18d-721e-4d83-92d7-07bc95c0ebc1		1	900000000000207008	TMP-qpi9lt	2221000221107	Live attenuated Human alphaherpesvirus 3 only vaccine product	
+0275cce3-daed-4334-b340-3a294899d3b2		1	900000000000207008	TMP-qpi9lt	2171000221104	Salmonella enterica subspecies enterica serovar Typhi capsular polysaccharide unconjugated antigen only vaccine product in parenteral dose form	
+0d494c61-a3dd-443e-b92c-0ae37f06fb32		1	900000000000207008	TMP-qpi9lt	1981000221108	Neisseria meningitidis serogroup B antigen only vaccine product	
+5463388d-0ea2-4ae8-8283-8dd91576b032		1	900000000000207008	TMP-qpi9lt	1801000221105	Streptococcus pneumoniae capsular polysaccharide antigen conjugated only vaccine product	
+2182bbcc-dd5e-4632-9ad5-fa6364ac4df7		1	900000000000207008	TMP-qpi9lt	1181000221105	Influenza virus antigen only vaccine product	
+7f5d6bde-bd19-4bbe-9160-f3a675266fe7		1	900000000000207008	TMP-qpi9lt	1131000221109	Vaccine product containing only inactivated whole Rabies lyssavirus antigen	
+d908ff12-cd0c-4088-be11-2615efb2a4e4		1	900000000000207008	TMP-qpi9lt	442461000124102	Hickory nut	
+f3f4a190-6f7d-4beb-9fab-dfc642760baa		1	900000000000207008	TMP-qpi9lt	1121000221106	Live attenuated Yellow fever virus antigen only vaccine product	
+c571ff87-3302-40e6-8e58-815da722fdbd		1	900000000000207008	TMP-qpi9lt	1101000221104	Clostridium tetani toxoid antigen-containing vaccine product	
+72fa0345-313b-4b8e-855a-35e248398143		1	900000000000207008	TMP-qpi9lt	1081000221109	Live attenuated Rotavirus antigen only vaccine product	
+b4bee8b4-b56e-4705-af0f-e1955d589c2e		1	900000000000207008	TMP-qpi9lt	1051000221104	Live attenuated Human poliovirus serotypes 1 and 3 antigens only vaccine product in oral dose form	
+a22e3093-6725-4cb2-aff1-17fc8b91e286		1	900000000000207008	TMP-qpi9lt	1031000221108	Human poliovirus antigen-containing vaccine product	
+bc3eba75-e3d6-4fa9-90e0-949cfd7efa70		1	900000000000207008	TMP-qpi9lt	1011000221100	Live attenuated Vibrio cholerae antigen only vaccine product in oral dose form	
+79691470-3d52-4f71-b273-f2bf83cca491		1	900000000000207008	TMP-qpi9lt	1001000221103	Inactivated whole Vibrio cholerae antigen only vaccine product in oral dose form	
+bdffc6e5-3193-4ae5-80db-5f0bbc74266e		1	900000000000207008	TMP-qpi9lt	1137358000	Piper - pepper	
+3e7ab207-66b5-4cd7-a362-babd0459c791		1	900000000000207008	TMP-qpi9lt	1119254000	Streptococcus pneumoniae Danish serotype 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F capsular polysaccharide antigens only vaccine product	
+f42d948b-6f35-4331-9224-fa01724e6e79		1	900000000000207008	TMP-qpi9lt	1052328007	Streptococcus pneumoniae Danish serotype 4, 6B, 9V, 14, 18C, 19F, and 23F capsular polysaccharide antigens conjugated only vaccine product	
+ac60ef6e-ef32-4ff9-a076-5cf94004cc13		1	900000000000207008	TMP-qpi9lt	1003736004	Mammalian milk based food	
+84c5794c-4b32-49a1-9242-4e464c8a15f9		1	900000000000207008	TMP-qpi9lt	264295007	Cow's milk protein	
+0f8a125a-3e36-468e-9441-1f36a039a74d		1	900000000000207008	TMP-qpi9lt	264287008	Animal dander	
+d5ec3405-04fc-4233-a507-570508d2d052		1	900000000000207008	TMP-qpi9lt	261243003	Brass	
+d29e405b-7b2c-410f-8fd2-1c6100721972		1	900000000000207008	TMP-qpi9lt	260179008	Mango fruit	
+a38d82c5-9198-437b-a3e4-071dc320c7cc		1	900000000000207008	TMP-qpi9lt	260177005	Melon	
+b80df97a-a3d1-449f-a65b-2556ecd96810		1	900000000000207008	TMP-qpi9lt	260176001	Kiwi fruit	
+c967ab7f-bc28-4214-a97a-5f0e266bfa14		1	900000000000207008	TMP-qpi9lt	260167008	Sesame seed	
+9d37e280-7588-44d7-a761-980d991ff7bb		1	900000000000207008	TMP-qpi9lt	260156007	Mouse urine proteins	
+adb6a681-60fa-437a-87ce-1ecbf87ca121		1	900000000000207008	TMP-qpi9lt	260154005	Dog dander	
+2f163e8e-05be-4d7d-b134-56e94051d3aa		1	900000000000207008	TMP-qpi9lt	260153004	Cow dander	
+981501dd-e8d9-446a-8eba-432ef8dda025		1	900000000000207008	TMP-qpi9lt	260152009	Cat dander	
+e51c4fc0-3f0f-4d08-8b55-89d2ab8670ad		1	900000000000207008	TMP-qpi9lt	260126003	Olive pollen	
+bc774c5d-2438-491f-9cf3-8d0d155b390e		1	900000000000207008	TMP-qpi9lt	260118006	Wall pellitory pollen	
+1da8b323-9ed2-4976-a6b9-c60efdae5dfb		1	900000000000207008	TMP-qpi9lt	260108001	Wormwood pollen	
+72b875bc-b939-4674-8140-6b15694ef1a7		1	900000000000207008	TMP-qpi9lt	256504004	Polycarbonate dental material	
+fb81d72d-ea2c-4325-843d-fb231c0c5fcc		1	900000000000207008	TMP-qpi9lt	256443002	Egg white	
+98e8243e-5c5b-49b7-b03e-a662e95779e6		1	900000000000207008	TMP-qpi9lt	256440004	Wasp venom	
+87b82fa0-a611-4c41-9dfe-c972d355839b		1	900000000000207008	TMP-qpi9lt	256435007	Feather	
+44cf4dde-4514-4de1-8847-9cfc4ca3758f		1	900000000000207008	TMP-qpi9lt	256419000	Mouse epithelium	
+75dd1203-f106-4467-af1d-53dff42e4f21		1	900000000000207008	TMP-qpi9lt	256417003	Horse dander	
+7782b7d0-2316-4735-ac68-717ca47e1317		1	900000000000207008	TMP-qpi9lt	256355007	Soyabean	
+c8b4e6a3-57c4-4295-bd2a-4f09b61b5d56		1	900000000000207008	TMP-qpi9lt	256353000	Hazelnut	
+e7fbdae2-bbd6-4a52-acbb-acb2b917bd17		1	900000000000207008	TMP-qpi9lt	256352005	Walnut - nut	
+a93e20c1-af9a-490f-b0ac-4802dab2f434		1	900000000000207008	TMP-qpi9lt	256350002	Almond	
+7627cfb1-3744-4d81-a32e-6f34e59dce11		1	900000000000207008	TMP-qpi9lt	256326004	Celery	
+2d8a48f1-ee6c-484a-8cb4-45e8d01b3596		1	900000000000207008	TMP-qpi9lt	256319004	Carrot	
+f7b065c9-5c2b-4456-91df-c861440f56e8		1	900000000000207008	TMP-qpi9lt	256313003	Pineapple	
+66dc8ff3-2ee2-41af-ac0e-86fb6dbe6b51		1	900000000000207008	TMP-qpi9lt	256307007	Banana	
+be9c3190-2052-4532-b6e7-3d976b9451af		1	900000000000207008	TMP-qpi9lt	256306003	Orange - fruit	
+3717df0c-a0d6-4ecb-b841-d8969f71f5ab		1	900000000000207008	TMP-qpi9lt	256305004	Tree resin	
+edb26f11-811c-4dcb-8ae4-bdca583c6010		1	900000000000207008	TMP-qpi9lt	256303006	Ragweed pollen	
+6bccf1e7-a677-4816-8399-be1ca5e9e7d1		1	900000000000207008	TMP-qpi9lt	256292005	Flower and weed pollen	
+4189694f-c30a-4d8d-bd59-4ffd4e0127dd		1	900000000000207008	TMP-qpi9lt	256277009	Grass pollen	
+057251fc-e233-4699-9d06-efd459270e2b		1	900000000000207008	TMP-qpi9lt	256260009	Tree and shrub pollen	
+92aa1cd3-3f94-41f0-aada-87d080a29f12		1	900000000000207008	TMP-qpi9lt	256259004	Pollen	
+ebb1a83d-c22b-47e2-a390-b3e5be46de2e		1	900000000000207008	TMP-qpi9lt	255667006	Paraffin	
+ead5c82f-0ad1-473d-9bfa-3728a672b8c3		1	900000000000207008	TMP-qpi9lt	255640000	Biocide	
+abf14bd5-f1f1-44ba-a962-f133e80bba7e		1	900000000000207008	TMP-qpi9lt	255620007	Food	
+0736e451-3738-4a95-8d4e-5a22c59e8206		1	900000000000207008	TMP-qpi9lt	235719002	Intolerance to food	
+d7a26f50-abb9-41ab-9580-7a61c12fb0d5		1	900000000000207008	TMP-qpi9lt	232350006	Allergy to dust mite protein	
+70d27056-5c97-4537-82f5-c2b305ca10c1		1	900000000000207008	TMP-qpi9lt	230034002	Nuts and seeds	
+b3ce9579-8bb8-4490-9d64-a7b9b7240f11		1	900000000000207008	TMP-qpi9lt	227538001	Pickle	
+c080de60-2cbb-4f0c-bfb3-0ff7e8f1e479		1	900000000000207008	TMP-qpi9lt	227512001	Pistachio nut	
+637009b9-4411-4ba5-ae4d-12de3087d210		1	900000000000207008	TMP-qpi9lt	227511008	Pine nut	
+7055b2dc-e0b6-476b-b874-1a09ab383b15		1	900000000000207008	TMP-qpi9lt	227493005	Cashew nut	
+6807d51f-c92c-4f91-8932-c7c94247d2de		1	900000000000207008	TMP-qpi9lt	227444000	Raspberries	
+b7e85108-cbf6-47d8-913c-5ad96a24023f		1	900000000000207008	TMP-qpi9lt	227425007	Figs	
+5487d5ce-c3fe-465d-b000-155225a93507		1	900000000000207008	TMP-qpi9lt	227408005	Paprika	
+1a4ce7b5-5db5-4095-972a-7076a1b0d932		1	900000000000207008	TMP-qpi9lt	227400003	Ginger	
+1b6f2902-2bec-4cfa-a32f-7bfdb67c26ca		1	900000000000207008	TMP-qpi9lt	227395004	Curry powder	
+3b9d9661-a60a-4cd1-a77b-cbe920a0a083		1	900000000000207008	TMP-qpi9lt	227389000	Clove	
+417f1a6d-9d1d-4183-a38c-3c136fceabc3		1	900000000000207008	TMP-qpi9lt	227388008	Cinnamon	
+4f7f84e6-1bee-406e-bb6f-e12995dd92f2		1	900000000000207008	TMP-qpi9lt	227374009	Herbs and spices	
+2d437c90-c2f7-4e2c-8d6a-e8f510ea8af0		1	900000000000207008	TMP-qpi9lt	227313005	Pulse vegetable	
+d1903b53-e4ec-4236-b9dc-d141cf098804		1	900000000000207008	TMP-qpi9lt	227150003	Mussel	
+5440dbcf-f7a3-43da-832e-a3b79d508897		1	900000000000207008	TMP-qpi9lt	227144008	Tuna fish	
+83f9378b-a7d6-4c5d-aded-c9d24985c616		1	900000000000207008	TMP-qpi9lt	226934003	Pork	
+f4304253-a2bd-41cf-9fda-01fddb1f86ed		1	900000000000207008	TMP-qpi9lt	226915003	Red meat	
+d9821d99-b851-40c3-9a50-bd4437f6508d		1	900000000000207008	TMP-qpi9lt	226491003	Apple juice	
+85a8f2a4-9a1a-41f8-9863-a69731f40dcc		1	900000000000207008	TMP-qpi9lt	128489003	Sand	
+2b4b82c4-ccc0-4f74-a145-b037de6e330f		1	900000000000207008	TMP-qpi9lt	128488006	House dust	
+7a950363-a42f-45ac-a153-0d645139cf37		1	900000000000207008	TMP-qpi9lt	119417004	Organophosphate insecticide	
+cda03e2b-9d03-434f-ad60-751c96915a43		1	900000000000207008	TMP-qpi9lt	116637007	Fungus Antigen	
+420db308-af41-40c9-96d4-9e40f8b3260a		1	900000000000207008	TMP-qpi9lt	116560007	Clostridium perfringens epsilon toxin	
+04e87860-0858-46c4-8ac8-322017eb9c08		1	900000000000207008	TMP-qpi9lt	116549003	Organochlorine pesticide	
+ba04b709-f67a-4fed-a578-43ddd865f86e		1	900000000000207008	TMP-qpi9lt	115589000	Ethanolamine	
+ac371bc4-ced4-4b4f-b29b-ad21c08c1f9d		1	900000000000207008	TMP-qpi9lt	111088007	Latex	
+ac27c2c8-8bc7-4b6b-ad4a-0be34ea3c864		1	900000000000207008	TMP-qpi9lt	102264005	Cheese	
+4e9c4272-3ee6-4404-8776-4646001f1f06		1	900000000000207008	TMP-qpi9lt	102263004	Eggs (edible)	
+769d3387-8291-44ac-9e6b-244e9bd8c1bf		1	900000000000207008	TMP-qpi9lt	102262009	Chocolate	
+cd1100d2-be71-44f8-9363-5efa7a9a9374		1	900000000000207008	TMP-qpi9lt	102261002	Strawberry	
+e9c524dc-92c7-45cf-928b-f011ec60e55a		1	900000000000207008	TMP-qpi9lt	102259006	Citrus fruit	
+1458705c-467f-406b-9232-8d95f720f2fe		1	900000000000207008	TMP-qpi9lt	26159005	Clostridium tetani toxin	
+20def635-9568-4670-ab69-2ba61ec4179d		1	900000000000207008	TMP-qpi9lt	23182003	Cereal	
+4871e8da-497c-4af1-9c6a-3923240a347a		1	900000000000207008	TMP-qpi9lt	14402002	Wood	
+b0a40efd-18c0-4033-8da2-e393fb07531e		1	900000000000207008	TMP-qpi9lt	13652007	Silicone	
+d2ecd6ee-a8e7-44d5-ac0e-8e1454894f8e		1	900000000000207008	TMP-qpi9lt	13577000	Nut	
+df22e7e8-9470-4406-bfca-cb920f24f146		1	900000000000207008	TMP-qpi9lt	12510000	Eucalyptus oil	
+96a49947-b958-44c2-b2e0-45e55995e653		1	900000000000207008	TMP-qpi9lt	12503006	Aluminum	
+a6722693-fec6-4299-bb96-fd8f6738c175		1	900000000000207008	TMP-qpi9lt	11894001	Clostridium botulinum toxin	
+920236d9-30b8-489f-8e3d-c8fa7595677f		1	900000000000207008	TMP-qpi9lt	11526002	Aspartame	
+1a71ae2e-444c-406e-8f7c-9c409941858e		1	900000000000207008	TMP-qpi9lt	2309006	Gold	
+cfee7c4b-49ae-4ca2-82b0-9ae16abf0dd1		1	900000000000207008	TMP-qpi9lt	1985008	Vomitus	
+e8a3d144-50fc-4a65-b89e-4446e7edaa30		1	900000000000207008	TMP-qpi9lt	601000221108	Bordetella pertussis antigen-containing vaccine product	
+dfb28316-86b3-4598-b87f-c62f37caf4fa		1	900000000000207008	TMP-qpi9lt	735047000	Onion	
+b38dae99-9cc5-4052-9a7b-6d7a38a3278c		1	900000000000207008	TMP-qpi9lt	735046009	Nutmeg	
+3b791a45-0f5f-4296-abfe-2769f0cac5f8		1	900000000000207008	TMP-qpi9lt	735045008	Mushroom	
+b4f6cd79-9a6f-44a4-b7a6-029ead18c26e		1	900000000000207008	TMP-qpi9lt	735030001	Garlic	
+49690507-7132-4e15-9cd9-4b3750b8d25f		1	900000000000207008	TMP-qpi9lt	735029006	Shellfish	
+605a73e7-b846-4183-b7eb-5dc4798ce3c9		1	900000000000207008	TMP-qpi9lt	735006003	Squid	
+522b0aea-c76d-4c3b-87dc-eab3b6af9bf8		1	900000000000207008	TMP-qpi9lt	734881000	Tomato	
+b83f63f3-17c7-48c5-9bfa-969fc0c154cb		1	900000000000207008	TMP-qpi9lt	726764009	Broad bean	
+119e8637-a2d8-4f54-ae17-64df823c987b		1	900000000000207008	TMP-qpi9lt	726759005	Cuttlefish	
+25f91058-f204-406b-8aff-2d155471e02c		1	900000000000207008	TMP-qpi9lt	710943006	Cockroach protein	
+f737bd98-2481-4bd7-90a7-87377f178da2		1	900000000000207008	TMP-qpi9lt	710183004	Rabbit - meat	
+8e4d1c6a-9db5-44e4-a9d9-7b1175d9b4da		1	900000000000207008	TMP-qpi9lt	710179004	Lupine seed	
+bb59102d-64f9-43e9-8c9f-731d8fbba4b6		1	900000000000207008	TMP-qpi9lt	707239006	Corynebacterium spp toxin	
+ec3d035a-7494-458e-90af-85434fb2cde9		1	900000000000207008	TMP-qpi9lt	430503006	Glutamate	
+443cbf4a-1499-4559-b9e4-f17a349d9fd4		1	900000000000207008	TMP-qpi9lt	428601009	Paratyphoid vaccine	
+6d038406-199f-44a3-8a4c-dcf168308962		1	900000000000207008	TMP-qpi9lt	425620007	Metal	
+55bf4c4c-ce9e-418e-a6b6-a02cbc1d4184		1	900000000000207008	TMP-qpi9lt	421556008	Capsicum - pepper	
+aaa8436a-b3f0-4dea-afde-703aab22194e		1	900000000000207008	TMP-qpi9lt	419633007	White paraffin	
+73b1417a-8bd4-4a9e-8d5b-bfb7e54a16ef		1	900000000000207008	TMP-qpi9lt	419604006	Weed pollen	
+d6817384-eaa0-4d6e-9771-075514367ee9		1	900000000000207008	TMP-qpi9lt	419511003	Propensity to adverse reactions to drug	
+b25cfff3-9ac0-43e2-946f-b81d7325f7cb		1	900000000000207008	TMP-qpi9lt	419420009	Watermelon	
+762d587a-8a28-4c5d-beca-9ac075d1d54c		1	900000000000207008	TMP-qpi9lt	419199007	Allergy to substance	
+9c6ee6ec-bd4b-4735-9941-6dc41bf8c780		1	900000000000207008	TMP-qpi9lt	418920007	Adhesive agent	
+1559b5ad-b06c-4dad-b9f8-c1055b55dc14		1	900000000000207008	TMP-qpi9lt	418794003	Tetanospasmin	
+6fa7550b-664f-46ed-9d86-747188422a6e		1	900000000000207008	TMP-qpi9lt	418785009	Perfume	
+bc4eb2f7-ac26-49fe-95d1-0232ec14c2ea		1	900000000000207008	TMP-qpi9lt	418504009	Oat	
+5c272c94-77c7-4943-a140-24faeb1be87b		1	900000000000207008	TMP-qpi9lt	418490008	Tetanolysin	
+28862af3-c19b-4689-a23c-81c89701fdcc		1	900000000000207008	TMP-qpi9lt	418471000	Propensity to adverse reactions to food	
+0f3efc16-e961-482c-90be-eaea0c97d397		1	900000000000207008	TMP-qpi9lt	418268006	Bacillus Calmette-Guerin antigen-containing product	
+8f604ac6-cdc3-4297-b17a-795977b34fa4		1	900000000000207008	TMP-qpi9lt	418266005	Yellow paraffin	
+16e3ba7b-9ef6-4a94-8817-d254503b19c3		1	900000000000207008	TMP-qpi9lt	416098002	Allergy to drug	
+ddc4d745-3d57-4d59-b894-d58aa31d275f		1	900000000000207008	TMP-qpi9lt	415710007	Terpene	
+5df7a821-a951-445e-a6c9-1d95d3973c73		1	900000000000207008	TMP-qpi9lt	414285001	Allergy to food	
+cc5581b8-a762-4323-a35c-68fd15840295		1	900000000000207008	TMP-qpi9lt	412357001	Corn	
+75713b0e-b12a-4350-9f83-9de13ca1bad3		1	900000000000207008	TMP-qpi9lt	412161004	Wool	
+b2646807-a7d1-497b-9491-238424d4c892		1	900000000000207008	TMP-qpi9lt	412156001	Silk	
+8dab4810-8d31-476d-bc13-f422b5c1f0b4		1	900000000000207008	TMP-qpi9lt	412153009	Rabbit dander	
+737511e4-6865-4e33-9fbb-60f0eb7429e9		1	900000000000207008	TMP-qpi9lt	412150007	Insect debris	
+ea61cf02-2215-498c-b592-73b3eef9ea96		1	900000000000207008	TMP-qpi9lt	412145001	Hair dye	
+bc03c42e-bc9f-4a6b-b9fd-16cee9fe01f1		1	900000000000207008	TMP-qpi9lt	412071004	Wheat	
+26f98137-65b9-4e26-9225-59c8c1a38fc6		1	900000000000207008	TMP-qpi9lt	412070003	Vanilla	
+81863266-13a0-42bc-9067-4a69d6b17e6a		1	900000000000207008	TMP-qpi9lt	412068007	Rye	
+9f0b87c3-9ff1-4efc-b025-bc859e021af7		1	900000000000207008	TMP-qpi9lt	412061001	Blueberries	
+48e731fa-1b5d-4e9d-b64d-9f02ce3afd5b		1	900000000000207008	TMP-qpi9lt	410853002	Perfluorochemical	
+90b2a5f7-bcc4-498c-8b63-28d4e9ada419		1	900000000000207008	TMP-qpi9lt	409568008	Pentavalent botulinum toxoid vaccine	
+f7d9f90d-be22-4ade-9c7b-adc56b86f2af		1	900000000000207008	TMP-qpi9lt	406774009	Fish derived omega 3 fatty acid	
+8d6bd95c-f20f-42bd-9f80-35158f8c3256		1	900000000000207008	TMP-qpi9lt	396031000	Dimethicone	
+d5f1e30d-fd34-4c9e-b71e-832c21671267		1	900000000000207008	TMP-qpi9lt	391737006	Almond oil	
+17f49e28-d4b8-44af-99e8-0110b8bfb0be		1	900000000000207008	TMP-qpi9lt	387398009	Podophyllum resin	
+2ddbaac8-5f28-4a39-ad59-a573a5093784		1	900000000000207008	TMP-qpi9lt	387293003	Anthralin	
+1dba64f5-72ca-4f12-9345-60cd1d3a6e95		1	900000000000207008	TMP-qpi9lt	386936005	Azelaic acid	
+84189dc4-e18b-491d-86ee-ae8a7f5be855		1	900000000000207008	TMP-qpi9lt	346469000	House mite allergy vaccine	
+857c0e65-aeb8-41a2-94df-1e06a62afa1e		1	900000000000207008	TMP-qpi9lt	346468008	House dust allergy vaccine	
+529c6285-97a7-46f5-9b3f-b7c1415b8b9f		1	900000000000207008	TMP-qpi9lt	346467003	Horse allergy vaccine	
+7fe1af24-4165-4fb2-ab1c-95b3bdb511f9		1	900000000000207008	TMP-qpi9lt	346405008	Dog allergy vaccine	
+744bb595-b4ab-4d9a-9e6e-65becac34b26		1	900000000000207008	TMP-qpi9lt	346364006	Cat allergy vaccine	
+ba265e2c-27dd-4c4f-9ddc-1894cb492b29		1	900000000000207008	TMP-qpi9lt	346313005	Allergen extract vaccine	
+60d5e44a-6eaa-4222-ba3c-78962322f74c		1	900000000000207008	TMP-qpi9lt	320835005	Pollen allergy preparations	
+b2433638-4b72-42c0-a419-f68f2458a79e		1	900000000000207008	TMP-qpi9lt	311846002	Pyrethroid insecticide	
+d4f4f209-f84a-4cc6-afb1-490cb36fabe3		1	900000000000207008	TMP-qpi9lt	303315009	Spider venom	
+772360df-86b0-4c58-8902-e8358ea12395		1	900000000000207008	TMP-qpi9lt	303314008	Scorpion venom	
+cf2ffa16-887b-4e22-bb68-6c7b5cef8de1		1	900000000000207008	TMP-qpi9lt	303300008	Egg protein	
+18177ac3-bb89-44ef-9900-2a3957ed8921		1	900000000000207008	TMP-qpi9lt	289949002	Cypress pollen	
+312eea23-b4da-432c-a95d-1be9987e6206		1	900000000000207008	TMP-qpi9lt	289122001	Cosmetic material	
+c7e40efb-f6c1-4a99-9d49-1715cdbb89a9		1	900000000000207008	TMP-qpi9lt	288328004	Bee venom	
+64320999-59f4-4416-a429-7804febe8133		1	900000000000207008	TMP-qpi9lt	280939008	Insect venom	
+2801f0d8-6864-4886-997b-75568b7b7af6		1	900000000000207008	TMP-qpi9lt	278840001	Shrimp	
+b643481c-0c0a-43d9-a29e-ec357c12d971		1	900000000000207008	TMP-qpi9lt	276310004	Animal hair	
+e624332e-271c-4c30-ad09-b9b0aa1192c5		1	900000000000207008	TMP-qpi9lt	264337003	Seed	
+6e936463-5892-44cf-bfa2-dbbd2e9d0329		1	900000000000207008	TMP-qpi9lt	264331002	Grain	
+67353c03-3c13-49d1-a605-b912c88d48bd		1	900000000000207008	TMP-qpi9lt	72511004	Fruit	
+10ae41ee-7b74-4dd0-995e-0a7fee6f15f8		1	900000000000207008	TMP-qpi9lt	67324005	Rice	
+cbfe3d31-d241-4454-96e3-2077403fcb8a		1	900000000000207008	TMP-qpi9lt	66925006	Copper	
+ac2476b4-7d6e-4c78-bcbe-654964100483		1	900000000000207008	TMP-qpi9lt	63766005	Flour	
+67e50e43-0914-486b-a0c9-53978b2c0bdd		1	900000000000207008	TMP-qpi9lt	63338004	Drug flavoring	
+351c9920-11f3-4d07-8bd7-34f6ff4dc3e4		1	900000000000207008	TMP-qpi9lt	61789006	Dye	
+0e05cd09-2404-40b9-a380-d0f48c818716		1	900000000000207008	TMP-qpi9lt	59545008	Pesticide	
+6cf3234d-a4d1-4ec0-a28e-95780515ed56		1	900000000000207008	TMP-qpi9lt	59533004	Food additive	
+3e46a833-0d35-46fc-88eb-e9886c498292		1	900000000000207008	TMP-qpi9lt	59351004	Citrate	
+549a9f43-8f54-4fd5-a50d-0d659afdd306		1	900000000000207008	TMP-qpi9lt	59037007	Intolerance to drug	
+be46230a-0055-4d3d-b76e-e1804369cdcb		1	900000000000207008	TMP-qpi9lt	57720001	Anise oil	
+c265fcb1-887d-40aa-af16-ab628b51e7cc		1	900000000000207008	TMP-qpi9lt	57126000	Glue	
+e21f6dcc-cb51-4e5d-ac41-3f2f9d00aa31		1	900000000000207008	TMP-qpi9lt	52454007	Albumin	
+26d228fb-150e-4528-be33-0b6afb0e42ac		1	900000000000207008	TMP-qpi9lt	51905005	Mustard	
+3165f5c4-d263-4bb9-9f56-bdc3f7f53ee9		1	900000000000207008	TMP-qpi9lt	51420009	Silicon	
+b2ece8ef-1000-4830-bbd0-0c7b50444c33		1	900000000000207008	TMP-qpi9lt	47703008	Lactose	
+6aa12acf-2849-4705-ae2b-bb71d01c70bc		1	900000000000207008	TMP-qpi9lt	44027008	Seafood	
+a4473214-53c1-4b96-b5d7-45263288c064		1	900000000000207008	TMP-qpi9lt	43735007	Sulfur	
+bd9cbd96-3535-4944-843b-04fe707994d3		1	900000000000207008	TMP-qpi9lt	43230003	Rubber	
+d012edda-22b4-4fe0-8cf2-65f584490b08		1	900000000000207008	TMP-qpi9lt	42416001	Lanolin	
+7a5912cc-dc46-4f4e-a780-b2d98e0680f7		1	900000000000207008	TMP-qpi9lt	41967008	Silver	
+4a9aeb30-92b4-4b7b-80fd-3dbd6f5cb0c0		1	900000000000207008	TMP-qpi9lt	37146000	Typhus vaccine	
+7c7af4b0-e6d3-46ba-a285-caac7a36f27c		1	900000000000207008	TMP-qpi9lt	33396006	Nickel	
+bc06cc7f-ba4d-4c4d-97e5-553aed19d617		1	900000000000207008	TMP-qpi9lt	33008008	Dust	
+76c94371-50cd-4f75-ae34-abf887250be9		1	900000000000207008	TMP-qpi9lt	28647000	Meat	
+b898c0be-7939-4ef9-b2a1-910c98bf7473		1	900000000000207008	TMP-qpi9lt	28230009	Poultry	
+0cb8cca7-0a35-40eb-a9ba-20b1b6191469		1	900000000000207008	TMP-qpi9lt	3829006	Iron	
+fa267198-36a2-4854-9617-4f01690bfce8		1	900000000000207008	TMP-qpi9lt	2799001	Methylbenzethonium chloride	
+37397318-8d8c-4f28-96a9-7ae6700614d7		1	900000000000207008	TMP-qpi9lt	971000221109	Live attenuated Salmonella enterica subspecies enterica serovar Typhi antigen only vaccine product in oral dose form	
+2a77f8e0-7ef2-48e8-b26a-35d36c829992		1	900000000000207008	TMP-qpi9lt	871921009	Staphylococcus toxoid vaccine	
+312cbeaf-4ffc-4956-af08-744fdaeb9896		1	900000000000207008	TMP-qpi9lt	871918007	Rickettsia antigen-containing vaccine product	
+ad8c0c98-29e8-45c8-acc2-79cf32b828af		1	900000000000207008	TMP-qpi9lt	871908002	Human alphaherpesvirus 3 and Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens only vaccine product	
+ed828ccb-9b87-4970-a8f3-44ab38ba8a54		1	900000000000207008	TMP-qpi9lt	871895005	Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Hepatitis B virus and Human poliovirus antigens only vaccine product	
+293b2f10-9de1-4daa-b550-d618a7d86070		1	900000000000207008	TMP-qpi9lt	871889009	Acellular Bordetella pertussis and Corynebacterium diphtheriae and Hepatitis B virus and inactivated whole Human poliovirus antigens only vaccine product	
+7eb9cca1-41a5-4117-90e2-12e52e949f0e		1	900000000000207008	TMP-qpi9lt	871887006	Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Human poliovirus antigens only vaccine product	
+e52a02c8-bc33-4339-a5b0-a6aaa6e4dcf2		1	900000000000207008	TMP-qpi9lt	871878002	Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens only vaccine product	
+7f5c9845-2812-48c5-8529-a54b0e3fa386		1	900000000000207008	TMP-qpi9lt	871876003	Acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens only vaccine product	
+18cae6c4-1bdb-4bc6-ac2a-305ee9716bfa		1	900000000000207008	TMP-qpi9lt	871875004	Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens only vaccine product	
+ccb1519a-f0e1-47c0-b80b-3cfa464252a4		1	900000000000207008	TMP-qpi9lt	871873006	Neisseria meningitidis serogroup A, C, W135 and Y only vaccine product	
+a97fb21f-46e4-4644-afc9-4ec8227643de		1	900000000000207008	TMP-qpi9lt	871871008	Neisseria meningitidis serogroup A and C only vaccine product	
+b6645724-51ca-4db6-b1ae-b7e35f38cb9c		1	900000000000207008	TMP-qpi9lt	871866001	Neisseria meningitidis serogroup C only vaccine product	
+bd5f6946-09ee-4565-9856-43f90fc4181b		1	900000000000207008	TMP-qpi9lt	871839001	Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b antigens only vaccine product	
+8524b502-8d40-4fcc-ade4-112e8db1c07d		1	900000000000207008	TMP-qpi9lt	871837004	Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens only vaccine product	
+045c375e-6370-47a0-901d-9427fb77796a		1	900000000000207008	TMP-qpi9lt	871831003	Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens only vaccine product	
+6cf65058-7cb8-4d4a-a9fe-6384c1917efb		1	900000000000207008	TMP-qpi9lt	871826000	Clostridium tetani and Corynebacterium diphtheriae antigens only vaccine product	
+c0379422-b739-46ec-a09d-dc6347f3665e		1	900000000000207008	TMP-qpi9lt	871806004	Haemophilus influenzae type b and Hepatitis B virus antigens only vaccine product	
+4ed7a551-9010-4d15-a6f9-f149370e7491		1	900000000000207008	TMP-qpi9lt	871804001	Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens only vaccine product	
+43380408-d4a7-404b-b5bc-841b6f6ce478		1	900000000000207008	TMP-qpi9lt	871803007	Hepatitis A and Hepatitis B virus antigens only vaccine product	
+e71e6154-4cf4-40c7-9b51-7e8055b4a4a0		1	900000000000207008	TMP-qpi9lt	871772009	Influenza A virus subtype H1N1 antigen only vaccine product	
+5a8dc501-9a33-4502-abf5-2dd60c0f39a0		1	900000000000207008	TMP-qpi9lt	871768005	Influenza virus antigen only vaccine product in nasal dose form	
+618bfd3c-4caf-43a6-af07-c93581ce0eeb		1	900000000000207008	TMP-qpi9lt	871765008	Measles morbillivirus antigen only vaccine product	
+bf06f9ea-0b78-4665-ab63-68af858cbc5b		1	900000000000207008	TMP-qpi9lt	871759008	Acellular Bordetella pertussis only vaccine product	
+97240a08-3d9e-4591-a676-aa3eb3612263		1	900000000000207008	TMP-qpi9lt	871740006	Inactivated whole Human poliovirus antigen only vaccine product	
+188f0795-3a05-4880-b877-7d791e09b17e		1	900000000000207008	TMP-qpi9lt	871738001	Live attenuated Mumps orthorubulavirus antigen only vaccine product	
+f586576a-aa13-41c5-ae58-b2aa8ff9af8a		1	900000000000207008	TMP-qpi9lt	871737006	Mumps orthorubulavirus antigen only vaccine product	
+2c1f136d-8315-4750-a915-a3606381cb47		1	900000000000207008	TMP-qpi9lt	863911006	Clostridium tetani antigen-containing vaccine product	
+2abcb70d-9b7c-4760-807a-2d077b9b5916		1	900000000000207008	TMP-qpi9lt	840599008	Borrelia burgdorferi antigen-containing vaccine product	
+44853ddf-1f8f-4e70-9a12-9004433b8416		1	900000000000207008	TMP-qpi9lt	840549009	Yersinia pestis antigen-containing vaccine product	
+4a9e5c6b-ea09-4ea7-a24a-ca76e5dc230e		1	900000000000207008	TMP-qpi9lt	840536004	Severe acute respiratory syndrome coronavirus 2 antigen	
+10ac60dc-e831-4ea3-a769-fce26829b819		1	900000000000207008	TMP-qpi9lt	840535000	Severe acute respiratory syndrome coronavirus 2 antibody	
+9dd72cee-a53c-441d-bf8e-ac26bfb263b9		1	900000000000207008	TMP-qpi9lt	836500008	Haemophilus influenzae type b and Neisseria meningitidis serogroup C antigens only vaccine product	
+3ade7395-b196-4ab5-b622-2ff535cb5354		1	900000000000207008	TMP-qpi9lt	836498007	Mumps orthorubulavirus antigen-containing vaccine product	
+e6941786-2190-4566-9f36-9d18c61b9ff6		1	900000000000207008	TMP-qpi9lt	836495005	Human alphaherpesvirus 3 antigen-containing vaccine product	
+59fd1b4b-da60-4049-b412-428967081d35		1	900000000000207008	TMP-qpi9lt	836403007	Tick-borne encephalitis virus antigen-containing vaccine product	
+cc07bcab-45df-47b4-b674-659eeeac8715		1	900000000000207008	TMP-qpi9lt	836402002	Bacillus Calmette-Guerin antigen-containing vaccine product	
+e8f91d14-bd84-4815-b57e-dbeefede7e04		1	900000000000207008	TMP-qpi9lt	836401009	Neisseria meningitidis antigen-containing vaccine product	
+266b642c-9283-45ff-a2ee-8814d8cc55bd		1	900000000000207008	TMP-qpi9lt	836398006	Streptococcus pneumoniae antigen-containing vaccine product	
+69f8277d-1512-4b94-afc9-86a2eed3fa3c		1	900000000000207008	TMP-qpi9lt	836397001	Coxiella burnetii antigen-containing vaccine product	
+ba151427-b698-42fc-a41f-f79eb8576cac		1	900000000000207008	TMP-qpi9lt	836393002	Rabies lyssavirus antigen-containing vaccine product	
+9642c6e0-f52c-413c-b54d-798384c62bd3		1	900000000000207008	TMP-qpi9lt	836390004	Salmonella enterica subspecies enterica serovar Typhi antigen-containing vaccine product	
+ce2d0b4b-8bb4-4722-8d2a-887eaf06154f		1	900000000000207008	TMP-qpi9lt	836389008	Vaccinia virus antigen-containing vaccine product	
+d33c8ddc-dc3a-4b1a-839a-8fd461905cd7		1	900000000000207008	TMP-qpi9lt	836388000	Rubella virus antigen-containing vaccine product	
+95095da7-b0c7-4516-a9ca-e1021e166f38		1	900000000000207008	TMP-qpi9lt	836387005	Rotavirus antigen-containing vaccine product	
+1ef40132-3c5f-43f0-b622-d072003e0c10		1	900000000000207008	TMP-qpi9lt	836385002	Yellow fever virus antigen-containing vaccine product	
+60495048-8ce0-4ad4-9009-e7ffc92016c3		1	900000000000207008	TMP-qpi9lt	836384003	Bacillus anthracis antigen-containing vaccine product	
+8a9956ff-3ebd-4567-b5a0-68dc397525e8		1	900000000000207008	TMP-qpi9lt	836383009	Vibrio cholerae antigen-containing vaccine product	
+e923b865-2f18-41f3-9873-0f3208febc40		1	900000000000207008	TMP-qpi9lt	836382004	Measles morbillivirus antigen-containing vaccine product	
+85f03bf4-4a42-494d-acba-6c175c7d73dd		1	900000000000207008	TMP-qpi9lt	836381006	Corynebacterium diphtheriae antigen-containing vaccine product	
+dcb95168-da14-4fc7-90d6-eed9b435c2e8		1	900000000000207008	TMP-qpi9lt	836380007	Haemophilus influenzae type b antigen-containing vaccine product	
+a8f8cc84-248b-48e8-85d4-0ce6009455ce		1	900000000000207008	TMP-qpi9lt	836379009	Human papillomavirus antigen-containing vaccine product	
+2e919955-8f06-4507-a6db-c5e27a7f053e		1	900000000000207008	TMP-qpi9lt	836378001	Japanese encephalitis virus antigen-containing vaccine product	
+3b627e37-d0ab-4915-b05b-64e7f5581cc3		1	900000000000207008	TMP-qpi9lt	836377006	Influenza virus antigen-containing vaccine product	
+cd818e18-364c-4951-87a5-98740fe6f4f1		1	900000000000207008	TMP-qpi9lt	836375003	Hepatitis A virus antigen-containing vaccine product	
+a39834f3-7ce8-49bb-bd85-7643fc78f998		1	900000000000207008	TMP-qpi9lt	836374004	Hepatitis B virus antigen-containing vaccine product	
+471fe4c6-5364-4c59-b39f-aed0c30ba068		1	900000000000207008	TMP-qpi9lt	836369007	Virus antigen-containing vaccine product	
+30146e63-a60a-4e8a-87cf-48cf8fd4fa34		1	900000000000207008	TMP-qpi9lt	836368004	Bacteria antigen-containing vaccine product	
+6af36a88-00b3-4d89-bdc7-21545a995497		1	900000000000207008	TMP-qpi9lt	787859002	Vaccine product	
+d5d62e22-a67b-4c28-b64c-9644c861ac70		1	900000000000207008	TMP-qpi9lt	782594005	Allergy to soy protein	
+6ddc8bdb-94a0-46f9-adc8-1dd64d10dd57		1	900000000000207008	TMP-qpi9lt	782197009	Intolerance to substance	
+a019f9cf-d17e-49fb-b77b-0c871045e415		1	900000000000207008	TMP-qpi9lt	777725002	Clostridium tetani toxoid antigen adsorbed only vaccine product	
+cb2e05c3-a83f-42a6-8e98-0e9fe66d1529		1	900000000000207008	TMP-qpi9lt	775641005	Clostridium tetani toxoid adsorbed and Corynebacterium diphtheriae toxoid antigens only vaccine product	
+6741a8ef-e6d3-4f2d-b2b3-9c68866aa24f		1	900000000000207008	TMP-qpi9lt	774702006	Bacillus Calmette-Guerin antigen only product	
+0bc9beeb-2b05-4514-8370-0507a4dae020		1	900000000000207008	TMP-qpi9lt	774618008	Whole cell Bordetella pertussis and Clostridium tetani toxoid adsorbed and Corynebacterium diphtheriae toxoid antigens only vaccine product	
+b1b1387b-fbea-494a-85c7-ec7785eb7c14		1	900000000000207008	TMP-qpi9lt	772245002	Wool alcohol	
+4c910fa2-5400-4609-8adc-e2058fd4789d		1	900000000000207008	TMP-qpi9lt	767406000	Sulfite and/or sulfite derivative	
+c6682756-a8d9-431f-b00b-43fcbfc17657		1	900000000000207008	TMP-qpi9lt	762952008	Peanut	
+906196b6-e182-4bcd-8e19-dc552379c222		1	900000000000207008	TMP-qpi9lt	762766007	Edible substance	
+78e61510-2749-42cb-b689-6ae8a5acef4c		1	900000000000207008	TMP-qpi9lt	736258006	Insect salivary substance	
+fc3ad10c-a195-4b18-8f65-af7818716d1d		1	900000000000207008	TMP-qpi9lt	736162008	Lobster	
+5c6f753e-f2b3-4478-874d-77a28f54e073		1	900000000000207008	TMP-qpi9lt	736159005	Crab	
+433278c2-47f4-49fe-9bcb-95a33d1eac44		1	900000000000207008	TMP-qpi9lt	736031006	Oyster	
+a6af968d-3a6a-400b-a468-bf2d08541ca1		1	900000000000207008	TMP-qpi9lt	735979007	Octopus	
+e5626a6d-d5c0-4800-9deb-4dddaaae3941		1	900000000000207008	TMP-qpi9lt	735977009	Marine crustacean	
+b4eccafb-4ac5-403d-a71a-eaaabbd8b95a		1	900000000000207008	TMP-qpi9lt	735971005	Fish	
+c2097431-815d-431e-b6a1-ea50e53327c2		1	900000000000207008	TMP-qpi9lt	735341005	Fish oil	
+1097e028-0cb4-4510-9db3-0f6c264fd69a		1	900000000000207008	TMP-qpi9lt	735248001	Cherry	
+c9887c75-e089-43d8-95f2-4ba2e6408738		1	900000000000207008	TMP-qpi9lt	735245003	Cod	
+77e6f44a-8391-48e9-8968-777d8e52ed79		1	900000000000207008	TMP-qpi9lt	735215001	Apple	
+07acff81-e59c-4b0a-8c6e-424543bd6b88		1	900000000000207008	TMP-qpi9lt	735211005	Coconut	
+f9cf2e58-d53e-4d52-8189-fb17bc657735		1	900000000000207008	TMP-qpi9lt	735053000	Potato	
+81f29979-5fc6-481a-9d8a-fe31f048e4cb		1	900000000000207008	TMP-qpi9lt	735049002	Peach	
+ef218914-7d60-49a9-81e1-1e369672e535		1	900000000000207008	TMP-qpi9lt	91936005	Allergy to penicillin	
+9d64496a-0890-4323-aa06-4e246181ceee		1	900000000000207008	TMP-qpi9lt	91935009	Allergy to peanut	
+a47a6aaa-cbba-41c6-b266-f5031dd1f583		1	900000000000207008	TMP-qpi9lt	91598004	Benzoyl peroxide	
+a2c840de-ea31-4120-8505-c632255c4099		1	900000000000207008	TMP-qpi9lt	89889006	Cotton fiber	
+2c661685-ad95-43bc-9757-e38ed42c7ce4		1	900000000000207008	TMP-qpi9lt	89811004	Gluten	
+1852dd87-bfa7-4d9b-a7db-ba075084e2fe		1	900000000000207008	TMP-qpi9lt	83619009	Polyvinyl alcohol	
+39f7d5ce-52c5-4e0e-85a5-5d8649a78b58		1	900000000000207008	TMP-qpi9lt	80237000	Cocoa butter	
+4f905170-974a-4570-82a0-42917e05a3be		1	900000000000207008	TMP-qpi9lt	9021002	Carbaryl	
+362b7258-584c-432f-9922-7beff2ce92b5		1	900000000000207008	TMP-qpi9lt	7791007	Soybean protein	
