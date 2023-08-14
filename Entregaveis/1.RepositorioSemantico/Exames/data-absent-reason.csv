@@ -1,0 +1,181 @@
+resource_type,id,name,attr:Lvl,attr:Comments,company,website,location,public_access,logo_url,description,text,attr:ingredientes_codigoObm,full_name,owner_id,owner_type,source_type,default_locale,description,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],parent_concept_urls[0],map_type[0],map_from_concept_id[0],map_to_concept_id[0],map_type,to_concept_url,from_concept_url,attr:extra_names,collection_type,immutable,jurisdiction[1],jurisdiction[2],collection_url,data:expressions,name_type,name_locale
+Concept,unknown,Desconhecido,1,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The value is expected to exist but is not known.,,Unknown,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,asked-unknown,Perguntado mas Desconhecido,2,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The source was asked but does not know the value.,,Asked But Unknown,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,temp-unknown,Temporariamente Desconhecido,2,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,There is reason to expect (from the workflow) that the value may become known.,,Temporarily Unknown,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,not-asked,Não Questionado,2,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The workflow didn't lead to this value being known.,,Not Asked,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,asked-declined,Perguntado mas Recusado,2,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The source was asked but declined to answer.,,Asked But Declined,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,masked,Mascarado,1,"Using ""masked"" may be breach of security or confidentiality, but there are times when its use is required to support alternate workflows for gaining access to denied information.",,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,"The information is not available due to security, privacy or related reasons.",,Masked,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,not-applicable,Não aplicável,1,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,There is no proper value for this element (e.g. last menstrual period for a male).,,Not Applicable,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,unsupported,Sem Suporte,1,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The source system wasn't capable of supporting this element.,,Unsupported,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,as-text,Como Texto,1,"It may be linked by internal references (e.g. xml:id). This usually implies that the value could not be represented in the correct format - this may be due to system limitations, or this particular data value.",,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The content of the data is represented in the resource narrative.,,As Text,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,error,Erro,1,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,Some system or workflow process error means that the information is not available.,,Error,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,not-a-number,Não é um número (NaN),2,This is sometimes an output value from measuring devices.,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The numeric value is undefined or unrepresentable due to a floating point processing error.,,Not a Number (NaN),,,,,,,,,,,,,,,,Fully Specified,por
+Concept,negative-infinity,Infinito Negativo (NINF),2,This is sometimes an output value from measuring devices.,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The numeric value is excessively low and unrepresentable due to a floating point processing error.,,Negative Infinity (NINF),,,,,,,,,,,,,,,,Fully Specified,por
+Concept,positive-infinity,Infinito Positivo (PINF),2,This is sometimes an output value from measuring devices.,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,The numeric value is excessively high and unrepresentable due to a floating point processing error.,,Positive Infinity (PINF),,,,,,,,,,,,,,,,Fully Specified,por
+Concept,not-performed,Não Realizado,1,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,"The value is not available because the observation procedure (test, etc.) was not performed.",,Not Performed,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,not-permitted,Não  Permitido,1,"This is most often associated with required bindings that do not include the actual code used, but may be used with other data types.",,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,"The value is not permitted in this context (e.g. due to profiles, or the base data types).",,Not Permitted,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,text,Misc,data-absent-reason,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"7021 - amoxicilina,7653 - clavulanato de pot·ssio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
