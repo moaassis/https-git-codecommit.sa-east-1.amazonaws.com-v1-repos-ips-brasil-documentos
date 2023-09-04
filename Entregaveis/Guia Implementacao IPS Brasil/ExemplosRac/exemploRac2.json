@@ -1,0 +1,715 @@
+{
+  "resourceType": "Bundle",
+  "identifier": {
+    "system": "http://www.saude.gov.br/fhir/r4/NamingSystem/BRRNDS-3061",
+    "value": "8007535-7f3eb08e-2b24-4f32-b30d-223da022c359"
+  },
+  "type": "document",
+  "timestamp": "2023-08-16T18:50:50.526-03:00",
+  "meta": { "lastUpdated": "2022-05-09T18:11:18.946402Z" },
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:transient-0",
+      "resource": {
+        "resourceType": "Composition",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:28:34.132629Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRRegistroAtendimentoClinico"
+          ]
+        },
+        "status": "final",
+        "type": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRTipoDocumento",
+              "code": "RAC"
+            }
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRModalidadeAssistencial",
+                "code": "01"
+              }
+            ]
+          }
+        ],
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        },
+        "date": "2023-08-16T18:50:50.526-03:00",
+        "author": [
+          {
+            "identifier": {
+              "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstabelecimentoSaude-1.0",
+              "value": "8007535"
+            }
+          }
+        ],
+        "title": "Registro de Atendimento ClÃ­nico",
+        "section": [
+          { "entry": [{ "reference": "urn:uuid:transient-1" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-2" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-3" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-4" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-5" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-6" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-7" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-8" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-10" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-11" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-12" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-13" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-14" }] },
+          { "entry": [{ "reference": "urn:uuid:transient-15" }] }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-1",
+      "resource": {
+        "resourceType": "Encounter",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:31:16.551205Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRContatoAssistencial-1.0"
+          ]
+        },
+        "status": "finished",
+        "class": {
+          "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRModalidadeAssistencial",
+          "code": "01"
+        },
+        "priority": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCaraterAtendimento",
+              "code": "05"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        },
+        "participant": [
+          {
+            "type": [
+              {
+                "coding": [
+                  {
+                    "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRResponsabilidadeParticipante",
+                    "code": "atendimento"
+                  }
+                ]
+              }
+            ],
+            "individual": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRLotacaoProfissional-1.0",
+                "value": "225250664690005-8007535"
+              }
+            },
+            "extension": [
+              {
+                "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BROcupacao-1.0",
+                "valueCodeableConcept": {
+                  "coding": [
+                    {
+                      "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCBO",
+                      "code": "225142"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "period": {
+          "start": "2023-08-16T18:50:50.526-03:00",
+          "end": "2023-08-16T18:52:21.523-03:00"
+        },
+        "reasonReference": [{ "reference": "urn:uuid:transient-9" }],
+        "diagnosis": [
+          { "condition": { "reference": "urn:uuid:transient-2" } },
+          { "condition": { "reference": "urn:uuid:transient-3" } },
+          { "condition": { "reference": "urn:uuid:transient-4" } },
+          {
+            "condition": {
+              "extension": [
+                {
+                  "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRFinanciamento-1.0",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRFinanciamento",
+                        "code": "01"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "reference": "urn:uuid:transient-5"
+            }
+          },
+          {
+            "condition": {
+              "extension": [
+                {
+                  "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRFinanciamento-1.0",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRFinanciamento",
+                        "code": "01"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "reference": "urn:uuid:transient-6"
+            }
+          },
+          {
+            "condition": {
+              "extension": [
+                {
+                  "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRFinanciamento-1.0",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRFinanciamento",
+                        "code": "01"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "reference": "urn:uuid:transient-7"
+            }
+          },
+          {
+            "condition": {
+              "extension": [
+                {
+                  "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRFinanciamento-1.0",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRFinanciamento",
+                        "code": "01"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "reference": "urn:uuid:transient-8"
+            }
+          }
+        ],
+        "hospitalization": {
+          "admitSource": {
+            "coding": [
+              {
+                "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRProcedencia",
+                "code": "09"
+              }
+            ]
+          },
+          "dischargeDisposition": {
+            "coding": [
+              {
+                "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRMotivoDesfecho",
+                "code": "01"
+              }
+            ]
+          }
+        },
+        "serviceProvider": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstabelecimentoSaude-1.0",
+            "value": "8007535"
+          }
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-2",
+      "resource": {
+        "resourceType": "Condition",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:37:55.000322Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRProblemaDiagnostico"
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCIAP2",
+              "code": "A99"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-3",
+      "resource": {
+        "resourceType": "Condition",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:37:55.000322Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRProblemaDiagnostico"
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCID10",
+              "code": "O89"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-4",
+      "resource": {
+        "resourceType": "Condition",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:37:55.000322Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRProblemaDiagnostico"
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCIAP2",
+              "code": "A93"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-5",
+      "resource": {
+        "resourceType": "Procedure",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:39:08.701859Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRProcedimentoRealizado-1.0"
+          ]
+        },
+        "status": "completed",
+        "code": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRTabelaSUS",
+              "code": "0101040024"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        },
+        "performedDateTime": "2023-08-16T18:50:50.526-03:00",
+        "performer": [
+          {
+            "function": {
+              "coding": [
+                {
+                  "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCBO",
+                  "code": "225142"
+                }
+              ]
+            },
+            "actor": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRLotacaoProfissional-1.0",
+                "value": "225250664690005-8007535"
+              }
+            },
+            "onBehalfOf": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstabelecimentoSaude-1.0",
+                "value": "8007535"
+              }
+            }
+          }
+        ],
+        "extension": [
+          {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRQuantidade-1.0",
+            "valuePositiveInt": 1
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-6",
+      "resource": {
+        "resourceType": "Procedure",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:39:08.701859Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRProcedimentoRealizado-1.0"
+          ]
+        },
+        "status": "completed",
+        "code": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRTabelaSUS",
+              "code": "0301100039"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        },
+        "performedDateTime": "2023-08-16T18:50:50.526-03:00",
+        "performer": [
+          {
+            "function": {
+              "coding": [
+                {
+                  "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCBO",
+                  "code": "225142"
+                }
+              ]
+            },
+            "actor": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRLotacaoProfissional-1.0",
+                "value": "225250664690005-8007535"
+              }
+            },
+            "onBehalfOf": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstabelecimentoSaude-1.0",
+                "value": "8007535"
+              }
+            }
+          }
+        ],
+        "extension": [
+          {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRQuantidade-1.0",
+            "valuePositiveInt": 1
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-7",
+      "resource": {
+        "resourceType": "Procedure",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:39:08.701859Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRProcedimentoRealizado-1.0"
+          ]
+        },
+        "status": "completed",
+        "code": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRTabelaSUS",
+              "code": "0301100250"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        },
+        "performedDateTime": "2023-08-16T18:50:50.526-03:00",
+        "performer": [
+          {
+            "function": {
+              "coding": [
+                {
+                  "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCBO",
+                  "code": "225142"
+                }
+              ]
+            },
+            "actor": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRLotacaoProfissional-1.0",
+                "value": "225250664690005-8007535"
+              }
+            },
+            "onBehalfOf": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstabelecimentoSaude-1.0",
+                "value": "8007535"
+              }
+            }
+          }
+        ],
+        "extension": [
+          {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRQuantidade-1.0",
+            "valuePositiveInt": 1
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-8",
+      "resource": {
+        "resourceType": "Procedure",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:39:08.701859Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRProcedimentoRealizado-1.0"
+          ]
+        },
+        "status": "completed",
+        "code": {
+          "coding": [
+            {
+              "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRTabelaSUS",
+              "code": "0301010064"
+            }
+          ]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        },
+        "performedDateTime": "2023-08-16T18:50:50.526-03:00",
+        "performer": [
+          {
+            "function": {
+              "coding": [
+                {
+                  "system": "http://www.saude.gov.br/fhir/r4/CodeSystem/BRCBO",
+                  "code": "225142"
+                }
+              ]
+            },
+            "actor": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRLotacaoProfissional-1.0",
+                "value": "225250664690005-8007535"
+              }
+            },
+            "onBehalfOf": {
+              "identifier": {
+                "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BREstabelecimentoSaude-1.0",
+                "value": "8007535"
+              }
+            }
+          }
+        ],
+        "extension": [
+          {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRQuantidade-1.0",
+            "valuePositiveInt": 1
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-9",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "lastUpdated": "2022-05-09T17:37:55.000322Z",
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRObservacaoDescritiva-1.0"
+          ]
+        },
+        "status": "final",
+        "code": {
+          "coding": [{ "system": "https://loinc.org/", "code": "48767-8" }]
+        },
+        "subject": {
+          "identifier": {
+            "system": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRIndividuo-1.0",
+            "value": "94036045067"
+          }
+        },
+        "issued": "2023-08-16T18:50:50.526-03:00",
+        "valueString": "Teste de informaÃ§Ãµes do subjetivo"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-10",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRMedidaObservada"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BROrigemMedida",
+            "valueCodeableConcept": {
+              "coding": [{ "system": "https://loinc.org/", "code": "3137-7" }]
+            }
+          }
+        ],
+        "status": "final",
+        "code": {
+          "coding": [{ "system": "https://loinc.org/", "code": "8302-2" }]
+        },
+        "valueQuantity": {
+          "value": 175.0,
+          "system": "https://www.hl7.org/fhir/valueset-ucum-common.html",
+          "code": "cm"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-11",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRMedidaObservada"
+          ]
+        },
+        "status": "final",
+        "code": {
+          "coding": [{ "system": "https://loinc.org/", "code": "8280-0" }]
+        },
+        "valueQuantity": {
+          "value": 50.0,
+          "system": "https://www.hl7.org/fhir/valueset-ucum-common.html",
+          "code": "cm"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-12",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRMedidaObservada"
+          ]
+        },
+        "status": "final",
+        "code": {
+          "coding": [{ "system": "https://loinc.org/", "code": "9843-4" }]
+        },
+        "valueQuantity": {
+          "value": 61.0,
+          "system": "https://www.hl7.org/fhir/valueset-ucum-common.html",
+          "code": "cm"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-13",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRMedidaObservada"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://www.saude.gov.br/fhir/r4/StructureDefinition/BROrigemMedida",
+            "valueCodeableConcept": {
+              "coding": [{ "system": "https://loinc.org/", "code": "3137-7" }]
+            }
+          }
+        ],
+        "status": "final",
+        "code": {
+          "coding": [{ "system": "https://loinc.org/", "code": "29463-7" }]
+        },
+        "valueQuantity": {
+          "value": 78.0,
+          "system": "https://www.hl7.org/fhir/valueset-ucum-common.html",
+          "code": "kg"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-14",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRMedidaObservada"
+          ]
+        },
+        "status": "final",
+        "code": {
+          "coding": [{ "system": "https://loinc.org/", "code": "8480-6" }]
+        },
+        "valueQuantity": {
+          "value": 120.0,
+          "system": "https://www.hl7.org/fhir/valueset-ucum-common.html",
+          "code": "mm[hg]"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:transient-15",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://www.saude.gov.br/fhir/r4/StructureDefinition/BRMedidaObservada"
+          ]
+        },
+        "status": "final",
+        "code": {
+          "coding": [{ "system": "https://loinc.org/", "code": "8462-4" }]
+        },
+        "valueQuantity": {
+          "value": 80.0,
+          "system": "https://www.hl7.org/fhir/valueset-ucum-common.html",
+          "code": "mm[hg]"
+        }
+      }
+    }
+  ]
+}
