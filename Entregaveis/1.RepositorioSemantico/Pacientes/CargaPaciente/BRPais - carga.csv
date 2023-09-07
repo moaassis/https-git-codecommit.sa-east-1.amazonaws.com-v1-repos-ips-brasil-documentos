@@ -1,0 +1,347 @@
+resource_type,id,name,company,website,location,public_access,logo_url,attr:alpha3,attr:numeric,full_name,owner_id,owner_type,source_type,default_locale,description,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source
+Concept,10,BRASIL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,20,RESERVADO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,21,ARGENTINA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,22,BOLIVIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,23,CHILE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,24,PARAGUAI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,25,URUGUAI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,26,COLOMBIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,27,EQUADOR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,28,ANTIGUA E. DEP. BARBUDA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,29,ANTILHAS HOLANDESAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,30,ALEMANHA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,31,BELGICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,32,GRA-BRETANHA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,33,ARUBA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,34,CANADA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,35,ESPANHA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,36,ESTADOS UNIDOS DA AMERICA (EUA),,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,37,FRANCA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,38,SUICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,39,ITALIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,40,COMUNIDADE DAS BAHAMAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,41,JAPAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,42,CHINA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,43,COREIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,44,BARBADOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,45,PORTUGAL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,46,BELIZE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,47,ILHAS TURKS E CAICOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,48,RESERVADO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,49,RESERVADO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,50,RESERVADO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,51,COSTA RICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,52,CUBA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,53,CURACAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,54,COMUNIDADE DOMINICANA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,55,REPUBLICA DOMINICANA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,56,REPUBLICA DE EL SALVADOR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,57,ESTADOS ASSOC. DAS ANTILHAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,58,ILHAS FALKLANDS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,59,GRANADA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,60,ILHAS GUADALUPE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,61,GUATEMALA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,62,REPUBLICA DO HAITI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,63,HONDURAS BRITANICAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,64,HONDURAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,65,ILHAS SERRANAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,66,JAMAICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,67,ILHAS MALVINAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,68,MARTINICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,69,ILHA MILHOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,70,MONTE SERRAT,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,71,NICARAGUA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,72,PANAMA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,73,PANAMA(ZONA DO CANAL),,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,74,PORTO RICO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,75,QUITASUENO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,76,RONCADOR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,77,SANTA LUCIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,78,SAO CRISTOVAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,79,SAO VICENTE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,80,ILHAS TURCA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,81,ILHAS VIRGENS BRITANICAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,82,ILHAS VIRGENS AMERICANAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,83,BERMUDAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,84,GROENLANDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,85,MEXICO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,86,ST. PIERRE ET MIQUELON,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,87,GUIANA FRANCESA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,88,REPUBLICA GUIANA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,89,PERU,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,90,SURINAME,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,91,TRINIDAD E TOBAGO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,92,VENEZUELA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,93,ALBANIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,94,ANDORRA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,95,AUSTRIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,96,BULGARIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,97,CHIPRE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,98,DINAMARCA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,99,EIRE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,100,ESCOCIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,101,ILHAS FAROES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,102,FINLANDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,103,GIBRALTAR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,104,GRECIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,105,HOLANDA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,106,HUNGRIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,107,ILHAS BALEARES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,108,ILHAS COSMOLEDO (LOMORES),,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,109,ILHAS DO CANAL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,110,INGLATERRA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,111,IRLANDA DO NORTE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,112,IRLANDA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,113,ISLANDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,114,IUGOSLAVIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,115,LIECHTENSTEIN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,116,LUXEMBURGO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,117,ILHAS DE MAN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,118,MONACO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,119,NORUEGA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,120,REPUBLICA DE MALTA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,121,PAIS DE GALES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,122,PAISES BAIXOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,123,POLONIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,124,ROMENIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,125,SAN MARINO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,126,SUECIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,127,"SVALBARD E JAN MAYER,IS",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,128,TCHECOSLOVAQUIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,129,ESTADO DA CIDADE DO VATICANO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,130,CROACIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,131,SERVIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,132,ESLOVENIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,133,REPUBLICA DA MACEDONIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,134,BOSNIA HERZEGOVINA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,135,REPUBLICA TCHECA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,136,ESLOVAQUIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,137,MONTENEGRO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,138,AZERBAIJAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,139,BASHKISTA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,140,REPUBLICA DA BIELORRUSSIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,141,BURYAT,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,142,CARELIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,143,CAZAQUISTAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,144,CHECHEN INGUSTH,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,145,CHUVASH,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,146,DAGESTA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,147,ESTONIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,148,GEORGIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,149,GORNO ALTAI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,150,KABARDINO BALKAR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,151,KALMIR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,152,KARACHAEVOCHERKESS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,153,KHAKASS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,154,KOMI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,155,LETONIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,156,LITUANIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,157,MARI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,158,MOLDAVIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,159,OSSETIA SETENTRIONAL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,160,QUIRGUISTAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,161,TADJIQUISTAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,162,TARTARIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,163,TURCOMENISTAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,164,TUVIN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,165,UCRANIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,166,UDMURT,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,167,UNIAO SOVIETICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,168,UZBEQUISTAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,169,YAKUT,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,170,ABISSINIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,171,ACORES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,172,AFAR FRANCES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,173,REPUBLICA DA AFRICA DO SUL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,174,ALTA VOLTA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,175,ANGOLA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,176,ARGELIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,177,BECHUANALANDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,178,BENIN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,179,BOTSUANA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,180,BURUNDI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,181,CAMAROES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,182,CEUTA E MELILLA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,183,CHADE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,184,ILHAS COMORES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,185,CONGO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,186,COSTA DO MARFIM,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,187,DAOME,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,188,DJIBUTI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,189,REPUBLICA ARABE DO EGITO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,190,ETIOPIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,191,REPUBLICA DO GABAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,192,GAMBIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,193,GANA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,194,GAZA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,195,GUINE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,196,GUINE EQUATORIAL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,197,IFNI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,198,"ASCENSAO E TRISTAO DA CUNHA,IS",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,199,ILHAS CANARIAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,200,LESOTO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,201,LIBERIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,202,LIBIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,203,MADEIRA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,204,MALAWI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,205,MADAGASCAR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,206,MALI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,207,MARROCOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,208,MAURICIO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,209,MAURITANIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,210,MOCAMBIQUE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,211,NGUANE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,212,REPUBLICA DO NIGER,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,213,NIGERIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,214,PAPUA NOVA GUINE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,215,PRACAS NORTE AFRICANAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,216,PROTETOR DO SUDOESTE AFRICANO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,217,QUENIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,218,REPUBLICA CENTRO AFRICANA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,219,REUNIAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,220,RODESIA (ZIMBABWE),,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,221,RUANDA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,222,SAARA ESPANHOL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,223,SANTA HELENA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,224,SAO TOME E PRINCIPE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,225,SEYCHELLES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,226,SERRA LEOA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,227,"SOMALIA, REPUBLICA",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,228,SUAZILANDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,229,SUDAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,230,TANGANICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,231,TERRIT. BRITANICO DO OCEANO INDICO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,232,TRANSKEI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,233,TOGO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,234,TUNISIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,235,UGANDA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,236,ZAIRE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,237,ZAMBIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,238,BURKINA FASSO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,239,ZIMBABWE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,240,NAMIBIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,241,AFEGANISTAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,242,ARABIA SAUDITA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,243,BAHREIN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,244,BIRMANIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,245,BRUNEI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,246,BHUTAN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,247,CATAR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,248,CEILAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,249,CHINA (TAIWAN),,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,250,COVEITE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,251,EMIRADOS ARABES UNIDOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,252,FILIPINAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,253,HONG-KONG,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,254,IEMEN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,255,INDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,256,INDONESIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,257,IRA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,258,IRAQUE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,259,ISRAEL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,260,JORDANIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,261,KMER/CAMBOJA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,262,KUWAIT,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,263,LAOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,264,LIBANO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,265,MACAU,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,266,MALASIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,267,"MALDIVAS,IS",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,268,MASCATE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,269,MONGOLIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,270,NEPAL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,271,OMAN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,272,PALESTINA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,273,PAQUISTAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,274,"RUIQUIU,IS",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,275,CINGAPURA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,276,SEQUIN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,277,SIRIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,278,SRI-LANKA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,279,TAILANDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,280,"TREGUA, ESTADO",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,281,TURQUIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,282,VIETNA DO NORTE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,283,VIETNA DO SUL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,284,MIANMA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,285,ARQUIPELAGO MANAHIKI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,286,ARQUIPELAGO MIDWAY,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,287,ASHMORE E CARTIER,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,288,AUSTRALIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,289,ARQUIPELAGO DE BISMARK,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,290,ILHAS COOK,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,291,REPUBLICA DE FIJI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,292,GUAM,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,293,ILHAS BAKER,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,294,ILHAS CANTAO E ENDERBURG,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,295,ILHAS CAROLINAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,296,ILHAS DO PACIFICO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,297,ILHAS CHRISTMAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,298,ILHAS GILBERT,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,299,ILHAS HOWLAND E JARVIS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,300,ILHA JOHNSTON E SAND,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,301,ILHAS KINGMAN REEF,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,302,ILHAS MACQUAIRE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,303,ILHAS MARIANAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,304,ILHAS MARSHALL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,305,ILHAS MACDONAL E HEARD,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,306,ILHAS NIUE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,307,ILHAS NORFOLK,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,308,ILHAS PALAU,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,309,ILHAS SALOMAO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,310,ILHAS TOKELAU,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,311,ILHAS WAKE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,312,KALIMATAN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,313,ILHAS LINHA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,314,NAURU,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,315,ILHAS NOVA CALEDONIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,316,NOVA GUINE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,317,NOVA ZELANDIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,318,ILHAS NOVAS HEBRIDAS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,319,TERRITORIO DE PAPUA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,320,ILHAS PASCOA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,321,ILHAS PITCAIRIN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,322,POLINESIA FRANCESA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,323,SABAH,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,324,SAMOA AMERICANA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,325,SAMOA OCIDENTAL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,326,ILHAS SANTA CRUZ,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,327,SARAWAK,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,328,TERRITORIO DE COCOS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,329,TIMOR,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,330,TONGA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,331,TUVALU,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,332,ILHAS WALLIS E FUTUNA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,333,"ANTARTICO BRITANICO, TERRITORIO",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,334,ANTARTICA FRANCESA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,335,TERR. ANTARTICO DA AUSTRALIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,336,ANTARTICO CHILENO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,337,ANTARTICO ARGENTINO,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,338,ANTARTICO NORUEGUES,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,339,APATRIDA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,340,DEPENDENCIA DE ROSS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,341,TERRAS AUSTRAIS,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,342,BANGLADESH,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,343,CABO VERDE,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,344,GUINE BISSAU,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,345,IEMEN DO SUL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,346,KARA KALPAK,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,347,ARMENIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,348,RUSSIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,349,SENEGAL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,350,TANZANIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,351,MALAUI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,352,REPÚBLICA DO SUDÃO DO SUL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,353,ERITREIA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,354,DOMINICA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,355,"COREIA, REPUBLICA DA (COREIA DO SUL)",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,356,"CONGO, REPUBLICA DO (BRAZZAVILLE)",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,357,ANGUILLA,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,358,ILHAS CAYMAN,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,359,ILHAS DE GUERNSEY,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,360,ILHAS DE JERSEY,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,361,ILHAS GEORGIA DO SUL E ILHAS SANDWICH DO SUL,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,362,"MAYOTTE, ILHA",,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+Concept,363,QUIRIBATI,,,,,,,,,MS,Organization,,por,,TRUE,,TRUE,,,Text,Misc,BRPais
+,,,,,,,,,,,,,, ,, ,,,,,,,
