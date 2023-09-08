@@ -1,0 +1,1000 @@
+resource_type,id,name,location,public_access,attr:co_uf,attr:nu_latitud,attr:nu_longit,attr:co_status,full_name,owner_id,owner_type,source_type,default_locale,description,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source
+Concept,1100015,Alta Floresta D'Oeste,por,,11,"-11,94",-62,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100023,Ariquemes,por,,11,"-9,91","-63,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100031,Cabixi,por,,11,"-13,5","-60,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100049,Cacoal,por,,11,"-11,43","-61,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100056,Cerejeiras,por,,11,"-13,2","-60,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100064,Colorado do Oeste,por,,11,"-13,13","-60,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100072,Corumbiara,por,,11,-13,"-60,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100080,Costa Marques,por,,11,"-12,44","-64,23",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100098,Espigão D'Oeste,por,,11,"-11,53","-61,02",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100106,Guajará-Mirim,por,,11,"-10,77","-65,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100114,Jaru,por,,11,"-10,44","-62,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100122,Ji-Paraná,por,,11,"-10,88","-61,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100130,Machadinho D'Oeste,por,,11,"-9,43",-62,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100148,Nova Brasilândia D'Oeste,por,,11,"-11,72","-62,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100155,Ouro Preto do Oeste,por,,11,"-10,72","-62,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100189,Pimenta Bueno,por,,11,"-11,68","-61,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100205,Porto Velho,por,,11,"-8,77","-63,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100254,Presidente Médici,por,,11,"-11,17","-61,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100262,Rio Crespo,por,,11,"-9,71","-62,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100288,Rolim de Moura,por,,11,"-11,72","-61,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100296,Santa Luzia D'Oeste,por,,11,"-11,91","-61,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100304,Vilhena,por,,11,"-12,74","-60,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100320,São Miguel do Guaporé,por,,11,"-11,7","-62,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100338,Nova Mamoré,por,,11,"-10,41","-65,33",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100346,Alvorada D'Oeste,por,,11,"-11,34","-62,28",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100379,Alto Alegre dos Parecis,por,,11,"-12,13","-61,85",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100403,Alto Paraíso,por,,11,"-9,72","-63,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100452,Buritis,por,,11,"-10,21","-63,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100502,Novo Horizonte do Oeste,por,,11,"-11,71","-61,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100601,Cacaulândia,por,,11,"-10,34","-62,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100700,Campo Novo de Rondônia,por,,11,"-10,57","-63,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100809,Candeias do Jamari,por,,11,"-8,79","-63,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100908,Castanheiras,por,,11,"-11,43","-61,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100924,Chupinguaia,por,,11,"-12,56","-60,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1100940,Cujubim,por,,11,"-9,38","-62,59",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101005,Governador Jorge Teixeira,por,,11,"-10,61","-62,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101104,Itapuã do Oeste,por,,11,"-9,19","-63,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101203,Ministro Andreazza,por,,11,"-11,2","-61,52",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101302,Mirante da Serra,por,,11,"-11,05","-62,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101401,Monte Negro,por,,11,"-10,26","-63,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101435,Nova União,por,,11,"-10,92","-62,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101450,Parecis,por,,11,"-12,18","-61,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101468,Pimenteiras do Oeste,por,,11,"-13,48","-61,04",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101476,Primavera de Rondônia,por,,11,"-11,83","-61,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101484,São Felipe D'Oeste,por,,11,"-11,91","-61,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101492,São Francisco do Guaporé,por,,11,"-12,06","-63,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101500,Seringueiras,por,,11,"-11,77","-63,04",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101559,Teixeirópolis,por,,11,"-10,93","-62,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101609,Theobroma,por,,11,"-10,25","-62,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101708,Urupá,por,,11,"-11,13","-62,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101757,Vale do Anari,por,,11,"-9,85","-62,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1101807,Vale do Paraíso,por,,11,"-10,43","-62,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200013,Acrelândia,por,,12,"-10,07","-67,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200054,Assis Brasil,por,,12,"-10,94","-69,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200104,Brasiléia,por,,12,"-11,02","-68,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200138,Bujari,por,,12,"-9,82","-67,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200179,Capixaba,por,,12,"-10,57","-67,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200203,Cruzeiro do Sul,por,,12,"-7,63","-72,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200252,Epitaciolândia,por,,12,"-11,03","-68,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200302,Feijó,por,,12,"-8,16","-70,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200328,Jordão,por,,12,"-9,19","-71,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200336,Mâncio Lima,por,,12,"-7,59","-72,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200344,Manoel Urbano,por,,12,"-8,84","-69,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200351,Marechal Thaumaturgo,por,,12,"-8,95","-72,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200385,Plácido de Castro,por,,12,"-10,34","-67,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200393,Porto Walter,por,,12,"-8,27","-72,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200401,Rio Branco,por,,12,"-9,98","-67,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200427,Rodrigues Alves,por,,12,"-7,73","-72,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200435,Santa Rosa do Purus,por,,12,"-9,44","-70,49",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200450,Senador Guiomard,por,,12,"-10,15","-67,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200500,Sena Madureira,por,,12,"-9,07","-68,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200609,Tarauacá,por,,12,"-8,16","-70,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200708,Xapuri,por,,12,"-10,65","-68,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1200807,Porto Acre,por,,12,"-9,6","-67,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300029,Alvarães,por,,13,"-3,22","-64,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300060,Amaturá,por,,13,"-3,37","-68,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300086,Anamã,por,,13,"-3,58","-61,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300102,Anori,por,,13,"-3,75","-61,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300144,Apuí,por,,13,"-7,2","-59,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300201,Atalaia do Norte,por,,13,"-4,37","-70,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300300,Autazes,por,,13,"-3,58","-59,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300409,Barcelos,por,,13,"-0,97","-62,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300508,Barreirinha,por,,13,"-2,8","-57,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300607,Benjamin Constant,por,,13,"-4,37","-70,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300631,Beruri,por,,13,"-3,89","-61,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300680,Boa Vista do Ramos,por,,13,"-2,97","-57,59",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300706,Boca do Acre,por,,13,"-8,75","-67,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300805,Borba,por,,13,"-4,39","-59,59",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300839,Caapiranga,por,,13,"-3,33","-61,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1300904,Canutama,por,,13,"-6,53","-64,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301001,Carauari,por,,13,"-4,88","-66,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301100,Careiro,por,,13,"-3,82","-60,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301159,Careiro da Várzea,por,,13,"-3,2","-59,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301209,Coari,por,,13,"-4,08","-63,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301308,Codajás,por,,13,"-3,84","-62,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301407,Eirunepé,por,,13,"-6,67","-69,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301506,Envira,por,,13,"-7,44","-70,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301605,Fonte Boa,por,,13,"-2,51","-66,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301654,Guajará,por,,13,"-7,55","-72,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301704,Humaitá,por,,13,"-7,51","-63,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301803,Ipixuna,por,,13,"-7,05","-71,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301852,Iranduba,por,,13,"-3,28","-60,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301902,Itacoatiara,por,,13,"-3,14","-58,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1301951,Itamarati,por,,13,"-6,44","-68,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302009,Itapiranga,por,,13,"-2,74","-58,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302108,Japurá,por,,13,"-1,88",-67,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302207,Juruá,por,,13,"-3,47","-66,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302306,Jutaí,por,,13,"-2,74","-66,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302405,Lábrea,por,,13,"-7,26","-64,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302504,Manacapuru,por,,13,"-3,3","-60,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302553,Manaquiri,por,,13,"-3,43","-60,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302603,Manaus,por,,13,"-3,13","-60,02",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302702,Manicoré,por,,13,"-5,81","-61,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302801,Maraã,por,,13,"-1,87","-65,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1302900,Maués,por,,13,"-3,39","-57,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303007,Nhamundá,por,,13,"-2,19","-56,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303106,Nova Olinda do Norte,por,,13,"-3,89","-59,09",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303205,Novo Airão,por,,13,"-2,62","-60,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303304,Novo Aripuanã,por,,13,"-5,12","-60,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303403,Parintins,por,,13,"-2,63","-56,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303502,Pauini,por,,13,"-7,71",-67,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303536,Presidente Figueiredo,por,,13,"-2,06","-60,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303569,Rio Preto da Eva,por,,13,"-2,69","-59,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303601,Santa Isabel do Rio Negro,por,,13,"-0,42","-65,02",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303700,Santo Antônio do Içá,por,,13,"-3,11","-67,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303809,São Gabriel da Cachoeira,por,,13,"-0,14","-67,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303908,São Paulo de Olivença,por,,13,"-3,47","-68,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1303957,São Sebastião do Uatumã,por,,13,"-2,57","-57,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304005,Silves,por,,13,"-2,84","-58,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304062,Tabatinga,por,,13,"-4,23","-69,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304104,Tapauá,por,,13,"-5,62","-63,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304203,Tefé,por,,13,"-3,35","-64,71",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304237,Tonantins,por,,13,"-2,86","-67,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304260,Uarini,por,,13,"-2,98","-65,16",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304302,Urucará,por,,13,"-2,54","-57,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1304401,Urucurituba,por,,13,"-3,13","-58,16",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400027,Amajari,por,,14,"3,65","-61,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400050,Alto Alegre,por,,14,"2,99","-61,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400100,Boa Vista,por,,14,"2,82","-60,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400159,Bonfim,por,,14,"3,35","-59,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400175,Cantá,por,,14,"2,61","-60,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400209,Caracaraí,por,,14,"1,8","-61,15",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400233,Caroebe,por,,14,"0,87","-59,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400282,Iracema,por,,14,"2,17","-61,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400308,Mucajaí,por,,14,"2,48","-60,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400407,Normandia,por,,14,"3,88","-59,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400456,Pacaraima,por,,14,"4,48","-61,15",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400472,Rorainópolis,por,,14,"0,94","-60,43",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400506,São João da Baliza,por,,14,"0,95","-59,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400605,São Luiz,por,,14,"1,02","-60,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1400704,Uiramutã,por,,14,"4,59","-60,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500107,Abaetetuba,por,,15,"-1,72","-48,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500131,Abel Figueiredo,por,,15,"-4,95","-48,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500206,Acará,por,,15,"-1,96","-48,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500305,Afuá,por,,15,"-0,16","-50,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500347,Água Azul do Norte,por,,15,"-6,8","-50,49",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500404,Alenquer,por,,15,"-1,95","-54,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500503,Almeirim,por,,15,"-1,53","-52,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500602,Altamira,por,,15,"-3,21","-52,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500701,Anajás,por,,15,"-0,98","-49,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500800,Ananindeua,por,,15,"-1,37","-48,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500859,Anapu,por,,15,"-3,48","-51,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500909,Augusto Corrêa,por,,15,"-1,02","-46,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1500958,Aurora do Pará,por,,15,"-2,13","-47,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501006,Aveiro,por,,15,"-3,61","-55,33",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501105,Bagre,por,,15,"-1,89","-50,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501204,Baião,por,,15,"-2,79","-49,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501253,Bannach,por,,15,"-7,35","-50,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501303,Barcarena,por,,15,"-1,51","-48,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501402,Belém,por,,15,"-1,46","-48,49",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501451,Belterra,por,,15,"-2,65","-54,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501501,Benevides,por,,15,"-1,36","-48,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501576,Bom Jesus do Tocantins,por,,15,"-5,05","-48,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501600,Bonito,por,,15,"-1,37","-47,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501709,Bragança,por,,15,"-1,05","-46,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501725,Brasil Novo,por,,15,"-3,3","-52,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501758,Brejo Grande do Araguaia,por,,15,"-5,71","-48,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501782,Breu Branco,por,,15,"-3,78","-49,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501808,Breves,por,,15,"-1,69","-50,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501907,Bujaru,por,,15,"-1,51","-48,04",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1501956,Cachoeira do Piriá,por,,15,"-1,75","-46,55",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502004,Cachoeira do Arari,por,,15,"-1,01","-48,96",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502103,Cametá,por,,15,"-2,25","-49,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502152,Canaã dos Carajás,por,,15,"-6,53","-49,85",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502202,Capanema,por,,15,"-1,19","-47,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502301,Capitão Poço,por,,15,"-1,75","-47,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502400,Castanhal,por,,15,"-1,3","-47,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502509,Chaves,por,,15,"-0,16","-49,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502608,Colares,por,,15,"-0,93","-48,29",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502707,Conceição do Araguaia,por,,15,"-8,26","-49,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502756,Concórdia do Pará,por,,15,"-1,98","-47,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502764,Cumaru do Norte,por,,15,"-7,81","-50,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502772,Curionópolis,por,,15,"-6,1","-49,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502806,Curralinho,por,,15,"-1,81","-49,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502855,Curuá,por,,15,"-1,89","-55,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502905,Curuçá,por,,15,"-0,73","-47,85",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502939,Dom Eliseu,por,,15,"-4,29","-47,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1502954,Eldorado do Carajás,por,,15,"-6,1","-49,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503002,Faro,por,,15,"-2,17","-56,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503044,Floresta do Araguaia,por,,15,"-7,56","-49,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503077,Garrafão do Norte,por,,15,"-1,93","-47,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503093,Goianésia do Pará,por,,15,"-3,84","-49,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503101,Gurupá,por,,15,"-1,4","-51,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503200,Igarapé-Açu,por,,15,"-1,12","-47,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503309,Igarapé-Miri,por,,15,"-1,98","-48,96",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503408,Inhangapi,por,,15,"-1,43","-47,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503457,Ipixuna do Pará,por,,15,"-2,56","-47,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503507,Irituia,por,,15,"-1,77","-47,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503606,Itaituba,por,,15,"-4,26","-55,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503705,Itupiranga,por,,15,"-5,13","-49,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503754,Jacareacanga,por,,15,"-6,22","-57,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503804,Jacundá,por,,15,"-4,45","-49,11",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1503903,Juruti,por,,15,"-2,16","-56,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504000,Limoeiro do Ajuru,por,,15,"-1,89","-49,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504059,Mãe do Rio,por,,15,"-2,05","-47,55",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504109,Magalhães Barata,por,,15,"-0,8","-47,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504208,Marabá,por,,15,"-5,35","-49,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504307,Maracanã,por,,15,"-0,76","-47,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504406,Marapanim,por,,15,"-0,71","-47,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504422,Marituba,por,,15,"-1,35","-48,34",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504455,Medicilândia,por,,15,"-3,45","-52,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504505,Melgaço,por,,15,"-1,8","-50,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504604,Mocajuba,por,,15,"-2,58","-49,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504703,Moju,por,,15,"-1,89","-48,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504752,Mojuí dos Campos,por,,15,"-2,68","-54,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504802,Monte Alegre,por,,15,-2,"-54,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504901,Muaná,por,,15,"-1,53","-49,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504950,Nova Esperança do Piriá,por,,15,"-2,27","-46,96",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1504976,Nova Ipixuna,por,,15,"-4,92","-49,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505007,Nova Timboteua,por,,15,"-1,2","-47,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505031,Novo Progresso,por,,15,"-7,03","-55,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505064,Novo Repartimento,por,,15,"-4,25","-49,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505106,Óbidos,por,,15,"-1,91","-55,52",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505205,Oeiras do Pará,por,,15,-2,"-49,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505304,Oriximiná,por,,15,"-1,76","-55,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505403,Ourém,por,,15,"-1,55","-47,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505437,Ourilândia do Norte,por,,15,"-6,74","-51,09",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505486,Pacajá,por,,15,"-3,83","-50,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505494,Palestina do Pará,por,,15,"-5,75","-48,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505502,Paragominas,por,,15,"-2,99","-47,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505536,Parauapebas,por,,15,"-6,07","-49,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505551,Pau D'Arco,por,,15,"-7,84","-50,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505601,Peixe-Boi,por,,15,"-1,19","-47,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505635,Piçarra,por,,15,"-6,45","-48,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505650,Placas,por,,15,"-3,87","-54,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505700,Ponta de Pedras,por,,15,"-1,4","-48,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505809,Portel,por,,15,"-1,94","-50,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1505908,Porto de Moz,por,,15,"-1,75","-52,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506005,Prainha,por,,15,"-1,81","-53,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506104,Primavera,por,,15,"-0,94","-47,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506112,Quatipuru,por,,15,"-0,9","-47,01",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506138,Redenção,por,,15,"-8,03","-50,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506161,Rio Maria,por,,15,"-7,31","-50,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506187,Rondon do Pará,por,,15,"-4,78","-48,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506195,Rurópolis,por,,15,"-4,1","-54,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506203,Salinópolis,por,,15,"-0,62","-47,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506302,Salvaterra,por,,15,"-0,75","-48,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506351,Santa Bárbara do Pará,por,,15,"-1,23","-48,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506401,Santa Cruz do Arari,por,,15,"-0,66","-49,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506500,Santa Izabel do Pará,por,,15,"-1,3","-48,16",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506559,Santa Luzia do Pará,por,,15,"-1,52","-46,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506583,Santa Maria das Barreiras,por,,15,"-8,87","-49,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506609,Santa Maria do Pará,por,,15,"-1,35","-47,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506708,Santana do Araguaia,por,,15,"-9,33","-50,34",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506807,Santarém,por,,15,"-2,44","-54,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1506906,Santarém Novo,por,,15,"-0,93","-47,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507003,Santo Antônio do Tauá,por,,15,"-1,15","-48,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507102,São Caetano de Odivelas,por,,15,"-0,75","-48,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507151,São Domingos do Araguaia,por,,15,"-5,55","-48,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507201,São Domingos do Capim,por,,15,"-1,68","-47,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507300,São Félix do Xingu,por,,15,"-6,64","-51,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507409,São Francisco do Pará,por,,15,"-1,17","-47,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507458,São Geraldo do Araguaia,por,,15,"-6,4","-48,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507466,São João da Ponta,por,,15,"-0,85","-47,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507474,São João de Pirabas,por,,15,"-0,77","-47,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507508,São João do Araguaia,por,,15,"-5,36","-48,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507607,São Miguel do Guamá,por,,15,"-1,62","-47,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507706,São Sebastião da Boa Vista,por,,15,"-1,72","-49,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507755,Sapucaia,por,,15,"-6,94","-49,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507805,Senador José Porfírio,por,,15,"-2,59","-51,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507904,Soure,por,,15,"-0,73","-48,52",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507953,Tailândia,por,,15,"-2,94","-48,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507961,Terra Alta,por,,15,"-1,03","-47,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1507979,Terra Santa,por,,15,"-2,11","-56,49",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508001,Tomé-Açu,por,,15,"-2,42","-48,15",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508035,Tracuateua,por,,15,"-1,07","-46,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508050,Trairão,por,,15,"-4,7",-56,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508084,Tucumã,por,,15,"-6,75","-51,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508100,Tucuruí,por,,15,"-3,77","-49,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508126,Ulianópolis,por,,15,"-3,76","-47,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508159,Uruará,por,,15,"-3,71","-53,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508209,Vigia,por,,15,"-0,86","-48,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508308,Viseu,por,,15,"-1,2","-46,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508357,Vitória do Xingu,por,,15,"-2,88","-52,01",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1508407,Xinguara,por,,15,"-7,1","-49,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600055,Serra do Navio,por,,16,"0,9",-52,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600105,Amapá,por,,16,"2,05","-50,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600154,Pedra Branca do Amapari,por,,16,"0,78","-51,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600204,Calçoene,por,,16,"2,5","-50,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600212,Cutias,por,,16,"0,97","-50,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600238,Ferreira Gomes,por,,16,"0,85","-51,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600253,Itaubal,por,,16,"0,6","-50,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600279,Laranjal do Jari,por,,16,"-0,86","-52,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600303,Macapá,por,,16,"0,04","-51,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600402,Mazagão,por,,16,"-0,12","-51,29",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600501,Oiapoque,por,,16,"3,85","-51,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600535,Porto Grande,por,,16,"0,71","-51,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600550,Pracuúba,por,,16,"1,74","-50,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600600,Santana,por,,16,"-0,04","-51,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600709,Tartarugalzinho,por,,16,"1,51","-50,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1600808,Vitória do Jari,por,,16,"-0,92","-52,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1700251,Abreulândia,por,,17,"-9,62","-49,16",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1700301,Aguiarnópolis,por,,17,"-6,55","-47,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1700350,Aliança do Tocantins,por,,17,"-11,3","-48,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1700400,Almas,por,,17,"-11,57","-47,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1700707,Alvorada,por,,17,"-12,48","-49,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1701002,Ananás,por,,17,"-6,36","-48,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1701051,Angico,por,,17,"-6,39","-47,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1701101,Aparecida do Rio Negro,por,,17,"-9,96","-47,98",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1701309,Aragominas,por,,17,"-7,16","-48,52",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1701903,Araguacema,por,,17,"-8,8","-49,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702000,Araguaçu,por,,17,"-12,93","-49,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702109,Araguaína,por,,17,"-7,19","-48,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702158,Araguanã,por,,17,"-6,58","-48,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702208,Araguatins,por,,17,"-5,65","-48,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702307,Arapoema,por,,17,"-7,65","-49,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702406,Arraias,por,,17,"-12,93","-46,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702554,Augustinópolis,por,,17,"-5,47","-47,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702703,Aurora do Tocantins,por,,17,"-12,71","-46,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1702901,Axixá do Tocantins,por,,17,"-5,62","-47,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703008,Babaçulândia,por,,17,"-7,2","-47,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703057,Bandeirantes do Tocantins,por,,17,"-7,76","-48,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703073,Barra do Ouro,por,,17,"-7,69","-47,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703107,Barrolândia,por,,17,"-9,83","-48,73",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703206,Bernardo Sayão,por,,17,"-7,87","-48,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703305,Bom Jesus do Tocantins,por,,17,"-8,96","-48,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703602,Brasilândia do Tocantins,por,,17,"-8,38","-48,49",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703701,Brejinho de Nazaré,por,,17,"-11,01","-48,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703800,Buriti do Tocantins,por,,17,"-5,31","-48,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703826,Cachoeirinha,por,,17,"-6,11","-47,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703842,Campos Lindos,por,,17,"-7,97","-46,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703867,Cariri do Tocantins,por,,17,"-11,89","-49,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703883,Carmolândia,por,,17,"-7,03","-48,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703891,Carrasco Bonito,por,,17,"-5,32","-48,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1703909,Caseara,por,,17,"-9,27","-49,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1704105,Centenário,por,,17,"-8,96","-47,34",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1704600,Chapada de Areia,por,,17,"-10,14","-49,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1705102,Chapada da Natividade,por,,17,"-11,62","-47,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1705508,Colinas do Tocantins,por,,17,"-8,05","-48,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1705557,Combinado,por,,17,"-12,82","-46,55",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1705607,Conceição do Tocantins,por,,17,"-12,22","-47,29",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1706001,Couto Magalhães,por,,17,"-8,36","-49,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1706100,Cristalândia,por,,17,"-10,59","-49,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1706258,Crixás do Tocantins,por,,17,"-11,1","-48,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1706506,Darcinópolis,por,,17,"-6,71","-47,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707009,Dianópolis,por,,17,"-11,63","-46,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707108,Divinópolis do Tocantins,por,,17,"-9,8","-49,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707207,Dois Irmãos do Tocantins,por,,17,"-9,26","-49,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707306,Dueré,por,,17,"-11,34","-49,27",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707405,Esperantina,por,,17,"-5,37","-48,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707553,Fátima,por,,17,"-10,75","-48,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707652,Figueirópolis,por,,17,"-12,14","-49,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1707702,Filadélfia,por,,17,"-7,34","-47,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1708205,Formoso do Araguaia,por,,17,"-11,81","-49,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1708254,Fortaleza do Tabocão,por,,17,"-9,06","-48,52",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1708304,Goianorte,por,,17,"-8,77","-48,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1709005,Goiatins,por,,17,"-7,71","-47,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1709302,Guaraí,por,,17,"-8,84","-48,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1709500,Gurupi,por,,17,"-11,73","-49,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1709807,Ipueiras,por,,17,"-11,25","-48,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1710508,Itacajá,por,,17,"-8,39","-47,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1710706,Itaguatins,por,,17,"-5,78","-47,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1710904,Itapiratins,por,,17,"-8,38","-48,11",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1711100,Itaporã do Tocantins,por,,17,"-8,57","-48,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1711506,Jaú do Tocantins,por,,17,"-12,65","-48,59",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1711803,Juarina,por,,17,"-8,12","-49,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1711902,Lagoa da Confusão,por,,17,"-10,79","-49,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1711951,Lagoa do Tocantins,por,,17,"-10,3","-47,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1712009,Lajeado,por,,17,"-9,74","-48,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1712157,Lavandeira,por,,17,"-12,79","-46,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1712405,Lizarda,por,,17,"-9,59","-46,68",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1712454,Luzinópolis,por,,17,"-6,19","-47,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1712504,Marianópolis do Tocantins,por,,17,"-9,8","-49,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1712702,Mateiros,por,,17,"-10,54","-46,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1712801,Maurilândia do Tocantins,por,,17,"-5,95","-47,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1713205,Miracema do Tocantins,por,,17,"-9,57","-48,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1713304,Miranorte,por,,17,"-9,52","-48,59",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1713601,Monte do Carmo,por,,17,"-10,76","-48,11",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1713700,Monte Santo do Tocantins,por,,17,"-10,01","-48,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1713809,Palmeiras do Tocantins,por,,17,"-6,61","-47,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1713957,Muricilândia,por,,17,"-7,14","-48,61",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1714203,Natividade,por,,17,"-11,71","-47,73",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1714302,Nazaré,por,,17,"-6,37","-47,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1714880,Nova Olinda,por,,17,"-7,63","-48,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1715002,Nova Rosalândia,por,,17,"-10,57","-48,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1715101,Novo Acordo,por,,17,"-9,97","-47,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1715150,Novo Alegre,por,,17,"-12,91","-46,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1715259,Novo Jardim,por,,17,"-11,82","-46,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1715507,Oliveira de Fátima,por,,17,"-10,71","-48,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1715705,Palmeirante,por,,17,"-7,86","-47,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1715754,Palmeirópolis,por,,17,"-13,04","-48,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1716109,Paraíso do Tocantins,por,,17,"-10,17","-48,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1716208,Paranã,por,,17,"-12,62","-47,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1716307,Pau D'Arco,por,,17,"-7,54","-49,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1716505,Pedro Afonso,por,,17,"-8,96","-48,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1716604,Peixe,por,,17,"-12,03","-48,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1716653,Pequizeiro,por,,17,"-8,59","-48,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1716703,Colméia,por,,17,"-8,73","-48,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1717008,Pindorama do Tocantins,por,,17,"-11,14","-47,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1717206,Piraquê,por,,17,"-6,77","-48,29",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1717503,Pium,por,,17,"-10,44","-49,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1717800,Ponte Alta do Bom Jesus,por,,17,"-12,09","-46,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1717909,Ponte Alta do Tocantins,por,,17,"-10,74","-47,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718006,Porto Alegre do Tocantins,por,,17,"-11,61","-47,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718204,Porto Nacional,por,,17,"-10,71","-48,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718303,Praia Norte,por,,17,"-5,4","-47,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718402,Presidente Kennedy,por,,17,"-8,53","-48,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718451,Pugmil,por,,17,"-10,42","-48,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718501,Recursolândia,por,,17,"-8,74","-47,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718550,Riachinho,por,,17,"-6,44","-48,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718659,Rio da Conceição,por,,17,"-11,4","-46,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718709,Rio dos Bois,por,,17,"-9,34","-48,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718758,Rio Sono,por,,17,"-9,35","-47,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718808,Sampaio,por,,17,"-5,35","-47,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718840,Sandolândia,por,,17,"-12,54","-49,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718865,Santa Fé do Araguaia,por,,17,"-7,15","-48,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718881,Santa Maria do Tocantins,por,,17,"-8,77","-47,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718899,Santa Rita do Tocantins,por,,17,"-10,87","-48,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1718907,Santa Rosa do Tocantins,por,,17,"-11,45","-48,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1719004,Santa Tereza do Tocantins,por,,17,"-10,28","-47,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720002,Santa Terezinha do Tocantins,por,,17,"-6,44","-47,68",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720101,São Bento do Tocantins,por,,17,"-6,05","-47,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720150,São Félix do Tocantins,por,,17,"-10,17","-46,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720200,São Miguel do Tocantins,por,,17,"-5,55","-47,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720259,São Salvador do Tocantins,por,,17,"-12,75","-48,23",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720309,São Sebastião do Tocantins,por,,17,"-5,26","-48,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720499,São Valério,por,,17,"-11,97","-48,23",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720655,Silvanópolis,por,,17,"-11,15","-48,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720804,Sítio Novo do Tocantins,por,,17,"-5,6","-47,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720853,Sucupira,por,,17,"-11,99","-48,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720903,Taguatinga,por,,17,"-12,4","-46,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720937,Taipas do Tocantins,por,,17,"-12,19","-46,98",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1720978,Talismã,por,,17,"-12,79","-49,09",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1721000,Palmas,por,,17,"-10,16","-48,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1721109,Tocantínia,por,,17,"-9,56","-48,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1721208,Tocantinópolis,por,,17,"-6,33","-47,43",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1721257,Tupirama,por,,17,"-8,98","-48,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1721307,Tupiratins,por,,17,"-8,4","-48,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1722081,Wanderlândia,por,,17,"-6,85","-47,96",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,1722107,Xambioá,por,,17,"-6,41","-48,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100055,Açailândia,por,,21,"-4,95","-47,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100105,Afonso Cunha,por,,21,"-4,14","-43,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100154,Água Doce do Maranhão,por,,21,"-2,84","-42,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100204,Alcântara,por,,21,"-2,4","-44,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100303,Aldeias Altas,por,,21,"-4,63","-43,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100402,Altamira do Maranhão,por,,21,"-4,16","-45,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100436,Alto Alegre do Maranhão,por,,21,"-4,21","-44,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100477,Alto Alegre do Pindaré,por,,21,"-3,67","-45,84",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100501,Alto Parnaíba,por,,21,"-9,11","-45,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100550,Amapá do Maranhão,por,,21,"-1,68","-46,01",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100600,Amarante do Maranhão,por,,21,"-5,56","-46,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100709,Anajatuba,por,,21,"-3,26","-44,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100808,Anapurus,por,,21,"-3,67","-43,11",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100832,Apicum-Açu,por,,21,"-1,53","-45,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100873,Araguanã,por,,21,"-2,95","-45,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100907,Araioses,por,,21,"-2,89","-41,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2100956,Arame,por,,21,"-4,89","-46,01",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101004,Arari,por,,21,"-3,46","-44,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101103,Axixá,por,,21,"-2,84","-44,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101202,Bacabal,por,,21,"-4,23","-44,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101251,Bacabeira,por,,21,"-2,99","-44,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101301,Bacuri,por,,21,"-1,72","-45,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101350,Bacurituba,por,,21,"-2,71","-44,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101400,Balsas,por,,21,"-7,53","-46,04",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101509,Barão de Grajaú,por,,21,"-6,76","-43,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101608,Barra do Corda,por,,21,"-5,51","-45,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101707,Barreirinhas,por,,21,"-2,75","-42,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101731,Belágua,por,,21,"-3,16","-43,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101772,Bela Vista do Maranhão,por,,21,"-3,74","-45,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101806,Benedito Leite,por,,21,"-7,22","-44,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101905,Bequimão,por,,21,"-2,46","-44,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101939,Bernardo do Mearim,por,,21,"-4,63","-44,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2101970,Boa Vista do Gurupi,por,,21,"-1,79","-46,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102002,Bom Jardim,por,,21,"-3,54","-45,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102036,Bom Jesus das Selvas,por,,21,"-4,49","-46,85",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102077,Bom Lugar,por,,21,"-4,38","-45,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102101,Brejo,por,,21,"-3,68","-42,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102150,Brejo de Areia,por,,21,"-4,33","-45,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102200,Buriti,por,,21,"-3,95","-42,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102309,Buriti Bravo,por,,21,"-5,84","-43,84",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102325,Buriticupu,por,,21,"-4,33","-46,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102358,Buritirana,por,,21,"-5,59","-47,02",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102374,Cachoeira Grande,por,,21,"-2,93","-44,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102408,Cajapió,por,,21,"-2,88","-44,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102507,Cajari,por,,21,"-3,32","-45,01",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102556,Campestre do Maranhão,por,,21,"-6,16","-47,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102606,Cândido Mendes,por,,21,"-1,45","-45,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102705,Cantanhede,por,,21,"-3,63","-44,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102754,Capinzal do Norte,por,,21,"-4,72","-44,33",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102804,Carolina,por,,21,"-7,33","-47,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2102903,Carutapera,por,,21,"-1,2","-46,02",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103000,Caxias,por,,21,"-4,86","-43,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103109,Cedral,por,,21,-2,"-44,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103125,Central do Maranhão,por,,21,"-2,19","-44,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103158,Centro do Guilherme,por,,21,"-2,46","-46,04",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103174,Centro Novo do Maranhão,por,,21,"-2,14","-46,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103208,Chapadinha,por,,21,"-3,74","-43,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103257,Cidelândia,por,,21,"-5,18","-47,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103307,Codó,por,,21,"-4,45","-43,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103406,Coelho Neto,por,,21,"-4,25","-43,01",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103505,Colinas,por,,21,"-6,03","-44,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103554,Conceição do Lago-Açu,por,,21,"-3,84","-44,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103604,Coroatá,por,,21,"-4,13","-44,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103703,Cururupu,por,,21,"-1,83","-44,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103752,Davinópolis,por,,21,"-5,53","-47,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103802,Dom Pedro,por,,21,"-5,04","-44,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2103901,Duque Bacelar,por,,21,"-4,15","-42,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104008,Esperantinópolis,por,,21,"-4,87","-44,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104057,Estreito,por,,21,"-6,57","-47,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104073,Feira Nova do Maranhão,por,,21,"-6,96","-46,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104081,Fernando Falcão,por,,21,"-6,15","-44,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104099,Formosa da Serra Negra,por,,21,"-6,44","-46,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104107,Fortaleza dos Nogueiras,por,,21,"-6,97","-46,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104206,Fortuna,por,,21,"-5,74","-44,16",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104305,Godofredo Viana,por,,21,"-1,41","-45,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104404,Gonçalves Dias,por,,21,"-5,14","-44,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104503,Governador Archer,por,,21,"-5,03","-44,28",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104552,Governador Edison Lobão,por,,21,"-5,75","-47,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104602,Governador Eugênio Barros,por,,21,"-5,32","-44,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104628,Governador Luiz Rocha,por,,21,"-5,47","-44,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104651,Governador Newton Bello,por,,21,"-3,43","-45,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104677,Governador Nunes Freire,por,,21,"-2,13","-45,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104701,Graça Aranha,por,,21,"-5,4","-44,34",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104800,Grajaú,por,,21,"-5,82","-46,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2104909,Guimarães,por,,21,"-2,14","-44,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105005,Humberto de Campos,por,,21,"-2,59","-43,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105104,Icatu,por,,21,"-2,77","-44,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105153,Igarapé do Meio,por,,21,"-3,64","-45,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105203,Igarapé Grande,por,,21,"-4,66","-44,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105302,Imperatriz,por,,21,"-5,53","-47,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105351,Itaipava do Grajaú,por,,21,"-5,14","-45,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105401,Itapecuru Mirim,por,,21,"-3,4","-44,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105427,Itinga do Maranhão,por,,21,"-4,45","-47,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105450,Jatobá,por,,21,"-5,82","-44,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105476,Jenipapo dos Vieiras,por,,21,"-5,37","-45,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105500,João Lisboa,por,,21,"-5,45","-47,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105609,Joselândia,por,,21,"-4,97","-44,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105658,Junco do Maranhão,por,,21,"-1,87","-46,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105708,Lago da Pedra,por,,21,"-4,56","-45,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105807,Lago do Junco,por,,21,"-4,61","-45,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105906,Lago Verde,por,,21,"-4,04","-44,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105922,Lagoa do Mato,por,,21,"-6,05","-43,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105948,Lago dos Rodrigues,por,,21,"-4,61","-44,98",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105963,Lagoa Grande do Maranhão,por,,21,"-4,99","-45,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2105989,Lajeado Novo,por,,21,"-6,19","-47,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106003,Lima Campos,por,,21,"-4,52","-44,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106102,Loreto,por,,21,"-7,09","-45,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106201,Luís Domingues,por,,21,"-1,33","-45,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106300,Magalhães de Almeida,por,,21,"-3,4","-42,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106326,Maracaçumé,por,,21,"-2,06","-45,96",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106359,Marajá do Sena,por,,21,"-4,62","-45,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106375,Maranhãozinho,por,,21,"-2,24","-45,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106409,Mata Roma,por,,21,"-3,62","-43,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106508,Matinha,por,,21,"-3,1","-45,04",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106607,Matões,por,,21,"-5,52","-43,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106631,Matões do Norte,por,,21,"-3,63","-44,55",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106672,Milagres do Maranhão,por,,21,"-3,58","-42,61",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106706,Mirador,por,,21,"-6,38","-44,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106755,Miranda do Norte,por,,21,"-3,56","-44,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106805,Mirinzal,por,,21,"-2,06","-44,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2106904,Monção,por,,21,"-3,49","-45,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107001,Montes Altos,por,,21,"-5,83","-47,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107100,Morros,por,,21,"-2,86","-44,04",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107209,Nina Rodrigues,por,,21,"-3,46","-43,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107258,Nova Colinas,por,,21,"-7,12","-46,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107308,Nova Iorque,por,,21,"-6,73","-44,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107357,Nova Olinda do Maranhão,por,,21,"-2,8","-45,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107407,Olho d'Água das Cunhãs,por,,21,"-4,14","-45,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107456,Olinda Nova do Maranhão,por,,21,-3,-45,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107506,Paço do Lumiar,por,,21,"-2,53","-44,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107605,Palmeirândia,por,,21,"-2,65","-44,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107704,Paraibano,por,,21,"-6,43","-43,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107803,Parnarama,por,,21,"-5,68","-43,09",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2107902,Passagem Franca,por,,21,"-6,17","-43,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108009,Pastos Bons,por,,21,"-6,6","-44,09",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108058,Paulino Neves,por,,21,"-2,72","-42,55",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108108,Paulo Ramos,por,,21,"-4,45","-45,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108207,Pedreiras,por,,21,"-4,57","-44,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108256,Pedro do Rosário,por,,21,"-2,97","-45,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108306,Penalva,por,,21,"-3,29","-45,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108405,Peri Mirim,por,,21,"-2,57","-44,85",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108454,Peritoró,por,,21,"-4,37","-44,33",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108504,Pindaré-Mirim,por,,21,"-3,61","-45,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108603,Pinheiro,por,,21,"-2,52","-45,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108702,Pio XII,por,,21,"-3,89","-45,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108801,Pirapemas,por,,21,"-3,73","-44,23",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2108900,Poção de Pedras,por,,21,"-4,75","-44,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109007,Porto Franco,por,,21,"-6,35","-47,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109056,Porto Rico do Maranhão,por,,21,"-1,86","-44,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109106,Presidente Dutra,por,,21,"-5,28","-44,49",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109205,Presidente Juscelino,por,,21,"-2,93","-44,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109239,Presidente Médici,por,,21,"-2,38","-45,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109270,Presidente Sarney,por,,21,"-2,6","-45,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109304,Presidente Vargas,por,,21,"-3,4","-44,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109403,Primeira Cruz,por,,21,"-2,51","-43,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109452,Raposa,por,,21,"-2,42","-44,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109502,Riachão,por,,21,"-7,36","-46,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109551,Ribamar Fiquene,por,,21,"-5,93","-47,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109601,Rosário,por,,21,"-2,94","-44,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109700,Sambaíba,por,,21,"-7,14","-45,34",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109759,Santa Filomena do Maranhão,por,,21,"-5,5","-44,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109809,Santa Helena,por,,21,"-2,23","-45,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2109908,Santa Inês,por,,21,"-3,66","-45,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110005,Santa Luzia,por,,21,"-3,97","-45,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110039,Santa Luzia do Paruá,por,,21,"-2,55","-45,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110104,Santa Quitéria do Maranhão,por,,21,"-3,5","-42,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110203,Santa Rita,por,,21,"-3,13","-44,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110237,Santana do Maranhão,por,,21,"-3,11","-42,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110278,Santo Amaro do Maranhão,por,,21,"-2,5","-43,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110302,Santo Antônio dos Lopes,por,,21,"-4,87","-44,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110401,São Benedito do Rio Preto,por,,21,"-3,33","-43,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110500,São Bento,por,,21,"-2,7","-44,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110609,São Bernardo,por,,21,"-3,37","-42,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110658,São Domingos do Azeitão,por,,21,"-6,8","-44,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110708,São Domingos do Maranhão,por,,21,"-5,57","-44,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110807,São Félix de Balsas,por,,21,"-7,08","-44,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110856,São Francisco do Brejão,por,,21,"-5,13","-47,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2110906,São Francisco do Maranhão,por,,21,"-6,25","-42,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111003,São João Batista,por,,21,"-2,95","-44,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111029,São João do Carú,por,,21,"-3,56","-46,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111052,São João do Paraíso,por,,21,"-6,47","-47,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111078,São João do Soter,por,,21,"-5,12","-43,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111102,São João dos Patos,por,,21,"-6,5","-43,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111201,São José de Ribamar,por,,21,"-2,56","-44,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111250,São José dos Basílios,por,,21,"-5,05","-44,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111300,São Luís,por,,21,"-2,53","-44,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111409,São Luís Gonzaga do Maranhão,por,,21,"-4,37","-44,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111508,São Mateus do Maranhão,por,,21,"-4,03","-44,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111532,São Pedro da Água Branca,por,,21,"-5,09","-48,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111573,São Pedro dos Crentes,por,,21,"-6,83","-46,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111607,São Raimundo das Mangabeiras,por,,21,"-7,03","-45,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111631,São Raimundo do Doca Bezerra,por,,21,"-5,1","-45,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111672,São Roberto,por,,21,"-5,02","-44,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111706,São Vicente Ferrer,por,,21,"-2,89","-44,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111722,Satubinha,por,,21,"-4,04","-45,23",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111748,Senador Alexandre Costa,por,,21,"-5,26","-44,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111763,Senador La Rocque,por,,21,"-5,44","-47,29",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111789,Serrano do Maranhão,por,,21,"-1,85","-45,11",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111805,Sítio Novo,por,,21,"-5,87","-46,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111904,Sucupira do Norte,por,,21,"-6,48","-44,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2111953,Sucupira do Riachão,por,,21,"-6,42","-43,55",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112001,Tasso Fragoso,por,,21,"-8,48","-45,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112100,Timbiras,por,,21,"-4,25","-43,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112209,Timon,por,,21,"-5,1","-42,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112233,Trizidela do Vale,por,,21,"-4,57","-44,61",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112274,Tufilândia,por,,21,"-3,68","-45,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112308,Tuntum,por,,21,"-5,25","-44,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112407,Turiaçu,por,,21,"-1,67","-45,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112456,Turilândia,por,,21,"-2,23","-45,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112506,Tutóia,por,,21,"-2,76","-42,28",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112605,Urbano Santos,por,,21,"-3,21","-43,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112704,Vargem Grande,por,,21,"-3,54","-43,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112803,Viana,por,,21,"-3,21",-45,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112852,Vila Nova dos Martírios,por,,21,"-5,18","-48,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2112902,Vitória do Mearim,por,,21,"-3,48","-44,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2113009,Vitorino Freire,por,,21,"-4,29","-45,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2114007,Zé Doca,por,,21,"-3,28","-45,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200053,Acauã,por,,22,"-8,22","-41,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200103,Agricolândia,por,,22,"-5,8","-42,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200202,Água Branca,por,,22,"-5,89","-42,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200251,Alagoinha do Piauí,por,,22,"-7,01","-40,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200277,Alegrete do Piauí,por,,22,"-7,25","-40,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200301,Alto Longá,por,,22,"-5,25","-42,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200400,Altos,por,,22,"-5,04","-42,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200459,Alvorada do Gurguéia,por,,22,"-8,44","-43,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200509,Amarante,por,,22,"-6,25","-42,85",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200608,Angical do Piauí,por,,22,"-6,09","-42,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200707,Anísio de Abreu,por,,22,"-9,17","-43,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200806,Antônio Almeida,por,,22,"-7,22","-44,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200905,Aroazes,por,,22,"-6,11","-41,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2200954,Aroeiras do Itaim,por,,22,"-7,28","-41,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201002,Arraial,por,,22,"-6,65","-42,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201051,Assunção do Piauí,por,,22,"-5,86","-41,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201101,Avelino Lopes,por,,22,"-10,13","-43,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201150,Baixa Grande do Ribeiro,por,,22,"-7,85","-45,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201176,Barra D'Alcântara,por,,22,"-6,52","-42,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201200,Barras,por,,22,"-4,24","-42,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201309,Barreiras do Piauí,por,,22,"-9,92","-45,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201408,Barro Duro,por,,22,"-5,81","-42,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201507,Batalha,por,,22,"-4,02","-42,08",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201556,Bela Vista do Piauí,por,,22,"-7,97","-41,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201572,Belém do Piauí,por,,22,"-7,37","-40,97",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201606,Beneditinos,por,,22,"-5,45","-42,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201705,Bertolínia,por,,22,"-7,63","-43,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201739,Betânia do Piauí,por,,22,"-8,15","-40,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201770,Boa Hora,por,,22,"-4,41","-42,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201804,Bocaina,por,,22,"-6,95","-41,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201903,Bom Jesus,por,,22,"-9,07","-44,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201919,Bom Princípio do Piauí,por,,22,"-3,19","-41,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201929,Bonfim do Piauí,por,,22,"-9,17","-42,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201945,Boqueirão do Piauí,por,,22,"-4,49","-42,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201960,Brasileira,por,,22,"-4,14","-41,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2201988,Brejo do Piauí,por,,22,"-8,21","-42,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202000,Buriti dos Lopes,por,,22,"-3,17","-41,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202026,Buriti dos Montes,por,,22,"-5,31","-41,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202059,Cabeceiras do Piauí,por,,22,"-4,47","-42,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202075,Cajazeiras do Piauí,por,,22,"-6,79","-42,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202083,Cajueiro da Praia,por,,22,"-2,93","-41,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202091,Caldeirão Grande do Piauí,por,,22,"-7,33","-40,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202109,Campinas do Piauí,por,,22,"-7,65","-41,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202117,Campo Alegre do Fidalgo,por,,22,"-8,37","-41,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202133,Campo Grande do Piauí,por,,22,"-7,14","-41,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202174,Campo Largo do Piauí,por,,22,"-3,81","-42,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202208,Campo Maior,por,,22,"-4,83","-42,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202251,Canavieira,por,,22,"-7,69","-43,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202307,Canto do Buriti,por,,22,"-8,11","-42,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202406,Capitão de Campos,por,,22,"-4,46","-41,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202455,Capitão Gervásio Oliveira,por,,22,"-8,5","-41,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202505,Caracol,por,,22,"-9,28","-43,33",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202539,Caraúbas do Piauí,por,,22,"-3,48","-41,84",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202554,Caridade do Piauí,por,,22,"-7,73","-40,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202604,Castelo do Piauí,por,,22,"-5,32","-41,55",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202653,Caxingó,por,,22,"-3,43","-41,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202703,Cocal,por,,22,"-3,47","-41,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202711,Cocal de Telha,por,,22,"-4,55","-41,98",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202729,Cocal dos Alves,por,,22,"-3,61","-41,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202737,Coivaras,por,,22,"-5,09","-42,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202752,Colônia do Gurguéia,por,,22,"-8,19","-43,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202778,Colônia do Piauí,por,,22,"-7,22","-42,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202802,Conceição do Canindé,por,,22,"-7,88","-41,6",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202851,Coronel José Dias,por,,22,"-8,82","-42,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2202901,Corrente,por,,22,"-10,44","-45,16",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203008,Cristalândia do Piauí,por,,22,"-10,65","-45,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203107,Cristino Castro,por,,22,"-8,82","-44,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203206,Curimatá,por,,22,"-10,03","-44,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203230,Currais,por,,22,"-9,01","-44,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203255,Curralinhos,por,,22,"-5,62","-42,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203271,Curral Novo do Piauí,por,,22,"-7,83","-40,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203305,Demerval Lobão,por,,22,"-5,36","-42,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203354,Dirceu Arcoverde,por,,22,"-9,34","-42,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203404,Dom Expedito Lopes,por,,22,"-6,96","-41,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203420,Domingos Mourão,por,,22,"-4,25","-41,27",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203453,Dom Inocêncio,por,,22,"-9,01","-41,98",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203503,Elesbão Veloso,por,,22,"-6,2","-42,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203602,Eliseu Martins,por,,22,"-8,1","-43,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203701,Esperantina,por,,22,"-3,9","-42,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203750,Fartura do Piauí,por,,22,"-9,48","-42,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203800,Flores do Piauí,por,,22,"-7,79","-42,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203859,Floresta do Piauí,por,,22,"-7,47","-41,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2203909,Floriano,por,,22,"-6,77","-43,02",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204006,Francinópolis,por,,22,"-6,4","-42,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204105,Francisco Ayres,por,,22,"-6,62","-42,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204154,Francisco Macedo,por,,22,"-7,33","-40,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204204,Francisco Santos,por,,22,"-6,99","-41,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204303,Fronteiras,por,,22,"-7,09","-40,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204352,Geminiano,por,,22,"-7,16","-41,36",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204402,Gilbués,por,,22,"-9,83","-45,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204501,Guadalupe,por,,22,"-6,79","-43,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204550,Guaribas,por,,22,"-9,4","-43,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204600,Hugo Napoleão,por,,22,"-5,99","-42,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204659,Ilha Grande,por,,22,"-2,85","-41,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204709,Inhuma,por,,22,"-6,67","-41,71",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204808,Ipiranga do Piauí,por,,22,"-6,83","-41,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2204907,Isaías Coelho,por,,22,"-7,73","-41,68",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205003,Itainópolis,por,,22,"-7,45","-41,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205102,Itaueira,por,,22,"-7,61","-43,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205151,Jacobina do Piauí,por,,22,"-7,94","-41,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205201,Jaicós,por,,22,"-7,35","-41,15",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205250,Jardim do Mulato,por,,22,"-6,1","-42,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205276,Jatobá do Piauí,por,,22,"-4,77","-41,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205300,Jerumenha,por,,22,"-7,08","-43,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205359,João Costa,por,,22,"-8,49","-42,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205409,Joaquim Pires,por,,22,"-3,51","-42,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205458,Joca Marques,por,,22,"-3,49","-42,43",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205508,José de Freitas,por,,22,"-4,76","-42,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205516,Juazeiro do Piauí,por,,22,"-5,16","-41,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205524,Júlio Borges,por,,22,"-10,33","-44,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205532,Jurema,por,,22,"-9,22","-43,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205540,Lagoinha do Piauí,por,,22,"-5,84","-42,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205557,Lagoa Alegre,por,,22,"-4,51","-42,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205565,Lagoa do Barro do Piauí,por,,22,"-8,48","-41,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205573,Lagoa de São Francisco,por,,22,"-4,39","-41,61",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205581,Lagoa do Piauí,por,,22,"-5,41","-42,65",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205599,Lagoa do Sítio,por,,22,"-6,52","-41,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205607,Landri Sales,por,,22,"-7,27","-43,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205706,Luís Correia,por,,22,"-2,88","-41,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205805,Luzilândia,por,,22,"-3,46","-42,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205854,Madeiro,por,,22,"-3,48","-42,51",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205904,Manoel Emídio,por,,22,"-8,01","-43,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2205953,Marcolândia,por,,22,"-7,44","-40,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206001,Marcos Parente,por,,22,"-7,12","-43,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206050,Massapê do Piauí,por,,22,"-7,47","-41,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206100,Matias Olímpio,por,,22,"-3,71","-42,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206209,Miguel Alves,por,,22,"-4,17","-42,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206308,Miguel Leão,por,,22,"-5,68","-42,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206357,Milton Brandão,por,,22,"-4,7","-41,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206407,Monsenhor Gil,por,,22,"-5,55","-42,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206506,Monsenhor Hipólito,por,,22,-7,"-41,03",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206605,Monte Alegre do Piauí,por,,22,"-9,76","-45,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206654,Morro Cabeça no Tempo,por,,22,"-9,72","-43,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206670,Morro do Chapéu do Piauí,por,,22,"-3,74","-42,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206696,Murici dos Portelas,por,,22,"-3,32","-42,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206704,Nazaré do Piauí,por,,22,"-6,97","-42,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206720,Nazária,por,,22,"-5,35","-42,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206753,Nossa Senhora de Nazaré,por,,22,"-4,63","-42,18",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206803,Nossa Senhora dos Remédios,por,,22,"-3,99","-42,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206902,Novo Oriente do Piauí,por,,22,"-6,45","-41,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2206951,Novo Santo Antônio,por,,22,"-5,29","-41,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207009,Oeiras,por,,22,"-7,02","-42,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207108,Olho D'Água do Piauí,por,,22,"-5,85","-42,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207207,Padre Marcos,por,,22,"-7,35","-40,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207306,Paes Landim,por,,22,"-7,78","-42,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207355,Pajeú do Piauí,por,,22,"-7,85","-42,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207405,Palmeira do Piauí,por,,22,"-8,73","-44,23",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207504,Palmeirais,por,,22,"-5,98","-43,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207553,Paquetá,por,,22,"-7,1","-41,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207603,Parnaguá,por,,22,"-10,22","-44,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207702,Parnaíba,por,,22,"-2,9","-41,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207751,Passagem Franca do Piauí,por,,22,"-5,86","-42,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207777,Patos do Piauí,por,,22,"-7,68","-41,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207793,Pau D'Arco do Piauí,por,,22,"-5,25","-42,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207801,Paulistana,por,,22,"-8,14","-41,15",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207850,Pavussu,por,,22,"-7,96","-43,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207900,Pedro II,por,,22,"-4,43","-41,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207934,Pedro Laurentino,por,,22,"-8,07","-42,29",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2207959,Nova Santa Rita,por,,22,"-8,07","-42,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208007,Picos,por,,22,"-7,08","-41,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208106,Pimenteiras,por,,22,"-6,24","-41,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208205,Pio IX,por,,22,"-6,83","-40,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208304,Piracuruca,por,,22,"-3,93","-41,71",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208403,Piripiri,por,,22,"-4,28","-41,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208502,Porto,por,,22,"-3,89","-42,71",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208551,Porto Alegre do Piauí,por,,22,"-6,97","-44,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208601,Prata do Piauí,por,,22,"-5,66","-42,2",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208650,Queimada Nova,por,,22,"-8,59","-41,42",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208700,Redenção do Gurguéia,por,,22,"-9,49","-44,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208809,Regeneração,por,,22,"-6,24","-42,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208858,Riacho Frio,por,,22,"-10,13","-44,95",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208874,Ribeira do Piauí,por,,22,"-7,69","-42,71",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2208908,Ribeiro Gonçalves,por,,22,"-7,56","-45,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209005,Rio Grande do Piauí,por,,22,"-7,77","-43,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209104,Santa Cruz do Piauí,por,,22,"-7,18","-41,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209153,Santa Cruz dos Milagres,por,,22,"-5,81","-41,96",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209203,Santa Filomena,por,,22,"-9,11","-45,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209302,Santa Luz,por,,22,"-8,94","-44,13",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209351,Santana do Piauí,por,,22,"-6,95","-41,52",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209377,Santa Rosa do Piauí,por,,22,"-6,8","-42,28",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209401,Santo Antônio de Lisboa,por,,22,"-6,98","-41,23",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209450,Santo Antônio dos Milagres,por,,22,"-6,05","-42,71",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209500,Santo Inácio do Piauí,por,,22,"-7,42","-41,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209559,São Braz do Piauí,por,,22,"-9,06",-43,ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209609,São Félix do Piauí,por,,22,"-5,93","-42,11",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209658,São Francisco de Assis do Piauí,por,,22,"-8,24","-41,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209708,São Francisco do Piauí,por,,22,"-7,24","-42,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209757,São Gonçalo do Gurguéia,por,,22,"-10,03","-45,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209807,São Gonçalo do Piauí,por,,22,"-5,99","-42,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209856,São João da Canabrava,por,,22,"-6,82","-41,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209872,São João da Fronteira,por,,22,"-3,94","-41,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209906,São João da Serra,por,,22,"-5,51","-41,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209955,São João da Varjota,por,,22,"-6,92","-41,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2209971,São João do Arraial,por,,22,"-3,81","-42,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210003,São João do Piauí,por,,22,"-8,35","-42,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210052,São José do Divino,por,,22,"-3,81","-41,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210102,São José do Peixe,por,,22,"-7,49","-42,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210201,São José do Piauí,por,,22,"-6,87","-41,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210300,São Julião,por,,22,"-7,09","-40,84",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210359,São Lourenço do Piauí,por,,22,"-9,17","-42,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210375,São Luis do Piauí,por,,22,"-6,83","-41,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210383,São Miguel da Baixa Grande,por,,22,"-5,86","-42,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210391,São Miguel do Fidalgo,por,,22,"-7,58","-42,37",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210409,São Miguel do Tapuio,por,,22,"-5,5","-41,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210508,São Pedro do Piauí,por,,22,"-5,91","-42,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210607,São Raimundo Nonato,por,,22,"-9,02","-42,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210623,Sebastião Barros,por,,22,"-10,82","-44,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210631,Sebastião Leal,por,,22,"-7,58","-44,07",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210656,Sigefredo Pacheco,por,,22,"-4,91","-41,73",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210706,Simões,por,,22,"-7,6","-40,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210805,Simplício Mendes,por,,22,"-7,86","-41,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210904,Socorro do Piauí,por,,22,"-7,86","-42,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210938,Sussuapara,por,,22,"-7,02","-41,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210953,Tamboril do Piauí,por,,22,"-8,4","-42,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2210979,Tanque do Piauí,por,,22,"-6,6","-42,28",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211001,Teresina,por,,22,"-5,09","-42,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211100,União,por,,22,"-4,59","-42,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211209,Uruçuí,por,,22,"-7,23","-44,56",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211308,Valença do Piauí,por,,22,"-6,4","-41,74",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211357,Várzea Branca,por,,22,"-9,24","-42,97",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211407,Várzea Grande,por,,22,"-6,54","-42,25",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211506,Vera Mendes,por,,22,"-7,6","-41,48",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211605,Vila Nova do Piauí,por,,22,"-7,14","-40,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2211704,Wall Ferraz,por,,22,"-7,24","-41,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300101,Abaiara,por,,23,"-7,36","-39,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300150,Acarape,por,,23,"-4,22","-38,71",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300200,Acaraú,por,,23,"-2,89","-40,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300309,Acopiara,por,,23,"-6,09","-39,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300408,Aiuaba,por,,23,"-6,56","-40,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300507,Alcântaras,por,,23,"-3,59","-40,54",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300606,Altaneira,por,,23,-7,"-39,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300705,Alto Santo,por,,23,"-5,52","-38,27",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300754,Amontada,por,,23,"-3,36","-39,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300804,Antonina do Norte,por,,23,"-6,78","-39,98",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2300903,Apuiarés,por,,23,"-3,95","-39,43",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301000,Aquiraz,por,,23,"-3,91","-38,39",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301109,Aracati,por,,23,"-4,57","-37,77",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301208,Aracoiaba,por,,23,"-4,37","-38,81",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301257,Ararendá,por,,23,"-4,75","-40,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301307,Araripe,por,,23,"-7,21","-40,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301406,Aratuba,por,,23,"-4,42","-39,05",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301505,Arneiroz,por,,23,"-6,32","-40,16",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301604,Assaré,por,,23,"-6,87","-39,87",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301703,Aurora,por,,23,"-6,94","-38,98",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301802,Baixio,por,,23,"-6,73","-38,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301851,Banabuiú,por,,23,"-5,32","-38,93",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301901,Barbalha,por,,23,"-7,31","-39,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2301950,Barreira,por,,23,"-4,29","-38,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302008,Barro,por,,23,"-7,17","-38,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302057,Barroquinha,por,,23,"-3,01","-41,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302107,Baturité,por,,23,"-4,33","-38,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302206,Beberibe,por,,23,"-4,17","-38,12",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302305,Bela Cruz,por,,23,"-3,06","-40,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302404,Boa Viagem,por,,23,"-5,13","-39,73",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302503,Brejo Santo,por,,23,"-7,49","-38,99",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302602,Camocim,por,,23,"-2,9","-40,85",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302701,Campos Sales,por,,23,"-7,07","-40,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302800,Canindé,por,,23,"-4,36","-39,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2302909,Capistrano,por,,23,"-4,46","-38,9",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303006,Caridade,por,,23,"-4,22","-39,19",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303105,Cariré,por,,23,"-3,95","-40,47",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303204,Caririaçu,por,,23,"-7,04","-39,28",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303303,Cariús,por,,23,"-6,53","-39,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303402,Carnaubal,por,,23,"-4,16","-40,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303501,Cascavel,por,,23,"-4,13","-38,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303600,Catarina,por,,23,"-6,13","-39,88",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303659,Catunda,por,,23,"-4,65","-40,21",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303709,Caucaia,por,,23,"-3,74","-38,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303808,Cedro,por,,23,"-6,6","-39,06",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303907,Chaval,por,,23,"-3,04","-41,24",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303931,Choró,por,,23,"-4,84","-39,14",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2303956,Chorozinho,por,,23,"-4,3","-38,5",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304004,Coreaú,por,,23,"-3,55","-40,66",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304103,Crateús,por,,23,"-5,18","-40,67",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304202,Crato,por,,23,"-7,23","-39,41",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304236,Croatá,por,,23,"-4,41","-40,91",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304251,Cruz,por,,23,"-2,92","-40,17",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304269,Deputado Irapuan Pinheiro,por,,23,"-5,91","-39,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304277,Ererê,por,,23,"-6,03","-38,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304285,Eusébio,por,,23,"-3,89","-38,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304301,Farias Brito,por,,23,"-6,93","-39,57",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304350,Forquilha,por,,23,"-3,8","-40,26",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304400,Fortaleza,por,,23,"-3,72","-38,59",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304459,Fortim,por,,23,"-4,45","-37,8",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304509,Frecheirinha,por,,23,"-3,76","-40,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304608,General Sampaio,por,,23,"-4,05","-39,45",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304657,Graça,por,,23,"-4,05","-40,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304707,Granja,por,,23,"-3,12","-40,83",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304806,Granjeiro,por,,23,"-6,89","-39,22",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304905,Groaíras,por,,23,"-3,91","-40,38",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2304954,Guaiúba,por,,23,"-4,04","-38,63",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305001,Guaraciaba do Norte,por,,23,"-4,16","-40,75",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305100,Guaramiranga,por,,23,"-4,26","-38,94",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305209,Hidrolândia,por,,23,"-4,41","-40,4",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305233,Horizonte,por,,23,"-4,09","-38,49",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305266,Ibaretama,por,,23,"-4,82","-38,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305308,Ibiapina,por,,23,"-3,94","-40,89",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305332,Ibicuitinga,por,,23,"-4,97","-38,64",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305357,Icapuí,por,,23,"-4,72","-37,35",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305407,Icó,por,,23,"-6,4","-38,86",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305506,Iguatu,por,,23,"-6,36","-39,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305605,Independência,por,,23,"-5,4","-40,31",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305654,Ipaporanga,por,,23,"-4,9","-40,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305704,Ipaumirim,por,,23,"-6,79","-38,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305803,Ipu,por,,23,"-4,31","-40,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2305902,Ipueiras,por,,23,"-4,54","-40,72",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306009,Iracema,por,,23,"-5,81","-38,3",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306108,Irauçuba,por,,23,"-3,75","-39,79",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306207,Itaiçaba,por,,23,"-4,68","-37,82",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306256,Itaitinga,por,,23,"-3,97","-38,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306306,Itapajé,por,,23,"-3,69","-39,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306405,Itapipoca,por,,23,"-3,5","-39,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306504,Itapiúna,por,,23,"-4,55","-38,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306553,Itarema,por,,23,"-2,92","-39,92",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306603,Itatira,por,,23,"-4,53","-39,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306702,Jaguaretama,por,,23,"-5,61","-38,76",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306801,Jaguaribara,por,,23,"-5,46","-38,46",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2306900,Jaguaribe,por,,23,"-5,89","-38,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307007,Jaguaruana,por,,23,"-4,84","-37,78",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307106,Jardim,por,,23,"-7,59","-39,28",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307205,Jati,por,,23,"-7,69","-39,01",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307254,Jijoca de Jericoacoara,por,,23,"-2,9","-40,44",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307304,Juazeiro do Norte,por,,23,"-7,21","-39,32",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307403,Jucás,por,,23,"-6,52","-39,53",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307502,Lavras da Mangabeira,por,,23,"-6,75","-38,97",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307601,Limoeiro do Norte,por,,23,"-5,15","-38,1",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307635,Madalena,por,,23,"-4,85","-39,58",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307650,Maracanaú,por,,23,"-3,88","-38,62",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307700,Maranguape,por,,23,"-3,89","-38,69",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307809,Marco,por,,23,"-3,12","-40,15",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2307908,Martinópole,por,,23,"-3,23","-40,7",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
+Concept,2308005,Massapê,por,,23,"-3,52","-40,34",ATIVO,,MS,Organization,Dictionary,,,,,,,,text,Misc,BRDivisaoGeograficaBrasil
