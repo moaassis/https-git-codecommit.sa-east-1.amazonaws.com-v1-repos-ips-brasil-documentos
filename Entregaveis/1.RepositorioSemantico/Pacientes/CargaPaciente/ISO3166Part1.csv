@@ -1,0 +1,251 @@
+resource_type,id,name,company,website,location,public_access,logo_url,attr:alpha3,attr:numeric,full_name,owner_id,owner_type,source_type,default_locale,description,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source
+Concept,AD,Andorra,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AE,United Arab Emirates,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AF,Afghanistan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AG,Antigua and Barbuda,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AI,Anguilla,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AL,Albania,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AM,Armenia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AO,Angola,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AQ,Antarctica,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AR,Argentina,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AS,American Samoa,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AT,Austria,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AU,Australia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AW,Aruba,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AX,Åland Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,AZ,Azerbaijan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BA,Bosnia and Herzegovina,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BB,Barbados,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BD,Bangladesh,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BE,Belgium,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BF,Burkina Faso,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BG,Bulgaria,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BH,Bahrain,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BI,Burundi,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BJ,Benin,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BL,Saint Barthélemy,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BM,Bermuda,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BN,Brunei Darussalam,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BO,"Bolivia, Plurinational State of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BQ,"Bonaire, Sint Eustatius and Saba",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BR,Brazil,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BS,Bahamas,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BT,Bhutan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BV,Bouvet Island,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BW,Botswana,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BY,Belarus,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,BZ,Belize,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CA,Canada,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CC,Cocos (Keeling) Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CD,"Congo, the Democratic Republic of the",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CF,Central African Republic,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CG,Congo,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CH,Switzerland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CI,Côte d''Ivoire,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CK,Cook Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CL,Chile,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CM,Cameroon,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CN,China,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CO,Colombia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CR,Costa Rica,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CU,Cuba,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CV,Cabo Verde,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CW,Curaçao,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CX,Christmas Island,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CY,Cyprus,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,CZ,Czechia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,DE,Germany,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,DJ,Djibouti,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,DK,Denmark,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,DM,Dominica,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,DO,Dominican Republic,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,DZ,Algeria,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,EC,Ecuador,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,EE,Estonia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,EG,Egypt,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,EH,Western Sahara,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ER,Eritrea,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ES,Spain,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ET,Ethiopia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,FI,Finland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,FJ,Fiji,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,FK,Falkland Islands (Malvinas),,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,FM,"Micronesia, Federated States of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,FO,Faroe Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,FR,France,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GA,Gabon,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GB,United Kingdom of Great Britain and Northern Ireland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GD,Grenada,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GE,Georgia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GF,French Guiana,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GG,Guernsey,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GH,Ghana,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GI,Gibraltar,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GL,Greenland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GM,Gambia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GN,Guinea,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GP,Guadeloupe,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GQ,Equatorial Guinea,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GR,Greece,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GS,South Georgia and the South Sandwich Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GT,Guatemala,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GU,Guam,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GW,Guinea-Bissau,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,GY,Guyana,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,HK,Hong Kong,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,HM,Heard Island and McDonald Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,HN,Honduras,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,HR,Croatia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,HT,Haiti,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,HU,Hungary,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ID,Indonesia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IE,Ireland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IL,Israel,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IM,Isle of Man,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IN,India,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IO,British Indian Ocean Territory,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IQ,Iraq,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IR,"Iran, Islamic Republic of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IS,Iceland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,IT,Italy,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,JE,Jersey,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,JM,Jamaica,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,JO,Jordan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,JP,Japan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KE,Kenya,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KG,Kyrgyzstan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KH,Cambodia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KI,Kiribati,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KM,Comoros,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KN,Saint Kitts and Nevis,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KP,"Korea, Democratic People''s Republic of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KR,"Korea, Republic of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KW,Kuwait,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KY,Cayman Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,KZ,Kazakhstan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LA,Lao People''s Democratic Republic,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LB,Lebanon,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LC,Saint Lucia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LI,Liechtenstein,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LK,Sri Lanka,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LR,Liberia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LS,Lesotho,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LT,Lithuania,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LU,Luxembourg,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LV,Latvia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,LY,Libya,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MA,Morocco,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MC,Monaco,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MD,"Moldova, Republic of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ME,Montenegro,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MF,Saint Martin (French part),,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MG,Madagascar,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MH,Marshall Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MK,"Macedonia, the former Yugoslav Republic of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ML,Mali,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MM,Myanmar,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MN,Mongolia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MO,Macao,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MP,Northern Mariana Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MQ,Martinique,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MR,Mauritania,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MS,Montserrat,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MT,Malta,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MU,Mauritius,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MV,Maldives,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MW,Malawi,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MX,Mexico,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MY,Malaysia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,MZ,Mozambique,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NA,Namibia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NC,New Caledonia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NE,Niger,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NF,Norfolk Island,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NG,Nigeria,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NI,Nicaragua,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NL,Netherlands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NO,Norway,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NP,Nepal,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NR,Nauru,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NU,Niue,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,NZ,New Zealand,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,OM,Oman,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PA,Panama,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PE,Peru,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PF,French Polynesia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PG,Papua New Guinea,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PH,Philippines,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PK,Pakistan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PL,Poland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PM,Saint Pierre and Miquelon,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PN,Pitcairn,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PR,Puerto Rico,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PS,"Palestine, State of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PT,Portugal,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PW,Palau,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,PY,Paraguay,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,QA,Qatar,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,RE,Réunion,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,RO,Romania,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,RS,Serbia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,RU,Russian Federation,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,RW,Rwanda,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SA,Saudi Arabia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SB,Solomon Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SC,Seychelles,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SD,Sudan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SE,Sweden,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SG,Singapore,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SH,"Saint Helena, Ascension and Tristan da Cunha",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SI,Slovenia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SJ,Svalbard and Jan Mayen,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SK,Slovakia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SL,Sierra Leone,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SM,San Marino,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SN,Senegal,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SO,Somalia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SR,Suriname,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SS,South Sudan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ST,Sao Tome and Principe,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SV,El Salvador,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SX,Sint Maarten (Dutch part),,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SY,Syrian Arab Republic,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,SZ,Swaziland,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TC,Turks and Caicos Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TD,Chad,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TF,French Southern Territories,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TG,Togo,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TH,Thailand,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TJ,Tajikistan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TK,Tokelau,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TL,Timor-Leste,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TM,Turkmenistan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TN,Tunisia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TO,Tonga,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TR,Turkey,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TT,Trinidad and Tobago,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TV,Tuvalu,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TW,"Taiwan, Province of China",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,TZ,"Tanzania, United Republic of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,UA,Ukraine,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,UG,Uganda,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,UM,United States Minor Outlying Islands,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,US,United States of America,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,UY,Uruguay,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,UZ,Uzbekistan,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,VA,Holy See,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,VC,Saint Vincent and the Grenadines,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,VE,"Venezuela, Bolivarian Republic of",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,VG,"Virgin Islands, British",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,VI,"Virgin Islands,",,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,VN,Viet Nam,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,VU,Vanuatu,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,WF,Wallis and Futuna,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,WS,Samoa,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,YE,Yemen,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,YT,Mayotte,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ZA,South Africa,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ZM,Zambia,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+Concept,ZW,Zimbabwe,,,,,,,,,HL7,Organization,,por,,TRUE,,TRUE,,,Text,Misc,ISO3166Part1
+,,,,,,,,,,,,,, ,, ,,,,,,,

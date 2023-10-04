@@ -1,0 +1,40 @@
+resource_type,id,name,company,website,location,public_access,logo_url,description,text,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],name_type,name_locale
+Concept,mon,Monday,,,eng,,,Monday.,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,tue,Tuesday,,,eng,,,Tuesday.,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,wed,Wednesday,,,eng,,,Wednesday.,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,thu,Thursday,,,eng,,,Thursday.,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,fri,Friday,,,eng,,,Friday.,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,sat,Saturday,,,eng,,,Saturday.,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,sun,Sunday,,,eng,,,Sunday.,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,days-of-week,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,,,,,,Fully Specified,eng
+Concept,,,,,eng,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,,,,,,Fully Specified,eng
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Misc,br-via-administracao,,,,,

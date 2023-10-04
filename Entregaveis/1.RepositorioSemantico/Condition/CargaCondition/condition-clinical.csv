@@ -1,0 +1,181 @@
+resource_type,id,name,attr:Lvl,company,website,location,public_access,logo_url,description,text,attr:ingredientes_codigoObm,full_name,owner_id,owner_type,source_type,default_locale,description,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],parent_concept_urls[0],map_type[0],map_from_concept_id[0],map_to_concept_id[0],map_type,to_concept_url,from_concept_url,attr:extra_names,collection_type,immutable,jurisdiction[1],jurisdiction[2],collection_url,data:expressions,name_type,name_locale
+Concept,active,Ativo,1,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,The subject is currently experiencing the symptoms of the condition or there is evidence of the condition.,,Active,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,recurrence,Recorrência,2,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,"The subject is experiencing a re-occurence or repeating of a previously resolved condition, e.g. urinary tract infection, pancreatitis, cholangitis, conjunctivitis.",,Recurrence,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,relapse,Recaída,2,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,"The subject is experiencing a return of a condition, or signs and symptoms after a period of improvement or remission, e.g. relapse of cancer, multiple sclerosis, rheumatoid arthritis, systemic lupus erythematosus, bipolar disorder, [psychotic relapse of] schizophrenia, etc.",,Relapse,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,inactive,Inativo,1,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,The subject is no longer experiencing the symptoms of the condition or there is no longer evidence of the condition.,,Inactive,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,remission,Remissão,2,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,"The subject is no longer experiencing the symptoms of the condition, but there is a risk of the symptoms returning.",,Remission,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,resolved,Resolvido,2,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,The subject is no longer experiencing the symptoms of the condition and there is a negligible perceived risk of the symptoms returning.,,Resolved,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,condition-clinical,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,por,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,HL7,Organization,,por,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,HL7,Organization,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,text,Misc,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fully Specified,por
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"7021 - amoxicilina,7653 - clavulanato de pot·ssio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

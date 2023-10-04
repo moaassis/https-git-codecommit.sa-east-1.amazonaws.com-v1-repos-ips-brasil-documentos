@@ -1,0 +1,1608 @@
+resource_type,id,name,company,website,location,public_access,logo_url,description,text,attr:ingredientes_codigoObm,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],parent_concept_urls[0],map_type[0],map_from_concept_id[0],map_to_concept_id[0],map_type,to_concept_url,from_concept_url,attr:extra_names,collection_type,immutable,jurisdiction[1],jurisdiction[2],collection_url,data:expressions,name_type,name_locale
+Concept,A,ALIMENTARY TRACT AND METABOLISM,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena, ,,ALIMENTARY TRACT AND METABOLISM,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01,STOMATOLOGICAL PREPARATIONS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,STOMATOLOGICAL PREPARATIONS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01A,STOMATOLOGICAL PREPARATIONS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,STOMATOLOGICAL PREPARATIONS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AA,Caries prophylactic agents,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Caries prophylactic agents,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AA01,sodium fluoride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium fluoride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AA02,sodium monofluorophosphate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium monofluorophosphate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AA03,olaflur,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,olaflur,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AA04,stannous fluoride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,stannous fluoride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AA30,combinations,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,combinations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AA51,"sodium fluoride, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"sodium fluoride, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB,Antiinfectives and antiseptics for local oral treatment,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Antiinfectives and antiseptics for local oral treatment,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB02,hydrogen peroxide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hydrogen peroxide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB03,chlorhexidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,chlorhexidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB04,amphotericin B,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,amphotericin B,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB05,polynoxylin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,polynoxylin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB06,domiphen,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,domiphen,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB07,oxyquinoline,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,oxyquinoline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB08,neomycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,neomycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB09,miconazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,miconazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB10,natamycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,natamycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB11,various,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,various,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB12,hexetidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hexetidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB13,tetracycline,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tetracycline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB14,benzoxonium chloride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,benzoxonium chloride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB15,tibezonium iodide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tibezonium iodide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB16,mepartricin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,mepartricin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB17,metronidazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,metronidazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB18,clotrimazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,clotrimazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB19,sodium perborate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium perborate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB21,chlortetracycline,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,chlortetracycline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB22,doxycycline,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,doxycycline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AB23,minocycline,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,minocycline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AC,Corticosteroids for local oral treatment,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Corticosteroids for local oral treatment,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AC01,triamcinolone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,triamcinolone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AC02,dexamethasone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dexamethasone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AC03,hydrocortisone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hydrocortisone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AC54,"prednisolone, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"prednisolone, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD,Other agents for local oral treatment,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other agents for local oral treatment,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD01,epinephrine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,epinephrine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD02,benzydamine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,benzydamine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD05,acetylsalicylic acid,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,acetylsalicylic acid,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD06,adrenalone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,adrenalone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD07,amlexanox,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,amlexanox,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD08,becaplermin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,becaplermin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A01AD11,various,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,various,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02,DRUGS FOR ACID RELATED DISORDERS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,DRUGS FOR ACID RELATED DISORDERS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02A,ANTACIDS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ANTACIDS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AA,Magnesium compounds,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Magnesium compounds,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AA01,magnesium carbonate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium carbonate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AA02,magnesium oxide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium oxide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AA03,magnesium peroxide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium peroxide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AA04,magnesium hydroxide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium hydroxide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AA05,magnesium silicate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium silicate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AA10,combinations,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,combinations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB,Aluminium compounds,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Aluminium compounds,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB01,aluminium hydroxide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,aluminium hydroxide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB02,algeldrate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,algeldrate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB03,aluminium phosphate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,aluminium phosphate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB04,dihydroxialumini sodium carbonate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dihydroxialumini sodium carbonate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB05,aluminium acetoacetate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,aluminium acetoacetate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB06,aloglutamol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,aloglutamol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB07,aluminium glycinate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,aluminium glycinate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AB10,combinations,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,combinations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AC,Calcium compounds,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Calcium compounds,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AC01,calcium carbonate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,calcium carbonate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AC02,calcium silicate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,calcium silicate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AC10,combinations,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,combinations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AD,"Combinations and complexes of aluminium, calcium and magnesium compounds",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Combinations and complexes of aluminium, calcium and magnesium compounds",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AD01,ordinary salt combinations,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ordinary salt combinations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AD02,magaldrate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magaldrate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AD03,almagate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,almagate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AD04,hydrotalcite,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hydrotalcite,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AD05,almasilate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,almasilate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AF,Antacids with antiflatulents,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Antacids with antiflatulents,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AF01,magaldrate and antiflatulents,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magaldrate and antiflatulents,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AF02,ordinary salt combinations and antiflatulents,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ordinary salt combinations and antiflatulents,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AG,Antacids with antispasmodics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Antacids with antispasmodics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AH,Antacids with sodium bicarbonate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Antacids with sodium bicarbonate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02AX,"Antacids, other combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Antacids, other combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02B,DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD),,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD),,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA,H2-receptor antagonists,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,H2-receptor antagonists,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA01,cimetidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cimetidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA02,ranitidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ranitidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA03,famotidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,famotidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA04,nizatidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,nizatidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA05,niperotidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,niperotidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA06,roxatidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,roxatidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA07,ranitidine bismuth citrate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ranitidine bismuth citrate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA08,lafutidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,lafutidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA51,"cimetidine, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"cimetidine, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BA53,"famotidine, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"famotidine, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BB,Prostaglandins,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Prostaglandins,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BB01,misoprostol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,misoprostol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BB02,enprostil,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,enprostil,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC,Proton pump inhibitors,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Proton pump inhibitors,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC01,omeprazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,omeprazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC02,pantoprazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,pantoprazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC03,lansoprazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,lansoprazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC04,rabeprazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,rabeprazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC05,esomeprazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,esomeprazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC06,dexlansoprazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dexlansoprazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC07,dexrabeprazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dexrabeprazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC08,vonoprazan,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,vonoprazan,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC53,"lansoprazole, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"lansoprazole, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BC54,"rabeprazole, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"rabeprazole, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD,Combinations for eradication of Helicobacter pylori,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Combinations for eradication of Helicobacter pylori,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD01,"omeprazole, amoxicillin and metronidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"omeprazole, amoxicillin and metronidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD02,"lansoprazole, tetracycline and metronidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"lansoprazole, tetracycline and metronidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD03,"lansoprazole, amoxicillin and metronidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"lansoprazole, amoxicillin and metronidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD04,"pantoprazole, amoxicillin and clarithromycin",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"pantoprazole, amoxicillin and clarithromycin",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD05,"omeprazole, amoxicillin and clarithromycin",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"omeprazole, amoxicillin and clarithromycin",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD06,"esomeprazole, amoxicillin and clarithromycin",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"esomeprazole, amoxicillin and clarithromycin",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD07,"lansoprazole, amoxicillin and clarithromycin",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"lansoprazole, amoxicillin and clarithromycin",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD08,"bismuth subcitrate, tetracycline and metronidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"bismuth subcitrate, tetracycline and metronidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD09,"lansoprazole, clarithromycin and tinidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"lansoprazole, clarithromycin and tinidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD10,"lansoprazole, amoxicillin and levofloxacin",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"lansoprazole, amoxicillin and levofloxacin",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD11,"pantoprazole, amoxicillin, clarithromycin and metronidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"pantoprazole, amoxicillin, clarithromycin and metronidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD12,"rabeprazole, amoxicillin and clarithromycin",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"rabeprazole, amoxicillin and clarithromycin",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD13,"rabeprazole, amoxicillin and metronidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"rabeprazole, amoxicillin and metronidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD14,"vonoprazan, amoxicillin and clarithromycin",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"vonoprazan, amoxicillin and clarithromycin",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BD15,"vonoprazan, amoxicillin and metronidazole",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"vonoprazan, amoxicillin and metronidazole",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX01,carbenoxolone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,carbenoxolone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX02,sucralfate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sucralfate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX03,pirenzepine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,pirenzepine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX04,methiosulfonium chloride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,methiosulfonium chloride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX05,bismuth subcitrate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bismuth subcitrate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX06,proglumide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,proglumide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX07,gefarnate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,gefarnate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX08,sulglicotide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sulglicotide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX09,acetoxolone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,acetoxolone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX10,zolimidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,zolimidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX11,troxipide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,troxipide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX12,bismuth subnitrate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bismuth subnitrate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX13,alginic acid,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,alginic acid,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX14,rebamipide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,rebamipide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX51,"carbenoxolone, combinations excl. psycholeptics",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"carbenoxolone, combinations excl. psycholeptics",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX71,"carbenoxolone, combinations with psycholeptics",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"carbenoxolone, combinations with psycholeptics",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02BX77,"gefarnate, combinations with psycholeptics",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"gefarnate, combinations with psycholeptics",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A02X,OTHER DRUGS FOR ACID RELATED DISORDERS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,OTHER DRUGS FOR ACID RELATED DISORDERS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03A,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA,"Synthetic anticholinergics, esters with tertiary amino group",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Synthetic anticholinergics, esters with tertiary amino group",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA01,oxyphencyclimine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,oxyphencyclimine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA03,camylofin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,camylofin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA04,mebeverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,mebeverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA05,trimebutine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,trimebutine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA06,rociverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,rociverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA07,dicycloverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dicycloverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA08,dihexyverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dihexyverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA09,difemerine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,difemerine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AA30,piperidolate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,piperidolate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB,"Synthetic anticholinergics, quaternary ammonium compounds",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Synthetic anticholinergics, quaternary ammonium compounds",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB01,benzilone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,benzilone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB02,glycopyrronium bromide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,glycopyrronium bromide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB03,oxyphenonium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,oxyphenonium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB04,penthienate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,penthienate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB05,propantheline,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,propantheline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB06,otilonium bromide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,otilonium bromide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB07,methantheline,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,methantheline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB08,tridihexethyl,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tridihexethyl,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB09,isopropamide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,isopropamide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB10,hexocyclium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hexocyclium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB11,poldine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,poldine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB12,mepenzolate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,mepenzolate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB13,bevonium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bevonium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB14,pipenzolate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,pipenzolate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB15,diphemanil,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,diphemanil,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB16,(2-benzhydryloxyethyl)diethyl-methylammonium iodide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,(2-benzhydryloxyethyl)diethyl-methylammonium iodide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB17,tiemonium iodide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tiemonium iodide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB18,prifinium bromide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,prifinium bromide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB19,timepidium bromide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,timepidium bromide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB21,fenpiverinium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,fenpiverinium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AB53,"oxyphenonium, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"oxyphenonium, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AC,"Synthetic antispasmodics, amides with tertiary amines",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Synthetic antispasmodics, amides with tertiary amines",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AC02,dimethylaminopropionylphenothiazine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dimethylaminopropionylphenothiazine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AC04,nicofetamide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,nicofetamide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AC05,tiropramide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tiropramide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AD,Papaverine and derivatives,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Papaverine and derivatives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AD01,papaverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,papaverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AD02,drotaverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,drotaverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AD30,moxaverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,moxaverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AE,Serotonin receptor antagonists,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Serotonin receptor antagonists,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AE01,alosetron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,alosetron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AE03,cilansetron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cilansetron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX,Other drugs for functional gastrointestinal disorders,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other drugs for functional gastrointestinal disorders,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX01,fenpiprane,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,fenpiprane,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX02,diisopromine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,diisopromine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX03,chlorbenzoxamine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,chlorbenzoxamine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX04,pinaverium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,pinaverium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX05,fenoverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,fenoverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX06,idanpramine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,idanpramine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX07,proxazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,proxazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX08,alverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,alverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX09,trepibutone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,trepibutone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX10,isometheptene,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,isometheptene,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX11,caroverine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,caroverine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX12,phloroglucinol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,phloroglucinol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX13,silicones,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,silicones,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX14,valethamate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,valethamate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX15,menthae piperitae aetheroleum,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,menthae piperitae aetheroleum,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX30,trimethyldiphenylpropylamine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,trimethyldiphenylpropylamine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03AX58,"alverine, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"alverine, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03B,"BELLADONNA AND DERIVATIVES, PLAIN",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"BELLADONNA AND DERIVATIVES, PLAIN",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BA,"Belladonna alkaloids, tertiary amines",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Belladonna alkaloids, tertiary amines",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BA01,atropine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,atropine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BA03,hyoscyamine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hyoscyamine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BA04,belladonna total alkaloids,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,belladonna total alkaloids,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BB,"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BB01,butylscopolamine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,butylscopolamine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BB02,methylatropine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,methylatropine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BB03,methylscopolamine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,methylscopolamine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BB04,fentonium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,fentonium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BB05,cimetropium bromide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cimetropium bromide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03BB06,homatropine methylbromide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,homatropine methylbromide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03C,ANTISPASMODICS IN COMBINATION WITH PSYCHOLEPTICS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ANTISPASMODICS IN COMBINATION WITH PSYCHOLEPTICS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA,Synthetic anticholinergic agents in combination with psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Synthetic anticholinergic agents in combination with psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA01,isopropamide and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,isopropamide and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA02,clidinium and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,clidinium and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA03,oxyphencyclimine and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,oxyphencyclimine and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA04,otilonium bromide and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,otilonium bromide and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA05,glycopyrronium bromide and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,glycopyrronium bromide and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA06,bevonium and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bevonium and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA07,ambutonium and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ambutonium and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA08,diphemanil and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,diphemanil and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA09,pipenzolate and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,pipenzolate and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA30,emepronium and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,emepronium and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CA34,propantheline and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,propantheline and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CB,Belladonna and derivatives in combination with psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Belladonna and derivatives in combination with psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CB01,methylscopolamine and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,methylscopolamine and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CB02,belladonna total alkaloids and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,belladonna total alkaloids and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CB03,atropine and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,atropine and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CB04,homatropine methylbromide and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,homatropine methylbromide and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CB31,hyoscyamine and psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hyoscyamine and psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03CC,Other antispasmodics in combination with psycholeptics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other antispasmodics in combination with psycholeptics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03D,ANTISPASMODICS IN COMBINATION WITH ANALGESICS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ANTISPASMODICS IN COMBINATION WITH ANALGESICS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA,Synthetic anticholinergic agents in combination with analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Synthetic anticholinergic agents in combination with analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA01,tropenzilone and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tropenzilone and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA02,pitofenone and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,pitofenone and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA03,bevonium and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bevonium and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA04,ciclonium and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ciclonium and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA05,camylofin and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,camylofin and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA06,trospium and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,trospium and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DA07,tiemonium iodide and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tiemonium iodide and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DB,Belladonna and derivatives in combination with analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Belladonna and derivatives in combination with analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DB04,butylscopolamine and analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,butylscopolamine and analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03DC,Other antispasmodics in combination with analgesics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other antispasmodics in combination with analgesics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03E,ANTISPASMODICS AND ANTICHOLINERGICS IN COMBINATION WITH OTHER DRUGS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ANTISPASMODICS AND ANTICHOLINERGICS IN COMBINATION WITH OTHER DRUGS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03EA,"Antispasmodics, psycholeptics and analgesics in combination",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Antispasmodics, psycholeptics and analgesics in combination",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03ED,Antispasmodics in combination with other drugs,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Antispasmodics in combination with other drugs,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03F,PROPULSIVES,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,PROPULSIVES,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA,Propulsives,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Propulsives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA01,metoclopramide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,metoclopramide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA02,cisapride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cisapride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA03,domperidone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,domperidone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA04,bromopride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bromopride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA05,alizapride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,alizapride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA06,clebopride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,clebopride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA07,itopride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,itopride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA08,cinitapride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cinitapride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A03FA09,mosapride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,mosapride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04,ANTIEMETICS AND ANTINAUSEANTS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ANTIEMETICS AND ANTINAUSEANTS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04A,ANTIEMETICS AND ANTINAUSEANTS,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ANTIEMETICS AND ANTINAUSEANTS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AA,Serotonin (5HT3) antagonists,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Serotonin (5HT3) antagonists,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AA01,ondansetron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ondansetron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AA02,granisetron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,granisetron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AA03,tropisetron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tropisetron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AA04,dolasetron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dolasetron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AA05,palonosetron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,palonosetron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AA55,"palonosetron, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"palonosetron, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD,Other antiemetics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other antiemetics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD01,scopolamine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,scopolamine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD02,cerium oxalate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cerium oxalate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD04,chlorobutanol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,chlorobutanol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD05,metopimazine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,metopimazine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD10,dronabinol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dronabinol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD11,nabilone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,nabilone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD12,aprepitant,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,aprepitant,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD13,casopitant,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,casopitant,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD14,rolapitant,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,rolapitant,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD51,"scopolamine, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"scopolamine, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A04AD54,"chlorobutanol, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"chlorobutanol, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05,BILE AND LIVER THERAPY,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,BILE AND LIVER THERAPY,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05A,BILE THERAPY,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,BILE THERAPY,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AA,Bile acids and derivatives,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Bile acids and derivatives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AA01,chenodeoxycholic acid,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,chenodeoxycholic acid,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AA02,ursodeoxycholic acid,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ursodeoxycholic acid,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AA03,cholic acid,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cholic acid,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AA04,obeticholic acid,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,obeticholic acid,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AB,Preparations for biliary tract therapy,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Preparations for biliary tract therapy,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AB01,nicotinyl methylamide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,nicotinyl methylamide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AX,Other drugs for bile therapy,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other drugs for bile therapy,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AX01,piprozolin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,piprozolin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AX02,hymecromone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,hymecromone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05AX03,cyclobutyrol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cyclobutyrol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05B,"LIVER THERAPY, LIPOTROPICS",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"LIVER THERAPY, LIPOTROPICS",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA,Liver therapy,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Liver therapy,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA01,arginine glutamate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,arginine glutamate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA03,silymarin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,silymarin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA04,citiolone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,citiolone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA05,epomediol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,epomediol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA06,ornithine oxoglurate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ornithine oxoglurate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA07,tidiacic arginine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tidiacic arginine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA08,glycyrrhizic acid,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,glycyrrhizic acid,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05BA09,metadoxine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,metadoxine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A05C,DRUGS FOR BILE THERAPY AND LIPOTROPICS IN COMBINATION,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,DRUGS FOR BILE THERAPY AND LIPOTROPICS IN COMBINATION,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06,DRUGS FOR CONSTIPATION,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,DRUGS FOR CONSTIPATION,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06A,DRUGS FOR CONSTIPATION,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,DRUGS FOR CONSTIPATION,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AA,"Softeners, emollients",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"Softeners, emollients",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AA01,liquid paraffin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,liquid paraffin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AA02,docusate sodium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,docusate sodium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AA51,"liquid paraffin, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"liquid paraffin, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB,Contact laxatives,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Contact laxatives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB01,oxyphenisatine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,oxyphenisatine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB02,bisacodyl,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bisacodyl,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB03,dantron,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,dantron,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB04,phenolphthalein,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,phenolphthalein,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB05,castor oil,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,castor oil,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB06,senna glycosides,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,senna glycosides,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB07,cascara,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,cascara,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB08,sodium picosulfate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium picosulfate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB09,bisoxatin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bisoxatin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB20,contact laxatives in combination,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,contact laxatives in combination,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB30,contact laxatives in combination with belladonna alkaloids,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,contact laxatives in combination with belladonna alkaloids,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB52,"bisacodyl, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"bisacodyl, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB53,"dantron, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"dantron, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB56,"senna glycosides, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"senna glycosides, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB57,"cascara, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"cascara, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AB58,"sodium picosulfate, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"sodium picosulfate, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC,Bulk-forming laxatives,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Bulk-forming laxatives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC01,ispaghula (psylla seeds),,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ispaghula (psylla seeds),,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC02,ethulose,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,ethulose,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC03,sterculia,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sterculia,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC05,linseed,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,linseed,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC06,methylcellulose,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,methylcellulose,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC07,triticum (wheat fibre),,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,triticum (wheat fibre),,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC08,polycarbophil calcium,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,polycarbophil calcium,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC51,"ispaghula, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"ispaghula, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC53,"sterculia, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"sterculia, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AC55,"linseed, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"linseed, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD,Osmotically acting laxatives,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Osmotically acting laxatives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD01,magnesium carbonate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium carbonate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD02,magnesium oxide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium oxide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD03,magnesium peroxide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium peroxide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD04,magnesium sulfate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium sulfate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD10,mineral salts in combination,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,mineral salts in combination,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD11,lactulose,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,lactulose,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD12,lactitol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,lactitol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD13,sodium sulfate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium sulfate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD14,pentaerithrityl,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,pentaerithrityl,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD15,macrogol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,macrogol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD16,mannitol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,mannitol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD17,sodium phosphate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium phosphate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD18,sorbitol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sorbitol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD19,magnesium citrate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,magnesium citrate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD21,sodium tartrate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium tartrate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD61,"lactulose, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"lactulose, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AD65,"macrogol, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"macrogol, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG,Enemas,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Enemas,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG01,sodium phosphate,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sodium phosphate,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG02,bisacodyl,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,bisacodyl,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG03,"dantron, incl. combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"dantron, incl. combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG04,glycerol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,glycerol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG06,oil,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,oil,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG07,sorbitol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sorbitol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG10,"docusate sodium, incl. combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"docusate sodium, incl. combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG11,"sodium lauryl sulfoacetate, incl. combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"sodium lauryl sulfoacetate, incl. combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AG20,combinations,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,combinations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AH,Peripheral opioid receptor antagonists,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Peripheral opioid receptor antagonists,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AH01,methylnaltrexone bromide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,methylnaltrexone bromide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AH02,alvimopan,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,alvimopan,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AH03,naloxegol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,naloxegol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AH04,naloxone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,naloxone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AH05,naldemedine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,naldemedine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX,Other drugs for constipation,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Other drugs for constipation,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX01,glycerol,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,glycerol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX02,carbon dioxide producing drugs,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,carbon dioxide producing drugs,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX03,lubiprostone,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,lubiprostone,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX04,linaclotide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,linaclotide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX05,prucalopride,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,prucalopride,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX06,tegaserod,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tegaserod,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX07,plecanatide,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,plecanatide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A06AX08,tenapanor,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,tenapanor,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07,"ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07A,INTESTINAL ANTIINFECTIVES,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,INTESTINAL ANTIINFECTIVES,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA,Antibiotics,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Antibiotics,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA01,neomycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,neomycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA02,nystatin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,nystatin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA03,natamycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,natamycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA04,streptomycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,streptomycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA05,polymyxin B,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,polymyxin B,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA06,paromomycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,paromomycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA07,amphotericin B,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,amphotericin B,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA08,kanamycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,kanamycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA09,vancomycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,vancomycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA10,colistin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,colistin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA11,rifaximin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,rifaximin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA12,fidaxomicin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,fidaxomicin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA13,rifamycin,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,rifamycin,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA51,"neomycin, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"neomycin, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AA54,"streptomycin, combinations",,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,"streptomycin, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AB,Sulfonamides,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Sulfonamides,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AB02,phthalylsulfathiazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,phthalylsulfathiazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AB03,sulfaguanidine,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,sulfaguanidine,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AB04,succinylsulfathiazole,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,succinylsulfathiazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AC,Imidazole derivatives,,,por,,,,,,,MS,Organization,,por,,,,,,,,,,,,,,,,,TRUE,,TRUE,,,text,Misc,BREtniaIndigena,,,Imidazole derivatives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AC01,miconazole,,,por,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BREtniaIndigena,,,miconazole,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AX,Other intestinal antiinfectives,,,por,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BREtniaIndigena,,,Other intestinal antiinfectives,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AX01,broxyquinoline,,,por,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BREtniaIndigena,,,broxyquinoline,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AX02,acetarsol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BREtniaIndigena,,,acetarsol,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AX03,nifuroxazide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BREtniaIndigena,,,nifuroxazide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07AX04,nifurzide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,text,Misc,BREtniaIndigena,,,nifurzide,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07B,INTESTINAL ADSORBENTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,,,,,,INTESTINAL ADSORBENTS,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07BA,Charcoal preparations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,,,,,,Charcoal preparations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07BA01,medicinal charcoal,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,,,,,,medicinal charcoal,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07BA51,"medicinal charcoal, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"medicinal charcoal, combinations",,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07BB,Bismuth preparations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bismuth preparations,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07BC,Other intestinal adsorbents,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other intestinal adsorbents,,,,,,,,,,,,,,,,Fully Specified,por
+Concept,A07BC01,pectin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pectin,,,,,,,,,,,,,,,,,
+Concept,A07BC02,kaolin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kaolin,,,,,,,,,,,,,,,,,
+Concept,A07BC03,crospovidone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,crospovidone,,,,,,,,,,,,,,,,,
+Concept,A07BC04,attapulgite,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,attapulgite,,,,,,,,,,,,,,,,,
+Concept,A07BC05,diosmectite,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,diosmectite,,,,,,,,,,,,,,,,,
+Concept,A07BC30,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,A07BC54,"attapulgite, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"attapulgite, combinations",,,,,,,,,,,,,,,,,
+Concept,A07C,ELECTROLYTES WITH CARBOHYDRATES,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ELECTROLYTES WITH CARBOHYDRATES,,,,,,,,,,,,,,,,,
+Concept,A07CA,Oral rehydration salt formulations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oral rehydration salt formulations,,,,,,,,,,,,,,,,,
+Concept,A07D,ANTIPROPULSIVES,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTIPROPULSIVES,,,,,,,,,,,,,,,,,
+Concept,A07DA,Antipropulsives,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Antipropulsives,,,,,,,,,,,,,,,,,
+Concept,A07DA01,diphenoxylate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,diphenoxylate,,,,,,,,,,,,,,,,,
+Concept,A07DA02,opium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,opium,,,,,,,,,,,,,,,,,
+Concept,A07DA03,loperamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,loperamide,,,,,,,,,,,,,,,,,
+Concept,A07DA04,difenoxin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,difenoxin,,,,,,,,,,,,,,,,,
+Concept,A07DA05,loperamide oxide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,loperamide oxide,,,,,,,,,,,,,,,,,
+Concept,A07DA06,eluxadoline,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,eluxadoline,,,,,,,,,,,,,,,,,
+Concept,A07DA52,"morphine, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"morphine, combinations",,,,,,,,,,,,,,,,,
+Concept,A07DA53,"loperamide, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"loperamide, combinations",,,,,,,,,,,,,,,,,
+Concept,A07E,INTESTINAL ANTIINFLAMMATORY AGENTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,INTESTINAL ANTIINFLAMMATORY AGENTS,,,,,,,,,,,,,,,,,
+Concept,A07EA,Corticosteroids acting locally,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Corticosteroids acting locally,,,,,,,,,,,,,,,,,
+Concept,A07EA01,prednisolone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prednisolone,,,,,,,,,,,,,,,,,
+Concept,A07EA02,hydrocortisone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hydrocortisone,,,,,,,,,,,,,,,,,
+Concept,A07EA03,prednisone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prednisone,,,,,,,,,,,,,,,,,
+Concept,A07EA04,betamethasone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betamethasone,,,,,,,,,,,,,,,,,
+Concept,A07EA05,tixocortol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tixocortol,,,,,,,,,,,,,,,,,
+Concept,A07EA06,budesonide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,budesonide,,,,,,,,,,,,,,,,,
+Concept,A07EA07,beclometasone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beclometasone,,,,,,,,,,,,,,,,,
+Concept,A07EB,"Antiallergic agents, excl. corticosteroids",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Antiallergic agents, excl. corticosteroids",,,,,,,,,,,,,,,,,
+Concept,A07EB01,cromoglicic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cromoglicic acid,,,,,,,,,,,,,,,,,
+Concept,A07EC,Aminosalicylic acid and similar agents,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aminosalicylic acid and similar agents,,,,,,,,,,,,,,,,,
+Concept,A07EC01,sulfasalazine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sulfasalazine,,,,,,,,,,,,,,,,,
+Concept,A07EC02,mesalazine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mesalazine,,,,,,,,,,,,,,,,,
+Concept,A07EC03,olsalazine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,olsalazine,,,,,,,,,,,,,,,,,
+Concept,A07EC04,balsalazide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,balsalazide,,,,,,,,,,,,,,,,,
+Concept,A07F,ANTIDIARRHEAL MICROORGANISMS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTIDIARRHEAL MICROORGANISMS,,,,,,,,,,,,,,,,,
+Concept,A07FA,Antidiarrheal microorganisms,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Antidiarrheal microorganisms,,,,,,,,,,,,,,,,,
+Concept,A07FA01,lactic acid producing organisms,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lactic acid producing organisms,,,,,,,,,,,,,,,,,
+Concept,A07FA02,saccharomyces boulardii,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,saccharomyces boulardii,,,,,,,,,,,,,,,,,
+Concept,A07FA51,"lactic acid producing organisms, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"lactic acid producing organisms, combinations",,,,,,,,,,,,,,,,,
+Concept,A07X,OTHER ANTIDIARRHEALS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OTHER ANTIDIARRHEALS,,,,,,,,,,,,,,,,,
+Concept,A07XA,Other antidiarrheals,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other antidiarrheals,,,,,,,,,,,,,,,,,
+Concept,A07XA01,albumin tannate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,albumin tannate,,,,,,,,,,,,,,,,,
+Concept,A07XA02,ceratonia,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ceratonia,,,,,,,,,,,,,,,,,
+Concept,A07XA03,calcium compounds,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium compounds,,,,,,,,,,,,,,,,,
+Concept,A07XA04,racecadotril,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,racecadotril,,,,,,,,,,,,,,,,,
+Concept,A07XA06,crofelemer,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,crofelemer,,,,,,,,,,,,,,,,,
+Concept,A07XA51,"albumin tannate, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"albumin tannate, combinations",,,,,,,,,,,,,,,,,
+Concept,A08,"ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS",,,,,,,,,,,,,,,,,
+Concept,A08A,"ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS",,,,,,,,,,,,,,,,,
+Concept,A08AA,Centrally acting antiobesity products,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Centrally acting antiobesity products,,,,,,,,,,,,,,,,,
+Concept,A08AA01,phentermine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phentermine,,,,,,,,,,,,,,,,,
+Concept,A08AA02,fenfluramine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fenfluramine,,,,,,,,,,,,,,,,,
+Concept,A08AA03,amfepramone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,amfepramone,,,,,,,,,,,,,,,,,
+Concept,A08AA04,dexfenfluramine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dexfenfluramine,,,,,,,,,,,,,,,,,
+Concept,A08AA05,mazindol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mazindol,,,,,,,,,,,,,,,,,
+Concept,A08AA06,etilamfetamine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,etilamfetamine,,,,,,,,,,,,,,,,,
+Concept,A08AA07,cathine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cathine,,,,,,,,,,,,,,,,,
+Concept,A08AA08,clobenzorex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,clobenzorex,,,,,,,,,,,,,,,,,
+Concept,A08AA09,mefenorex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mefenorex,,,,,,,,,,,,,,,,,
+Concept,A08AA10,sibutramine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sibutramine,,,,,,,,,,,,,,,,,
+Concept,A08AA11,lorcaserin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lorcaserin,,,,,,,,,,,,,,,,,
+Concept,A08AA56,"ephedrine, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ephedrine, combinations",,,,,,,,,,,,,,,,,
+Concept,A08AA62,bupropion and naltrexone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bupropion and naltrexone,,,,,,,,,,,,,,,,,
+Concept,A08AB,Peripherally acting antiobesity products,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Peripherally acting antiobesity products,,,,,,,,,,,,,,,,,
+Concept,A08AB01,orlistat,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,orlistat,,,,,,,,,,,,,,,,,
+Concept,A08AX,Other antiobesity drugs,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other antiobesity drugs,,,,,,,,,,,,,,,,,
+Concept,A08AX01,rimonabant,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rimonabant,,,,,,,,,,,,,,,,,
+Concept,A09,"DIGESTIVES, INCL. ENZYMES",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"DIGESTIVES, INCL. ENZYMES",,,,,,,,,,,,,,,,,
+Concept,A09A,"DIGESTIVES, INCL. ENZYMES",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"DIGESTIVES, INCL. ENZYMES",,,,,,,,,,,,,,,,,
+Concept,A09AA,Enzyme preparations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enzyme preparations,,,,,,,,,,,,,,,,,
+Concept,A09AA01,diastase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,diastase,,,,,,,,,,,,,,,,,
+Concept,A09AA02,"multienzymes (lipase, protease etc.)",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"multienzymes (lipase, protease etc.)",,,,,,,,,,,,,,,,,
+Concept,A09AA03,pepsin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pepsin,,,,,,,,,,,,,,,,,
+Concept,A09AA04,tilactase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tilactase,,,,,,,,,,,,,,,,,
+Concept,A09AB,Acid preparations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acid preparations,,,,,,,,,,,,,,,,,
+Concept,A09AB01,glutamic acid hydrochloride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glutamic acid hydrochloride,,,,,,,,,,,,,,,,,
+Concept,A09AB02,betaine hydrochloride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betaine hydrochloride,,,,,,,,,,,,,,,,,
+Concept,A09AB03,hydrochloric acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hydrochloric acid,,,,,,,,,,,,,,,,,
+Concept,A09AB04,citric acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,citric acid,,,,,,,,,,,,,,,,,
+Concept,A09AC,"Enzyme and acid preparations, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Enzyme and acid preparations, combinations",,,,,,,,,,,,,,,,,
+Concept,A09AC01,pepsin and acid preparations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pepsin and acid preparations,,,,,,,,,,,,,,,,,
+Concept,A09AC02,multienzymes and acid preparations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multienzymes and acid preparations,,,,,,,,,,,,,,,,,
+Concept,A10,DRUGS USED IN DIABETES,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DRUGS USED IN DIABETES,,,,,,,,,,,,,,,,,
+Concept,A10A,INSULINS AND ANALOGUES,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,INSULINS AND ANALOGUES,,,,,,,,,,,,,,,,,
+Concept,A10AB,"Insulins and analogues for injection, fast-acting",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Insulins and analogues for injection, fast-acting",,,,,,,,,,,,,,,,,
+Concept,A10AB01,insulin (human),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (human),,,,,,,,,,,,,,,,,
+Concept,A10AB02,insulin (beef),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (beef),,,,,,,,,,,,,,,,,
+Concept,A10AB03,insulin (pork),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (pork),,,,,,,,,,,,,,,,,
+Concept,A10AB04,insulin lispro,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin lispro,,,,,,,,,,,,,,,,,
+Concept,A10AB05,insulin aspart,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin aspart,,,,,,,,,,,,,,,,,
+Concept,A10AB06,insulin glulisine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin glulisine,,,,,,,,,,,,,,,,,
+Concept,A10AB30,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,A10AC,"Insulins and analogues for injection, intermediate-acting",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Insulins and analogues for injection, intermediate-acting",,,,,,,,,,,,,,,,,
+Concept,A10AC01,insulin (human),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (human),,,,,,,,,,,,,,,,,
+Concept,A10AC02,insulin (beef),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (beef),,,,,,,,,,,,,,,,,
+Concept,A10AC03,insulin (pork),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (pork),,,,,,,,,,,,,,,,,
+Concept,A10AC04,insulin lispro,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin lispro,,,,,,,,,,,,,,,,,
+Concept,A10AC30,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,A10AD,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",,,,,,,,,,,,,,,,,
+Concept,A10AD01,insulin (human),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (human),,,,,,,,,,,,,,,,,
+Concept,A10AD02,insulin (beef),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (beef),,,,,,,,,,,,,,,,,
+Concept,A10AD03,insulin (pork),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (pork),,,,,,,,,,,,,,,,,
+Concept,A10AD04,insulin lispro,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin lispro,,,,,,,,,,,,,,,,,
+Concept,A10AD05,insulin aspart,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin aspart,,,,,,,,,,,,,,,,,
+Concept,A10AD06,insulin degludec and insulin aspart,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin degludec and insulin aspart,,,,,,,,,,,,,,,,,
+Concept,A10AD30,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,A10AE,"Insulins and analogues for injection, long-acting",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Insulins and analogues for injection, long-acting",,,,,,,,,,,,,,,,,
+Concept,A10AE01,insulin (human),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (human),,,,,,,,,,,,,,,,,
+Concept,A10AE02,insulin (beef),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (beef),,,,,,,,,,,,,,,,,
+Concept,A10AE03,insulin (pork),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (pork),,,,,,,,,,,,,,,,,
+Concept,A10AE04,insulin glargine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin glargine,,,,,,,,,,,,,,,,,
+Concept,A10AE05,insulin detemir,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin detemir,,,,,,,,,,,,,,,,,
+Concept,A10AE06,insulin degludec,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin degludec,,,,,,,,,,,,,,,,,
+Concept,A10AE30,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,A10AE54,insulin glargine and lixisenatide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin glargine and lixisenatide,,,,,,,,,,,,,,,,,
+Concept,A10AE56,insulin degludec and liraglutide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin degludec and liraglutide,,,,,,,,,,,,,,,,,
+Concept,A10AF,Insulins and analogues for inhalation,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Insulins and analogues for inhalation,,,,,,,,,,,,,,,,,
+Concept,A10AF01,insulin (human),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,insulin (human),,,,,,,,,,,,,,,,,
+Concept,A10B,"BLOOD GLUCOSE LOWERING DRUGS, EXCL. INSULINS",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"BLOOD GLUCOSE LOWERING DRUGS, EXCL. INSULINS",,,,,,,,,,,,,,,,,
+Concept,A10BA,Biguanides,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Biguanides,,,,,,,,,,,,,,,,,
+Concept,A10BA01,phenformin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phenformin,,,,,,,,,,,,,,,,,
+Concept,A10BA02,metformin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin,,,,,,,,,,,,,,,,,
+Concept,A10BA03,buformin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,buformin,,,,,,,,,,,,,,,,,
+Concept,A10BB,Sulfonylureas,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sulfonylureas,,,,,,,,,,,,,,,,,
+Concept,A10BB01,glibenclamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glibenclamide,,,,,,,,,,,,,,,,,
+Concept,A10BB02,chlorpropamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chlorpropamide,,,,,,,,,,,,,,,,,
+Concept,A10BB03,tolbutamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tolbutamide,,,,,,,,,,,,,,,,,
+Concept,A10BB04,glibornuride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glibornuride,,,,,,,,,,,,,,,,,
+Concept,A10BB05,tolazamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tolazamide,,,,,,,,,,,,,,,,,
+Concept,A10BB06,carbutamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,carbutamide,,,,,,,,,,,,,,,,,
+Concept,A10BB07,glipizide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glipizide,,,,,,,,,,,,,,,,,
+Concept,A10BB08,gliquidone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gliquidone,,,,,,,,,,,,,,,,,
+Concept,A10BB09,gliclazide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gliclazide,,,,,,,,,,,,,,,,,
+Concept,A10BB10,metahexamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metahexamide,,,,,,,,,,,,,,,,,
+Concept,A10BB11,glisoxepide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glisoxepide,,,,,,,,,,,,,,,,,
+Concept,A10BB12,glimepiride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glimepiride,,,,,,,,,,,,,,,,,
+Concept,A10BB31,acetohexamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acetohexamide,,,,,,,,,,,,,,,,,
+Concept,A10BC,Sulfonamides (heterocyclic),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sulfonamides (heterocyclic),,,,,,,,,,,,,,,,,
+Concept,A10BC01,glymidine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glymidine,,,,,,,,,,,,,,,,,
+Concept,A10BD,Combinations of oral blood glucose lowering drugs,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Combinations of oral blood glucose lowering drugs,,,,,,,,,,,,,,,,,
+Concept,A10BD01,phenformin and sulfonylureas,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phenformin and sulfonylureas,,,,,,,,,,,,,,,,,
+Concept,A10BD02,metformin and sulfonylureas,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and sulfonylureas,,,,,,,,,,,,,,,,,
+Concept,A10BD03,metformin and rosiglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and rosiglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BD04,glimepiride and rosiglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glimepiride and rosiglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BD05,metformin and pioglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and pioglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BD06,glimepiride and pioglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glimepiride and pioglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BD07,metformin and sitagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and sitagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD08,metformin and vildagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and vildagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD09,pioglitazone and alogliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pioglitazone and alogliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD10,metformin and saxagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and saxagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD11,metformin and linagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and linagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD12,pioglitazone and sitagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pioglitazone and sitagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD13,metformin and alogliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and alogliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD14,metformin and repaglinide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and repaglinide,,,,,,,,,,,,,,,,,
+Concept,A10BD15,metformin and dapagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and dapagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BD16,metformin and canagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and canagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BD17,metformin and acarbose,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and acarbose,,,,,,,,,,,,,,,,,
+Concept,A10BD18,metformin and gemigliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and gemigliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD19,linagliptin and empagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,linagliptin and empagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BD20,metformin and empagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and empagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BD21,saxagliptin and dapagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,saxagliptin and dapagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BD22,metformin and evogliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and evogliptin,,,,,,,,,,,,,,,,,
+Concept,A10BD23,metformin and ertugliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and ertugliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BD24,sitagliptin and ertugliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sitagliptin and ertugliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BD25,"metformin, saxagliptin and dapagliflozin",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"metformin, saxagliptin and dapagliflozin",,,,,,,,,,,,,,,,,
+Concept,A10BD26,metformin and lobeglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metformin and lobeglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BF,Alpha glucosidase inhibitors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alpha glucosidase inhibitors,,,,,,,,,,,,,,,,,
+Concept,A10BF01,acarbose,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acarbose,,,,,,,,,,,,,,,,,
+Concept,A10BF02,miglitol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,miglitol,,,,,,,,,,,,,,,,,
+Concept,A10BF03,voglibose,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,voglibose,,,,,,,,,,,,,,,,,
+Concept,A10BG,Thiazolidinediones,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thiazolidinediones,,,,,,,,,,,,,,,,,
+Concept,A10BG01,troglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,troglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BG02,rosiglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rosiglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BG03,pioglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pioglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BG04,lobeglitazone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lobeglitazone,,,,,,,,,,,,,,,,,
+Concept,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dipeptidyl peptidase 4 (DPP-4) inhibitors,,,,,,,,,,,,,,,,,
+Concept,A10BH01,sitagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sitagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH02,vildagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vildagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH03,saxagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,saxagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH04,alogliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alogliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH05,linagliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,linagliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH06,gemigliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gemigliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH07,evogliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,evogliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH08,teneligliptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,teneligliptin,,,,,,,,,,,,,,,,,
+Concept,A10BH51,sitagliptin and simvastatin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sitagliptin and simvastatin,,,,,,,,,,,,,,,,,
+Concept,A10BH52,gemigliptin and rosuvastatin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gemigliptin and rosuvastatin,,,,,,,,,,,,,,,,,
+Concept,A10BJ,Glucagon-like peptide-1 (GLP-1) analogues,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Glucagon-like peptide-1 (GLP-1) analogues,,,,,,,,,,,,,,,,,
+Concept,A10BJ01,exenatide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,exenatide,,,,,,,,,,,,,,,,,
+Concept,A10BJ02,liraglutide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,liraglutide,,,,,,,,,,,,,,,,,
+Concept,A10BJ03,lixisenatide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lixisenatide,,,,,,,,,,,,,,,,,
+Concept,A10BJ04,albiglutide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,albiglutide,,,,,,,,,,,,,,,,,
+Concept,A10BJ05,dulaglutide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dulaglutide,,,,,,,,,,,,,,,,,
+Concept,A10BJ06,semaglutide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,semaglutide,,,,,,,,,,,,,,,,,
+Concept,A10BJ07,beinaglutide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beinaglutide,,,,,,,,,,,,,,,,,
+Concept,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,,,,,,,,,,,,,,,,,
+Concept,A10BK01,dapagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dapagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BK02,canagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,canagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BK03,empagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,empagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BK04,ertugliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ertugliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BK05,ipragliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ipragliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BK06,sotagliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sotagliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BK07,luseogliflozin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,luseogliflozin,,,,,,,,,,,,,,,,,
+Concept,A10BX,"Other blood glucose lowering drugs, excl. insulins",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Other blood glucose lowering drugs, excl. insulins",,,,,,,,,,,,,,,,,
+Concept,A10BX01,guar gum,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,guar gum,,,,,,,,,,,,,,,,,
+Concept,A10BX02,repaglinide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,repaglinide,,,,,,,,,,,,,,,,,
+Concept,A10BX03,nateglinide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nateglinide,,,,,,,,,,,,,,,,,
+Concept,A10BX05,pramlintide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pramlintide,,,,,,,,,,,,,,,,,
+Concept,A10BX06,benfluorex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,benfluorex,,,,,,,,,,,,,,,,,
+Concept,A10BX08,mitiglinide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mitiglinide,,,,,,,,,,,,,,,,,
+Concept,A10X,OTHER DRUGS USED IN DIABETES,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OTHER DRUGS USED IN DIABETES,,,,,,,,,,,,,,,,,
+Concept,A10XA,Aldose reductase inhibitors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aldose reductase inhibitors,,,,,,,,,,,,,,,,,
+Concept,A10XA01,tolrestat,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tolrestat,,,,,,,,,,,,,,,,,
+Concept,A11,VITAMINS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VITAMINS,,,,,,,,,,,,,,,,,
+Concept,A11A,"MULTIVITAMINS, COMBINATIONS",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MULTIVITAMINS, COMBINATIONS",,,,,,,,,,,,,,,,,
+Concept,A11AA,Multivitamins with minerals,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Multivitamins with minerals,,,,,,,,,,,,,,,,,
+Concept,A11AA01,multivitamins and iron,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multivitamins and iron,,,,,,,,,,,,,,,,,
+Concept,A11AA02,multivitamins and calcium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multivitamins and calcium,,,,,,,,,,,,,,,,,
+Concept,A11AA03,"multivitamins and other minerals, incl. combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"multivitamins and other minerals, incl. combinations",,,,,,,,,,,,,,,,,
+Concept,A11AA04,multivitamins and trace elements,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multivitamins and trace elements,,,,,,,,,,,,,,,,,
+Concept,A11AB,"Multivitamins, other combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Multivitamins, other combinations",,,,,,,,,,,,,,,,,
+Concept,A11B,"MULTIVITAMINS, PLAIN",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MULTIVITAMINS, PLAIN",,,,,,,,,,,,,,,,,
+Concept,A11BA,"Multivitamins, plain",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Multivitamins, plain",,,,,,,,,,,,,,,,,
+Concept,A11C,"VITAMIN A AND D, INCL. COMBINATIONS OF THE TWO",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VITAMIN A AND D, INCL. COMBINATIONS OF THE TWO",,,,,,,,,,,,,,,,,
+Concept,A11CA,"Vitamin A, plain",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vitamin A, plain",,,,,,,,,,,,,,,,,
+Concept,A11CA01,retinol (vit A),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,retinol (vit A),,,,,,,,,,,,,,,,,
+Concept,A11CA02,betacarotene,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betacarotene,,,,,,,,,,,,,,,,,
+Concept,A11CB,Vitamin A and D in combination,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin A and D in combination,,,,,,,,,,,,,,,,,
+Concept,A11CC,Vitamin D and analogues,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin D and analogues,,,,,,,,,,,,,,,,,
+Concept,A11CC01,ergocalciferol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ergocalciferol,,,,,,,,,,,,,,,,,
+Concept,A11CC02,dihydrotachysterol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dihydrotachysterol,,,,,,,,,,,,,,,,,
+Concept,A11CC03,alfacalcidol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alfacalcidol,,,,,,,,,,,,,,,,,
+Concept,A11CC04,calcitriol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcitriol,,,,,,,,,,,,,,,,,
+Concept,A11CC05,colecalciferol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,colecalciferol,,,,,,,,,,,,,,,,,
+Concept,A11CC06,calcifediol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcifediol,,,,,,,,,,,,,,,,,
+Concept,A11CC20,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,A11CC55,"colecalciferol, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"colecalciferol, combinations",,,,,,,,,,,,,,,,,
+Concept,A11D,"VITAMIN B1, PLAIN AND IN COMBINATION WITH VITAMIN B6 AND B12",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VITAMIN B1, PLAIN AND IN COMBINATION WITH VITAMIN B6 AND B12",,,,,,,,,,,,,,,,,
+Concept,A11DA,"Vitamin B1, plain",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vitamin B1, plain",,,,,,,,,,,,,,,,,
+Concept,A11DA01,thiamine (vit B1),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thiamine (vit B1),,,,,,,,,,,,,,,,,
+Concept,A11DA02,sulbutiamine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sulbutiamine,,,,,,,,,,,,,,,,,
+Concept,A11DA03,benfotiamine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,benfotiamine,,,,,,,,,,,,,,,,,
+Concept,A11DB,Vitamin B1 in combination with vitamin B6 and/or vitamin B12,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin B1 in combination with vitamin B6 and/or vitamin B12,,,,,,,,,,,,,,,,,
+Concept,A11E,"VITAMIN B-COMPLEX, INCL. COMBINATIONS",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VITAMIN B-COMPLEX, INCL. COMBINATIONS",,,,,,,,,,,,,,,,,
+Concept,A11EA,"Vitamin B-complex, plain",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vitamin B-complex, plain",,,,,,,,,,,,,,,,,
+Concept,A11EB,Vitamin B-complex with vitamin C,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin B-complex with vitamin C,,,,,,,,,,,,,,,,,
+Concept,A11EC,Vitamin B-complex with minerals,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin B-complex with minerals,,,,,,,,,,,,,,,,,
+Concept,A11ED,Vitamin B-complex with anabolic steroids,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin B-complex with anabolic steroids,,,,,,,,,,,,,,,,,
+Concept,A11EX,"Vitamin B-complex, other combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vitamin B-complex, other combinations",,,,,,,,,,,,,,,,,
+Concept,A11G,"ASCORBIC ACID (VITAMIN C), INCL. COMBINATIONS",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ASCORBIC ACID (VITAMIN C), INCL. COMBINATIONS",,,,,,,,,,,,,,,,,
+Concept,A11GA,"Ascorbic acid (vitamin C), plain",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ascorbic acid (vitamin C), plain",,,,,,,,,,,,,,,,,
+Concept,A11GA01,ascorbic acid (vit C),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ascorbic acid (vit C),,,,,,,,,,,,,,,,,
+Concept,A11GB,"Ascorbic acid (vitamin C), combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ascorbic acid (vitamin C), combinations",,,,,,,,,,,,,,,,,
+Concept,A11GB01,ascorbic acid (vit C) and calcium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ascorbic acid (vit C) and calcium,,,,,,,,,,,,,,,,,
+Concept,A11H,OTHER PLAIN VITAMIN PREPARATIONS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OTHER PLAIN VITAMIN PREPARATIONS,,,,,,,,,,,,,,,,,
+Concept,A11HA,Other plain vitamin preparations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other plain vitamin preparations,,,,,,,,,,,,,,,,,
+Concept,A11HA01,nicotinamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nicotinamide,,,,,,,,,,,,,,,,,
+Concept,A11HA02,pyridoxine (vit B6),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pyridoxine (vit B6),,,,,,,,,,,,,,,,,
+Concept,A11HA03,tocopherol (vit E),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tocopherol (vit E),,,,,,,,,,,,,,,,,
+Concept,A11HA04,riboflavin (vit B2),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,riboflavin (vit B2),,,,,,,,,,,,,,,,,
+Concept,A11HA05,biotin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,biotin,,,,,,,,,,,,,,,,,
+Concept,A11HA06,pyridoxal phosphate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pyridoxal phosphate,,,,,,,,,,,,,,,,,
+Concept,A11HA07,inositol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inositol,,,,,,,,,,,,,,,,,
+Concept,A11HA08,tocofersolan,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tocofersolan,,,,,,,,,,,,,,,,,
+Concept,A11HA30,dexpanthenol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dexpanthenol,,,,,,,,,,,,,,,,,
+Concept,A11HA31,calcium pantothenate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium pantothenate,,,,,,,,,,,,,,,,,
+Concept,A11HA32,pantethine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pantethine,,,,,,,,,,,,,,,,,
+Concept,A11J,"OTHER VITAMIN PRODUCTS, COMBINATIONS",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"OTHER VITAMIN PRODUCTS, COMBINATIONS",,,,,,,,,,,,,,,,,
+Concept,A11JA,Combinations of vitamins,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Combinations of vitamins,,,,,,,,,,,,,,,,,
+Concept,A11JB,Vitamins with minerals,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamins with minerals,,,,,,,,,,,,,,,,,
+Concept,A11JC,"Vitamins, other combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Vitamins, other combinations",,,,,,,,,,,,,,,,,
+Concept,A12,MINERAL SUPPLEMENTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MINERAL SUPPLEMENTS,,,,,,,,,,,,,,,,,
+Concept,A12A,CALCIUM,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CALCIUM,,,,,,,,,,,,,,,,,
+Concept,A12AA,Calcium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Calcium,,,,,,,,,,,,,,,,,
+Concept,A12AA01,calcium phosphate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium phosphate,,,,,,,,,,,,,,,,,
+Concept,A12AA02,calcium glubionate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium glubionate,,,,,,,,,,,,,,,,,
+Concept,A12AA03,calcium gluconate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium gluconate,,,,,,,,,,,,,,,,,
+Concept,A12AA04,calcium carbonate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium carbonate,,,,,,,,,,,,,,,,,
+Concept,A12AA05,calcium lactate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium lactate,,,,,,,,,,,,,,,,,
+Concept,A12AA06,calcium lactate gluconate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium lactate gluconate,,,,,,,,,,,,,,,,,
+Concept,A12AA07,calcium chloride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium chloride,,,,,,,,,,,,,,,,,
+Concept,A12AA08,calcium glycerylphosphate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium glycerylphosphate,,,,,,,,,,,,,,,,,
+Concept,A12AA09,calcium citrate lysine complex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium citrate lysine complex,,,,,,,,,,,,,,,,,
+Concept,A12AA10,calcium glucoheptonate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium glucoheptonate,,,,,,,,,,,,,,,,,
+Concept,A12AA11,calcium pangamate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium pangamate,,,,,,,,,,,,,,,,,
+Concept,A12AA13,calcium citrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium citrate,,,,,,,,,,,,,,,,,
+Concept,A12AA20,calcium (different salts in combination),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium (different salts in combination),,,,,,,,,,,,,,,,,
+Concept,A12AA30,calcium laevulate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium laevulate,,,,,,,,,,,,,,,,,
+Concept,A12AX,"Calcium, combinations with vitamin D and/or other drugs",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Calcium, combinations with vitamin D and/or other drugs",,,,,,,,,,,,,,,,,
+Concept,A12B,POTASSIUM,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POTASSIUM,,,,,,,,,,,,,,,,,
+Concept,A12BA,Potassium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Potassium,,,,,,,,,,,,,,,,,
+Concept,A12BA01,potassium chloride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,potassium chloride,,,,,,,,,,,,,,,,,
+Concept,A12BA02,potassium citrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,potassium citrate,,,,,,,,,,,,,,,,,
+Concept,A12BA03,potassium hydrogentartrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,potassium hydrogentartrate,,,,,,,,,,,,,,,,,
+Concept,A12BA04,potassium hydrogencarbonate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,potassium hydrogencarbonate,,,,,,,,,,,,,,,,,
+Concept,A12BA05,potassium gluconate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,potassium gluconate,,,,,,,,,,,,,,,,,
+Concept,A12BA30,potassium (different salts in combination),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,potassium (different salts in combination),,,,,,,,,,,,,,,,,
+Concept,A12BA51,"potassium chloride, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"potassium chloride, combinations",,,,,,,,,,,,,,,,,
+Concept,A12C,OTHER MINERAL SUPPLEMENTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OTHER MINERAL SUPPLEMENTS,,,,,,,,,,,,,,,,,
+Concept,A12CA,Sodium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sodium,,,,,,,,,,,,,,,,,
+Concept,A12CA01,sodium chloride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium chloride,,,,,,,,,,,,,,,,,
+Concept,A12CA02,sodium sulfate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium sulfate,,,,,,,,,,,,,,,,,
+Concept,A12CB,Zinc,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zinc,,,,,,,,,,,,,,,,,
+Concept,A12CB01,zinc sulfate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zinc sulfate,,,,,,,,,,,,,,,,,
+Concept,A12CB02,zinc gluconate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zinc gluconate,,,,,,,,,,,,,,,,,
+Concept,A12CB03,zinc protein complex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zinc protein complex,,,,,,,,,,,,,,,,,
+Concept,A12CC,Magnesium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Magnesium,,,,,,,,,,,,,,,,,
+Concept,A12CC01,magnesium chloride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium chloride,,,,,,,,,,,,,,,,,
+Concept,A12CC02,magnesium sulfate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium sulfate,,,,,,,,,,,,,,,,,
+Concept,A12CC03,magnesium gluconate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium gluconate,,,,,,,,,,,,,,,,,
+Concept,A12CC04,magnesium citrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium citrate,,,,,,,,,,,,,,,,,
+Concept,A12CC05,magnesium aspartate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium aspartate,,,,,,,,,,,,,,,,,
+Concept,A12CC06,magnesium lactate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium lactate,,,,,,,,,,,,,,,,,
+Concept,A12CC07,magnesium levulinate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium levulinate,,,,,,,,,,,,,,,,,
+Concept,A12CC08,magnesium pidolate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium pidolate,,,,,,,,,,,,,,,,,
+Concept,A12CC09,magnesium orotate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium orotate,,,,,,,,,,,,,,,,,
+Concept,A12CC10,magnesium oxide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium oxide,,,,,,,,,,,,,,,,,
+Concept,A12CC30,magnesium (different salts in combination),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,magnesium (different salts in combination),,,,,,,,,,,,,,,,,
+Concept,A12CD,Fluoride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fluoride,,,,,,,,,,,,,,,,,
+Concept,A12CD01,sodium fluoride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium fluoride,,,,,,,,,,,,,,,,,
+Concept,A12CD02,sodium monofluorophosphate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium monofluorophosphate,,,,,,,,,,,,,,,,,
+Concept,A12CD51,"fluoride, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"fluoride, combinations",,,,,,,,,,,,,,,,,
+Concept,A12CE,Selenium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Selenium,,,,,,,,,,,,,,,,,
+Concept,A12CE01,sodium selenate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium selenate,,,,,,,,,,,,,,,,,
+Concept,A12CE02,sodium selenite,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium selenite,,,,,,,,,,,,,,,,,
+Concept,A12CX,Other mineral products,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other mineral products,,,,,,,,,,,,,,,,,
+Concept,A13,TONICS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TONICS,,,,,,,,,,,,,,,,,
+Concept,A13A,TONICS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TONICS,,,,,,,,,,,,,,,,,
+Concept,A14,ANABOLIC AGENTS FOR SYSTEMIC USE,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANABOLIC AGENTS FOR SYSTEMIC USE,,,,,,,,,,,,,,,,,
+Concept,A14A,ANABOLIC STEROIDS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANABOLIC STEROIDS,,,,,,,,,,,,,,,,,
+Concept,A14AA,Androstan derivatives,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Androstan derivatives,,,,,,,,,,,,,,,,,
+Concept,A14AA01,androstanolone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,androstanolone,,,,,,,,,,,,,,,,,
+Concept,A14AA02,stanozolol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stanozolol,,,,,,,,,,,,,,,,,
+Concept,A14AA03,metandienone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metandienone,,,,,,,,,,,,,,,,,
+Concept,A14AA04,metenolone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metenolone,,,,,,,,,,,,,,,,,
+Concept,A14AA05,oxymetholone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oxymetholone,,,,,,,,,,,,,,,,,
+Concept,A14AA06,quinbolone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,quinbolone,,,,,,,,,,,,,,,,,
+Concept,A14AA07,prasterone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prasterone,,,,,,,,,,,,,,,,,
+Concept,A14AA08,oxandrolone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oxandrolone,,,,,,,,,,,,,,,,,
+Concept,A14AA09,norethandrolone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,norethandrolone,,,,,,,,,,,,,,,,,
+Concept,A14AB,Estren derivatives,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Estren derivatives,,,,,,,,,,,,,,,,,
+Concept,A14AB01,nandrolone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nandrolone,,,,,,,,,,,,,,,,,
+Concept,A14AB02,ethylestrenol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ethylestrenol,,,,,,,,,,,,,,,,,
+Concept,A14AB03,oxabolone cipionate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oxabolone cipionate,,,,,,,,,,,,,,,,,
+Concept,A14B,OTHER ANABOLIC AGENTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OTHER ANABOLIC AGENTS,,,,,,,,,,,,,,,,,
+Concept,A15,APPETITE STIMULANTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,APPETITE STIMULANTS,,,,,,,,,,,,,,,,,
+Concept,A16,OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS,,,,,,,,,,,,,,,,,
+Concept,A16A,OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS,,,,,,,,,,,,,,,,,
+Concept,A16AA,Amino acids and derivatives,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Amino acids and derivatives,,,,,,,,,,,,,,,,,
+Concept,A16AA01,levocarnitine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,levocarnitine,,,,,,,,,,,,,,,,,
+Concept,A16AA02,ademetionine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ademetionine,,,,,,,,,,,,,,,,,
+Concept,A16AA03,glutamine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glutamine,,,,,,,,,,,,,,,,,
+Concept,A16AA04,mercaptamine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mercaptamine,,,,,,,,,,,,,,,,,
+Concept,A16AA05,carglumic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,carglumic acid,,,,,,,,,,,,,,,,,
+Concept,A16AA06,betaine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betaine,,,,,,,,,,,,,,,,,
+Concept,A16AA07,metreleptin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metreleptin,,,,,,,,,,,,,,,,,
+Concept,A16AB,Enzymes,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enzymes,,,,,,,,,,,,,,,,,
+Concept,A16AB01,alglucerase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alglucerase,,,,,,,,,,,,,,,,,
+Concept,A16AB02,imiglucerase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,imiglucerase,,,,,,,,,,,,,,,,,
+Concept,A16AB03,agalsidase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agalsidase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB04,agalsidase beta,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agalsidase beta,,,,,,,,,,,,,,,,,
+Concept,A16AB05,laronidase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,laronidase,,,,,,,,,,,,,,,,,
+Concept,A16AB06,sacrosidase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sacrosidase,,,,,,,,,,,,,,,,,
+Concept,A16AB07,alglucosidase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alglucosidase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB08,galsulfase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,galsulfase,,,,,,,,,,,,,,,,,
+Concept,A16AB09,idursulfase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,idursulfase,,,,,,,,,,,,,,,,,
+Concept,A16AB10,velaglucerase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,velaglucerase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB11,taliglucerase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,taliglucerase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB12,elosulfase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,elosulfase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB13,asfotase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,asfotase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB14,sebelipase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sebelipase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB15,velmanase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,velmanase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB16,idursulfase beta,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,idursulfase beta,,,,,,,,,,,,,,,,,
+Concept,A16AB17,cerliponase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cerliponase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB18,vestronidase alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vestronidase alfa,,,,,,,,,,,,,,,,,
+Concept,A16AB19,pegvaliase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pegvaliase,,,,,,,,,,,,,,,,,
+Concept,A16AX,Various alimentary tract and metabolism products,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Various alimentary tract and metabolism products,,,,,,,,,,,,,,,,,
+Concept,A16AX01,thioctic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thioctic acid,,,,,,,,,,,,,,,,,
+Concept,A16AX02,anethole trithione,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,anethole trithione,,,,,,,,,,,,,,,,,
+Concept,A16AX03,sodium phenylbutyrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium phenylbutyrate,,,,,,,,,,,,,,,,,
+Concept,A16AX04,nitisinone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nitisinone,,,,,,,,,,,,,,,,,
+Concept,A16AX05,zinc acetate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zinc acetate,,,,,,,,,,,,,,,,,
+Concept,A16AX06,miglustat,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,miglustat,,,,,,,,,,,,,,,,,
+Concept,A16AX07,sapropterin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sapropterin,,,,,,,,,,,,,,,,,
+Concept,A16AX08,teduglutide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,teduglutide,,,,,,,,,,,,,,,,,
+Concept,A16AX09,glycerol phenylbutyrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glycerol phenylbutyrate,,,,,,,,,,,,,,,,,
+Concept,A16AX10,eliglustat,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,eliglustat,,,,,,,,,,,,,,,,,
+Concept,A16AX11,sodium benzoate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium benzoate,,,,,,,,,,,,,,,,,
+Concept,A16AX12,trientine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,trientine,,,,,,,,,,,,,,,,,
+Concept,A16AX13,uridine triacetate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,uridine triacetate,,,,,,,,,,,,,,,,,
+Concept,A16AX14,migalastat,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,migalastat,,,,,,,,,,,,,,,,,
+Concept,A16AX15,telotristat,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,telotristat,,,,,,,,,,,,,,,,,
+Concept,A16AX16,givosiran,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,givosiran,,,,,,,,,,,,,,,,,
+Concept,A16AX17,triheptanoin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,triheptanoin,,,,,,,,,,,,,,,,,
+Concept,A16AX18,lumasiran,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lumasiran,,,,,,,,,,,,,,,,,
+Concept,A16AX30,sodium benzoate and sodium phenylacetate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium benzoate and sodium phenylacetate,,,,,,,,,,,,,,,,,
+Concept,B,BLOOD AND BLOOD FORMING ORGANS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BLOOD AND BLOOD FORMING ORGANS,,,,,,,,,,,,,,,,,
+Concept,B01,ANTITHROMBOTIC AGENTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTITHROMBOTIC AGENTS,,,,,,,,,,,,,,,,,
+Concept,B01A,ANTITHROMBOTIC AGENTS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTITHROMBOTIC AGENTS,,,,,,,,,,,,,,,,,
+Concept,B01AA,Vitamin K antagonists,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin K antagonists,,,,,,,,,,,,,,,,,
+Concept,B01AA01,dicoumarol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dicoumarol,,,,,,,,,,,,,,,,,
+Concept,B01AA02,phenindione,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phenindione,,,,,,,,,,,,,,,,,
+Concept,B01AA03,warfarin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,warfarin,,,,,,,,,,,,,,,,,
+Concept,B01AA04,phenprocoumon,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phenprocoumon,,,,,,,,,,,,,,,,,
+Concept,B01AA07,acenocoumarol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acenocoumarol,,,,,,,,,,,,,,,,,
+Concept,B01AA08,ethyl biscoumacetate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ethyl biscoumacetate,,,,,,,,,,,,,,,,,
+Concept,B01AA09,clorindione,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,clorindione,,,,,,,,,,,,,,,,,
+Concept,B01AA10,diphenadione,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,diphenadione,,,,,,,,,,,,,,,,,
+Concept,B01AA11,tioclomarol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tioclomarol,,,,,,,,,,,,,,,,,
+Concept,B01AA12,fluindione,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fluindione,,,,,,,,,,,,,,,,,
+Concept,B01AB,Heparin group,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heparin group,,,,,,,,,,,,,,,,,
+Concept,B01AB01,heparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,heparin,,,,,,,,,,,,,,,,,
+Concept,B01AB02,antithrombin III,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,antithrombin III,,,,,,,,,,,,,,,,,
+Concept,B01AB04,dalteparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dalteparin,,,,,,,,,,,,,,,,,
+Concept,B01AB05,enoxaparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,enoxaparin,,,,,,,,,,,,,,,,,
+Concept,B01AB06,nadroparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nadroparin,,,,,,,,,,,,,,,,,
+Concept,B01AB07,parnaparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,parnaparin,,,,,,,,,,,,,,,,,
+Concept,B01AB08,reviparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,reviparin,,,,,,,,,,,,,,,,,
+Concept,B01AB09,danaparoid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,danaparoid,,,,,,,,,,,,,,,,,
+Concept,B01AB10,tinzaparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tinzaparin,,,,,,,,,,,,,,,,,
+Concept,B01AB11,sulodexide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sulodexide,,,,,,,,,,,,,,,,,
+Concept,B01AB12,bemiparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bemiparin,,,,,,,,,,,,,,,,,
+Concept,B01AB51,"heparin, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"heparin, combinations",,,,,,,,,,,,,,,,,
+Concept,B01AC,Platelet aggregation inhibitors excl. heparin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Platelet aggregation inhibitors excl. heparin,,,,,,,,,,,,,,,,,
+Concept,B01AC01,ditazole,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ditazole,,,,,,,,,,,,,,,,,
+Concept,B01AC02,cloricromen,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cloricromen,,,,,,,,,,,,,,,,,
+Concept,B01AC03,picotamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,picotamide,,,,,,,,,,,,,,,,,
+Concept,B01AC04,clopidogrel,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,clopidogrel,,,,,,,,,,,,,,,,,
+Concept,B01AC05,ticlopidine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ticlopidine,,,,,,,,,,,,,,,,,
+Concept,B01AC06,acetylsalicylic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acetylsalicylic acid,,,,,,,,,,,,,,,,,
+Concept,B01AC07,dipyridamole,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dipyridamole,,,,,,,,,,,,,,,,,
+Concept,B01AC08,carbasalate calcium,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,carbasalate calcium,,,,,,,,,,,,,,,,,
+Concept,B01AC09,epoprostenol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,epoprostenol,,,,,,,,,,,,,,,,,
+Concept,B01AC10,indobufen,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,indobufen,,,,,,,,,,,,,,,,,
+Concept,B01AC11,iloprost,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iloprost,,,,,,,,,,,,,,,,,
+Concept,B01AC13,abciximab,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,abciximab,,,,,,,,,,,,,,,,,
+Concept,B01AC15,aloxiprin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aloxiprin,,,,,,,,,,,,,,,,,
+Concept,B01AC16,eptifibatide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,eptifibatide,,,,,,,,,,,,,,,,,
+Concept,B01AC17,tirofiban,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tirofiban,,,,,,,,,,,,,,,,,
+Concept,B01AC18,triflusal,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,triflusal,,,,,,,,,,,,,,,,,
+Concept,B01AC19,beraprost,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beraprost,,,,,,,,,,,,,,,,,
+Concept,B01AC21,treprostinil,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,treprostinil,,,,,,,,,,,,,,,,,
+Concept,B01AC22,prasugrel,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prasugrel,,,,,,,,,,,,,,,,,
+Concept,B01AC23,cilostazol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cilostazol,,,,,,,,,,,,,,,,,
+Concept,B01AC24,ticagrelor,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ticagrelor,,,,,,,,,,,,,,,,,
+Concept,B01AC25,cangrelor,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cangrelor,,,,,,,,,,,,,,,,,
+Concept,B01AC26,vorapaxar,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vorapaxar,,,,,,,,,,,,,,,,,
+Concept,B01AC27,selexipag,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,selexipag,,,,,,,,,,,,,,,,,
+Concept,B01AC30,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,B01AC56,"acetylsalicylic acid, combinations with proton pump inhibitors",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"acetylsalicylic acid, combinations with proton pump inhibitors",,,,,,,,,,,,,,,,,
+Concept,B01AD,Enzymes,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enzymes,,,,,,,,,,,,,,,,,
+Concept,B01AD01,streptokinase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,streptokinase,,,,,,,,,,,,,,,,,
+Concept,B01AD02,alteplase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alteplase,,,,,,,,,,,,,,,,,
+Concept,B01AD03,anistreplase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,anistreplase,,,,,,,,,,,,,,,,,
+Concept,B01AD04,urokinase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,urokinase,,,,,,,,,,,,,,,,,
+Concept,B01AD05,fibrinolysin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fibrinolysin,,,,,,,,,,,,,,,,,
+Concept,B01AD06,brinase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,brinase,,,,,,,,,,,,,,,,,
+Concept,B01AD07,reteplase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,reteplase,,,,,,,,,,,,,,,,,
+Concept,B01AD08,saruplase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,saruplase,,,,,,,,,,,,,,,,,
+Concept,B01AD09,ancrod,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ancrod,,,,,,,,,,,,,,,,,
+Concept,B01AD10,drotrecogin alfa (activated),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drotrecogin alfa (activated),,,,,,,,,,,,,,,,,
+Concept,B01AD11,tenecteplase,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tenecteplase,,,,,,,,,,,,,,,,,
+Concept,B01AD12,protein C,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,protein C,,,,,,,,,,,,,,,,,
+Concept,B01AE,Direct thrombin inhibitors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Direct thrombin inhibitors,,,,,,,,,,,,,,,,,
+Concept,B01AE01,desirudin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,desirudin,,,,,,,,,,,,,,,,,
+Concept,B01AE02,lepirudin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lepirudin,,,,,,,,,,,,,,,,,
+Concept,B01AE03,argatroban,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,argatroban,,,,,,,,,,,,,,,,,
+Concept,B01AE04,melagatran,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,melagatran,,,,,,,,,,,,,,,,,
+Concept,B01AE05,ximelagatran,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ximelagatran,,,,,,,,,,,,,,,,,
+Concept,B01AE06,bivalirudin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bivalirudin,,,,,,,,,,,,,,,,,
+Concept,B01AE07,dabigatran etexilate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dabigatran etexilate,,,,,,,,,,,,,,,,,
+Concept,B01AF,Direct factor Xa inhibitors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Direct factor Xa inhibitors,,,,,,,,,,,,,,,,,
+Concept,B01AF01,rivaroxaban,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rivaroxaban,,,,,,,,,,,,,,,,,
+Concept,B01AF02,apixaban,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,apixaban,,,,,,,,,,,,,,,,,
+Concept,B01AF03,edoxaban,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,edoxaban,,,,,,,,,,,,,,,,,
+Concept,B01AF04,betrixaban,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betrixaban,,,,,,,,,,,,,,,,,
+Concept,B01AX,Other antithrombotic agents,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other antithrombotic agents,,,,,,,,,,,,,,,,,
+Concept,B01AX01,defibrotide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,defibrotide,,,,,,,,,,,,,,,,,
+Concept,B01AX04,dermatan sulfate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dermatan sulfate,,,,,,,,,,,,,,,,,
+Concept,B01AX05,fondaparinux,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fondaparinux,,,,,,,,,,,,,,,,,
+Concept,B01AX07,caplacizumab,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,caplacizumab,,,,,,,,,,,,,,,,,
+Concept,B02,ANTIHEMORRHAGICS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTIHEMORRHAGICS,,,,,,,,,,,,,,,,,
+Concept,B02A,ANTIFIBRINOLYTICS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTIFIBRINOLYTICS,,,,,,,,,,,,,,,,,
+Concept,B02AA,Amino acids,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Amino acids,,,,,,,,,,,,,,,,,
+Concept,B02AA01,aminocaproic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aminocaproic acid,,,,,,,,,,,,,,,,,
+Concept,B02AA02,tranexamic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tranexamic acid,,,,,,,,,,,,,,,,,
+Concept,B02AA03,aminomethylbenzoic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aminomethylbenzoic acid,,,,,,,,,,,,,,,,,
+Concept,B02AB,Proteinase inhibitors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Proteinase inhibitors,,,,,,,,,,,,,,,,,
+Concept,B02AB01,aprotinin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aprotinin,,,,,,,,,,,,,,,,,
+Concept,B02AB02,alfa1 antitrypsin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alfa1 antitrypsin,,,,,,,,,,,,,,,,,
+Concept,B02AB04,camostat,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,camostat,,,,,,,,,,,,,,,,,
+Concept,B02AB05,ulinastatin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ulinastatin,,,,,,,,,,,,,,,,,
+Concept,B02B,VITAMIN K AND OTHER HEMOSTATICS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VITAMIN K AND OTHER HEMOSTATICS,,,,,,,,,,,,,,,,,
+Concept,B02BA,Vitamin K,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin K,,,,,,,,,,,,,,,,,
+Concept,B02BA01,phytomenadione,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phytomenadione,,,,,,,,,,,,,,,,,
+Concept,B02BA02,menadione,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,menadione,,,,,,,,,,,,,,,,,
+Concept,B02BB,Fibrinogen,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fibrinogen,,,,,,,,,,,,,,,,,
+Concept,B02BB01,"fibrinogen, human",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"fibrinogen, human",,,,,,,,,,,,,,,,,
+Concept,B02BC,Local hemostatics,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Local hemostatics,,,,,,,,,,,,,,,,,
+Concept,B02BC01,absorbable gelatin sponge,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,absorbable gelatin sponge,,,,,,,,,,,,,,,,,
+Concept,B02BC02,oxidized cellulose,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oxidized cellulose,,,,,,,,,,,,,,,,,
+Concept,B02BC03,tetragalacturonic acid hydroxymethylester,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tetragalacturonic acid hydroxymethylester,,,,,,,,,,,,,,,,,
+Concept,B02BC05,adrenalone,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,adrenalone,,,,,,,,,,,,,,,,,
+Concept,B02BC06,thrombin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thrombin,,,,,,,,,,,,,,,,,
+Concept,B02BC07,collagen,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,collagen,,,,,,,,,,,,,,,,,
+Concept,B02BC08,calcium alginate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcium alginate,,,,,,,,,,,,,,,,,
+Concept,B02BC09,epinephrine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,epinephrine,,,,,,,,,,,,,,,,,
+Concept,B02BC30,combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,combinations,,,,,,,,,,,,,,,,,
+Concept,B02BD,Blood coagulation factors,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blood coagulation factors,,,,,,,,,,,,,,,,,
+Concept,B02BD01,"coagulation factor IX, II, VII and X in combination",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"coagulation factor IX, II, VII and X in combination",,,,,,,,,,,,,,,,,
+Concept,B02BD02,coagulation factor VIII,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coagulation factor VIII,,,,,,,,,,,,,,,,,
+Concept,B02BD03,factor VIII inhibitor bypassing activity,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,factor VIII inhibitor bypassing activity,,,,,,,,,,,,,,,,,
+Concept,B02BD04,coagulation factor IX,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coagulation factor IX,,,,,,,,,,,,,,,,,
+Concept,B02BD05,coagulation factor VII,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coagulation factor VII,,,,,,,,,,,,,,,,,
+Concept,B02BD06,von Willebrand factor and coagulation factor VIII in combination,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,von Willebrand factor and coagulation factor VIII in combination,,,,,,,,,,,,,,,,,
+Concept,B02BD07,coagulation factor XIII,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coagulation factor XIII,,,,,,,,,,,,,,,,,
+Concept,B02BD08,coagulation factor VIIa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coagulation factor VIIa,,,,,,,,,,,,,,,,,
+Concept,B02BD10,von Willebrand factor,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,von Willebrand factor,,,,,,,,,,,,,,,,,
+Concept,B02BD11,catridecacog,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catridecacog,,,,,,,,,,,,,,,,,
+Concept,B02BD13,coagulation factor X,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,coagulation factor X,,,,,,,,,,,,,,,,,
+Concept,B02BD14,susoctocog alfa,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,susoctocog alfa,,,,,,,,,,,,,,,,,
+Concept,B02BD30,thrombin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thrombin,,,,,,,,,,,,,,,,,
+Concept,B02BX,Other systemic hemostatics,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other systemic hemostatics,,,,,,,,,,,,,,,,,
+Concept,B02BX01,etamsylate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,etamsylate,,,,,,,,,,,,,,,,,
+Concept,B02BX02,carbazochrome,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,carbazochrome,,,,,,,,,,,,,,,,,
+Concept,B02BX03,batroxobin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,batroxobin,,,,,,,,,,,,,,,,,
+Concept,B02BX04,romiplostim,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,romiplostim,,,,,,,,,,,,,,,,,
+Concept,B02BX05,eltrombopag,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,eltrombopag,,,,,,,,,,,,,,,,,
+Concept,B02BX06,emicizumab,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,emicizumab,,,,,,,,,,,,,,,,,
+Concept,B02BX07,lusutrombopag,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lusutrombopag,,,,,,,,,,,,,,,,,
+Concept,B02BX08,avatrombopag,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,avatrombopag,,,,,,,,,,,,,,,,,
+Concept,B02BX09,fostamatinib,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fostamatinib,,,,,,,,,,,,,,,,,
+Concept,B03,ANTIANEMIC PREPARATIONS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTIANEMIC PREPARATIONS,,,,,,,,,,,,,,,,,
+Concept,B03A,IRON PREPARATIONS,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IRON PREPARATIONS,,,,,,,,,,,,,,,,,
+Concept,B03AA,"Iron bivalent, oral preparations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Iron bivalent, oral preparations",,,,,,,,,,,,,,,,,
+Concept,B03AA01,ferrous glycine sulfate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous glycine sulfate,,,,,,,,,,,,,,,,,
+Concept,B03AA02,ferrous fumarate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous fumarate,,,,,,,,,,,,,,,,,
+Concept,B03AA03,ferrous gluconate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous gluconate,,,,,,,,,,,,,,,,,
+Concept,B03AA04,ferrous carbonate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous carbonate,,,,,,,,,,,,,,,,,
+Concept,B03AA05,ferrous chloride,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous chloride,,,,,,,,,,,,,,,,,
+Concept,B03AA06,ferrous succinate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous succinate,,,,,,,,,,,,,,,,,
+Concept,B03AA07,ferrous sulfate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous sulfate,,,,,,,,,,,,,,,,,
+Concept,B03AA08,ferrous tartrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous tartrate,,,,,,,,,,,,,,,,,
+Concept,B03AA09,ferrous aspartate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous aspartate,,,,,,,,,,,,,,,,,
+Concept,B03AA10,ferrous ascorbate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous ascorbate,,,,,,,,,,,,,,,,,
+Concept,B03AA11,ferrous iodine,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous iodine,,,,,,,,,,,,,,,,,
+Concept,B03AA12,ferrous sodium citrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous sodium citrate,,,,,,,,,,,,,,,,,
+Concept,B03AB,"Iron trivalent, oral preparations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Iron trivalent, oral preparations",,,,,,,,,,,,,,,,,
+Concept,B03AB01,ferric sodium citrate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferric sodium citrate,,,,,,,,,,,,,,,,,
+Concept,B03AB02,saccharated iron oxide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,saccharated iron oxide,,,,,,,,,,,,,,,,,
+Concept,B03AB03,sodium feredetate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sodium feredetate,,,,,,,,,,,,,,,,,
+Concept,B03AB04,ferric hydroxide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferric hydroxide,,,,,,,,,,,,,,,,,
+Concept,B03AB05,ferric oxide polymaltose complexes,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferric oxide polymaltose complexes,,,,,,,,,,,,,,,,,
+Concept,B03AB07,chondroitin sulfate-iron complex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chondroitin sulfate-iron complex,,,,,,,,,,,,,,,,,
+Concept,B03AB08,ferric acetyl transferrin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferric acetyl transferrin,,,,,,,,,,,,,,,,,
+Concept,B03AB09,ferric proteinsuccinylate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferric proteinsuccinylate,,,,,,,,,,,,,,,,,
+Concept,B03AB10,ferric maltol,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferric maltol,,,,,,,,,,,,,,,,,
+Concept,B03AC,"Iron, parenteral preparations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Iron, parenteral preparations",,,,,,,,,,,,,,,,,
+Concept,B03AD,Iron in combination with folic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Iron in combination with folic acid,,,,,,,,,,,,,,,,,
+Concept,B03AD01,ferrous amino acid complex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous amino acid complex,,,,,,,,,,,,,,,,,
+Concept,B03AD02,ferrous fumarate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous fumarate,,,,,,,,,,,,,,,,,
+Concept,B03AD03,ferrous sulfate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous sulfate,,,,,,,,,,,,,,,,,
+Concept,B03AD04,ferric oxide polymaltose complexes,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferric oxide polymaltose complexes,,,,,,,,,,,,,,,,,
+Concept,B03AD05,ferrous gluconate,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ferrous gluconate,,,,,,,,,,,,,,,,,
+Concept,B03AE,Iron in other combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Iron in other combinations,,,,,,,,,,,,,,,,,
+Concept,B03AE01,"iron, vitamin B12 and folic acid",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"iron, vitamin B12 and folic acid",,,,,,,,,,,,,,,,,
+Concept,B03AE02,"iron, multivitamins and folic acid",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"iron, multivitamins and folic acid",,,,,,,,,,,,,,,,,
+Concept,B03AE03,iron and multivitamins,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iron and multivitamins,,,,,,,,,,,,,,,,,
+Concept,B03AE04,"iron, multivitamins and minerals",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"iron, multivitamins and minerals",,,,,,,,,,,,,,,,,
+Concept,B03AE10,various combinations,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,various combinations,,,,,,,,,,,,,,,,,
+Concept,B03B,VITAMIN B12 AND FOLIC ACID,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VITAMIN B12 AND FOLIC ACID,,,,,,,,,,,,,,,,,
+Concept,B03BA,Vitamin B12 (cyanocobalamin and analogues),,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitamin B12 (cyanocobalamin and analogues),,,,,,,,,,,,,,,,,
+Concept,B03BA01,cyanocobalamin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cyanocobalamin,,,,,,,,,,,,,,,,,
+Concept,B03BA02,cyanocobalamin tannin complex,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cyanocobalamin tannin complex,,,,,,,,,,,,,,,,,
+Concept,B03BA03,hydroxocobalamin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hydroxocobalamin,,,,,,,,,,,,,,,,,
+Concept,B03BA04,cobamamide,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cobamamide,,,,,,,,,,,,,,,,,
+Concept,B03BA05,mecobalamin,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mecobalamin,,,,,,,,,,,,,,,,,
+Concept,B03BA51,"cyanocobalamin, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"cyanocobalamin, combinations",,,,,,,,,,,,,,,,,
+Concept,B03BA53,"hydroxocobalamin, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"hydroxocobalamin, combinations",,,,,,,,,,,,,,,,,
+Concept,B03BB,Folic acid and derivatives,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Folic acid and derivatives,,,,,,,,,,,,,,,,,
+Concept,B03BB01,folic acid,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,folic acid,,,,,,,,,,,,,,,,,
+Concept,B03BB51,"folic acid, combinations",,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"folic acid, combinations",,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,por,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
