@@ -1,0 +1,34 @@
+resource_type,id,name,company,website,location,attr:use,public_access,logo_url,description,text,full_name,owner_id,owner_type,source_type,default_locale,supported_locales,custom_validation_schema,external_id,canonical_url,hierarchy_meaning,hierarchy_root_url,internal_reference_id,meta,collection_reference,publisher,purpose,copyright,revision_date,experimental,jurisdiction,content_type,case_sensitive,compositional,version_needed,external_id,retired,datatype,concept_class,source,description[1],description[2],name[1],name_type[1],name_type,name_locale
+Concept,AUTH,Código de Autorização,,,pt,procedure,,,Identificador da permissão para a realização de um procedimento.,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRA,Número de inscrição no Conselho Regional de Administração (CRA),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRESS,Número de inscrição no Conselho Regional de Serviço Social (CRESS),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRB,Número de inscrição no Conselho Regional de Biblioteconomia (CRB),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRC,Número de inscrição no Conselho Regional de Contabilidade (CRC),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRECI,Número de inscrição no Conselho Regional de Corretores de Imóveis (CRECI),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACORECON,Número de inscrição no Conselho Regional de Economia (CORECON),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACREA,Número de inscrição no Conselho Regional de Engenharia e Agronomia (CREA),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACONFRE,Número de inscrição no Conselho Regional de Estatística (CONRE),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRF,Número de inscrição no Conselho Regional de Farmácia (CRF),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACREFITO,Número de inscrição no Conselho Regional de Fisioterapia e Terapia Ocupacional (CREFITO),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRMV,Número de inscrição no Conselho Regional de Medicina Veterinária (CRMV),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRN,Número de inscrição no Conselho Regional de Nutrição (CRN),,,pt,procedure,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACONRERP,Número de inscrição no Conselho Regional de Reçações Públicas (CONRERP),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRP,Número de inscrição no Conselho Regional de Psicologia (CRP),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRQ,Número de inscrição no Conselho Regional de Química (CRQ),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACORE,Número de inscrição no Conselho Regional de Representantes Comerciais (CORE),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACREF,Número de inscrição no Conselho Regional de Educação Física (CREF),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACAU,Número de inscrição no Conselho Regional de Arquitetura e Urbanismo (CAU),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRBIO,Número de inscrição no Conselho Regional de Biologia (CRBio),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRBM,Número da inscrição no Conselho Regional de Biomedicina (CRBM),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRBM,Número da inscrição no Conselho Regional de Biomedicina (CRBM),,,pt,procedure,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRFA,Número da inscrição no Conselho Regional de Fonoaudiologia (CRFa/CREFONO),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRTR,Número da inscrição no Conselho Regional de Técnicos em Radiologia (CRTR),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACRT,Número da inscrição no Conselho Regional dos Técnicos Industriais (CRT),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRAOAB,Número de inscrição na Ordem dos Advogados do BRAasil (OAB),,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRAIDMIL,Número da Identidade Militar,,,pt,patient,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRAIDFUNC,Número da Identidade Funcional,,,pt,procedure,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+Concept,BRACNPJ,Número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ),,,pt,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+,,,,,pt,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+,,,,,pt,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+,,,,,pt,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,Text,Misc,BRTipoIdentificador,,,,,Fully Specified,pt
+,,,,,,,,,,,,MS,Organization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
