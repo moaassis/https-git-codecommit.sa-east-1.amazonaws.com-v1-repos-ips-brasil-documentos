@@ -1,1 +1,9 @@
 Teste commit AWS
+
+
+
+SELECT NU_VPID, NO_NM, COUNT(*) AS count_of_duplicates
+FROM tb_vmp
+WHERE st_registro_ativo = 'active'
+GROUP BY  NU_VPID
+HAVING COUNT(*) > 1;
